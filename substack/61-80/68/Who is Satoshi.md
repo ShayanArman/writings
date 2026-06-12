@@ -1,6 +1,10 @@
 Who is Satoshi
 the Filter
 
+![Who is Satoshi?](who-is-satoshi.jpg)
+
+*Who is Satoshi?*
+
 Upon analysis of the Bitcoin white paper, and my own travels, I have a few statements on the identity of Satoshi.
 
 I will outline the properties P below, and create a filter function that when applied, will produce a list of candidates for the role of Satoshi.

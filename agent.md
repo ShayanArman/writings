@@ -12,10 +12,10 @@ For each post import, ask for:
 Example user input:
 
 ```text
-next 51 https://shayanarman.substack.com/p/example-post
+next 61 https://shayanarman.substack.com/p/example-post
 ```
 
-That means: import the URL into `substack/41-60/51`.
+That means: import the URL into `substack/61-80/61`.
 
 ## Folder Pattern
 
@@ -24,11 +24,12 @@ Posts are grouped by ranges:
 - `substack/1-20/<number>/`
 - `substack/21-40/<number>/`
 - `substack/41-60/<number>/`
+- `substack/61-80/<number>/`
 
 For the current batch, use:
 
 ```text
-substack/41-60/<number>/
+substack/61-80/<number>/
 ```
 
 The importer creates the destination folder if it does not exist.
@@ -91,75 +92,73 @@ Preferred: run from the `substack` directory.
 
 ```bash
 cd /Users/shayanarman/projects/other/writings/substack
-scripts/import_substack_post.py "https://shayanarman.substack.com/p/example-post" "41-60/51"
+scripts/import_substack_post.py "https://shayanarman.substack.com/p/example-post" "61-80/61"
 ```
 
 You can also run from the repo root:
 
 ```bash
 cd /Users/shayanarman/projects/other/writings
-substack/scripts/import_substack_post.py "https://shayanarman.substack.com/p/example-post" "substack/41-60/51"
+substack/scripts/import_substack_post.py "https://shayanarman.substack.com/p/example-post" "substack/61-80/61"
 ```
 
 The command should print something like:
 
 ```text
-Wrote 41-60/51/Post Title.md
+Wrote 61-80/61/Post Title.md
 ```
 
 If the script says the Markdown file already exists, do not overwrite it unless the user clearly asks. Use `--overwrite` only when replacing the existing file is intentional.
 
 ## Network Access
 
-The script fetches Substack over the network. If the sandbox blocks DNS/network access, rerun the exact command with escalated network permission.
+The import script fetches Substack over the network. If the sandbox blocks DNS/network access, rerun the exact command with escalated network permission.
 
-The approved command prefix may already exist:
+The approved command prefixes may already exist:
 
 ```text
 scripts/import_substack_post.py
+scripts/verify_substack_import.py
 ```
 
 ## How To Check The Work
 
-After every import, verify the result before replying.
+After every import, verify the result before replying. Use the verification script first, then do any manual follow-up it asks for.
 
 From `/Users/shayanarman/projects/other/writings/substack`, run:
 
 ```bash
-ls -la "41-60/51"
+scripts/verify_substack_import.py "61-80/61" --url "https://shayanarman.substack.com/p/example-post"
 ```
 
-Then read the imported file:
+You can also run it from the repo root:
 
 ```bash
-sed -n '1,160p' "41-60/51/Post Title.md"
+substack/scripts/verify_substack_import.py "substack/61-80/61" --repo-root "." --url "https://shayanarman.substack.com/p/example-post"
 ```
 
-If the post is longer, read more:
+The verifier performs the common repeatable checks:
 
-```bash
-sed -n '161,320p' "41-60/51/Post Title.md"
-tail -40 "41-60/51/Post Title.md"
+- Step 1: resolve the destination folder or Markdown file.
+- Step 2: confirm the Markdown file exists, is non-empty, has a title line, and reports line/byte counts.
+- Step 3: scan for raw Substack HTML, JSON, script content, network errors, and traceback text.
+- Step 4: when `--url` is provided, compare source title/subtitle and report image/figure/caption counts.
+- Step 5: print `git status --short`.
+- Step 6: return a pass/fail result with warnings.
+
+If the verifier warns that the source body contains media, manually inspect the live/source post and add the correct placeholders:
+
+```text
+<image-name: caption `Caption text here.`>
 ```
 
-Check these things:
+or:
 
-- The destination folder number is correct.
-- The Markdown file name matches the Substack post title.
-- The file is not empty.
-- The first line is the title.
-- The subtitle, if present, is on the second text line.
-- The body text is readable plain text.
-- There is no raw Substack HTML, no JSON, no script content, and no network error text in the file.
-- No images were downloaded unless the user separately asked for images.
-
-Also check Git status:
-
-```bash
-git status --short
+```text
+<image-name>
 ```
 
-Confirm the new/modified files match the user's request. Do not stage or commit unless the user asks.
+If the verifier fails, fix the import before replying. If it passes with warnings, mention only warnings that matter to the user. Confirm the new/modified files match the user's request. Do not stage or commit unless the user asks.
 
 Note: `.DS_Store` files may appear in Git status if they were already tracked before `.gitignore` ignored them. Do not touch them unless the user asks.
 

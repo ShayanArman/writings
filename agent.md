@@ -80,11 +80,29 @@ Example:
 
 Put the placeholder where the image appears in the Substack post. The placeholder represents the image and its caption; do not add or download image files unless the user explicitly asks.
 
+When the user explicitly provides a local image file for a post, use the local file instead of the placeholder. Put the image where it appears in the Substack post, then add the source caption below it in italics:
+
+```text
+![Caption text](image-filename.jpg)
+
+*Caption text*
+```
+
+If the source image has no caption, use an empty-alt local image reference:
+
+```text
+![](image-filename.jpg)
+```
+
+Only use this local image format when the user has provided the image file or clearly asked to embed/download an image. Otherwise, keep using placeholders and do not download media.
+
 Important: older imports may have Substack image captions as plain text body lines. When adding a placeholder for an image caption, remove the duplicate plain caption text if it only came from the image caption. Keep repeated text only when the live Substack post also has it as separate body text.
 
 Post 51 (`substack/41-60/51/On Work.md`) is the pattern to follow: image placeholders stand in for the image/caption, while any remaining repeated lines are body text that also exists in the original.
 
 Post 48 (`substack/41-60/48/Intrepid, to the Stars.md`) is the pattern to follow for images without captions: use a bare placeholder like `<sam-altman>`.
+
+Post 64 (`substack/61-80/64/People don't appreciate this enough.md`) is the pattern to follow when the user provides a local image file: use a Markdown image reference like `![Queenstown New Zealand](mountain.jpg)` followed by `*Queenstown New Zealand*`.
 
 ## How To Run It
 

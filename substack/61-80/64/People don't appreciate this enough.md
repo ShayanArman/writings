@@ -15,7 +15,9 @@ Buy the House
 
 Let’s assume that we know S, L and P. What is the answer?
 
-<queenstown-new-zealand: caption `Queenstown New Zealand`>
+![Queenstown New Zealand](mountain.jpg)
+
+*Queenstown New Zealand*
 
 We have to have a way to get the answer, to calculate the result. This is a logical problem, and either we have a human being do it, or we get some sort of a machine to calculate the result. You might say, why would you need a machine for something so simple?
 

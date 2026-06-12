@@ -13,8 +13,6 @@ When our entire social circles are asleep and fully consumed, we’re meant to s
 
 <nature-lover: caption `In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?`>
 
-In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?
-
 I of course do not espouse leaving consumerism and becoming a God loving Monk - in no way at all. But at least having a spirit of questioning, and appreciating our lives. That there could be a deeper meaning, or purpose - other than buying, consuming, and comparing at dinner parties.
 
 Once we get past 25, the ‘teaching’ is so absolutely ingrained, that conversations with adults become increasingly tedious in the Western World. “Congrats on the promotion”, “on the new car”, “on that vacation”. If we even get to the point of conversation, where our connection is now reduced to ‘Sean loved your post’. If this isn’t a reduction, then what is it?

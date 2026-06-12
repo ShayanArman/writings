@@ -31,9 +31,9 @@
   "61-80": {
     "posts_list": "61-80/posts-list.json",
     "status": "in_progress",
-    "imported_count": 14,
+    "imported_count": 13,
     "remaining": [
-      "Import posts 75-80 when ready."
+      "Import posts 74-80 when ready."
     ],
     "last_updated": "2026-06-12"
   },
@@ -186,8 +186,8 @@
     "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "URLs recorded for posts 401-403; import posts 401-403 when ready.",
-      "Add URLs for posts 404-420 as they become available."
+      "URLs recorded for post 401; import post 401 when ready.",
+      "Add URLs for posts 402-420 as they become available."
     ],
     "last_updated": "2026-06-12"
   }

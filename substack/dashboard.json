@@ -2,30 +2,24 @@
   "1-20": {
     "posts_list": "1-20/posts-list.json",
     "status": "needs_image_review",
-    "imported_count": 20,
+    "imported_count": 19,
     "remaining": [
-      "Review images for post 5: source has an image, but no local image file or Markdown reference is recorded.",
-      "Review images for post 8: a local image exists, but the Markdown does not reference it."
+      "Add deferred/manual images for posts 5, 8."
     ],
     "last_updated": "2026-06-12"
   },
   "21-40": {
     "posts_list": "21-40/posts-list.json",
-    "status": "needs_image_review",
+    "status": "complete",
     "imported_count": 20,
-    "remaining": [
-      "Review images for post 35: source has an image, but no local image file or Markdown reference is recorded."
-    ],
+    "remaining": [],
     "last_updated": "2026-06-12"
   },
   "41-60": {
     "posts_list": "41-60/posts-list.json",
-    "status": "needs_image_review",
+    "status": "complete",
     "imported_count": 20,
-    "remaining": [
-      "Review images for post 46: source has an image, but no local image file or Markdown reference is recorded.",
-      "Review images for post 49: source has an image, but no local image file or Markdown reference is recorded."
-    ],
+    "remaining": [],
     "last_updated": "2026-06-12"
   },
   "61-80": {

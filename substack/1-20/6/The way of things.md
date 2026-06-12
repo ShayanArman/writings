@@ -7,6 +7,8 @@ are now seemingly easy,
 
 and will be difficult again.
 
+<todo-image-shayan: add image `caption the image`>
+
 When industries first pop up,
 
 classic economics says higher profits are available to the first entrants.

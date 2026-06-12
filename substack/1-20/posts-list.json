@@ -43,8 +43,8 @@
     "file_number": 6,
     "title": "The way of things",
     "substack_url": "https://shayanarman.substack.com/p/the-way-of-things",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
+    "images_added_locally": false,
+    "images_linked_in_post": true,
     "last_verified": "2026-06-12"
   },
   "7": {

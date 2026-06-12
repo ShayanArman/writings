@@ -1,9 +1,11 @@
 {
   "1-20": {
     "posts_list": "1-20/posts-list.json",
-    "status": "complete",
+    "status": "needs_image_review",
     "imported_count": 20,
-    "remaining": [],
+    "remaining": [
+      "Add deferred/manual images for posts 6."
+    ],
     "last_updated": "2026-06-12"
   },
   "21-40": {

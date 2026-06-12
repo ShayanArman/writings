@@ -11,6 +11,8 @@ The deluge of questions,
 
 usually rapid fire by semi-autistic types, will quickly wake you up to the reality of this world.
 
+<factory: caption `Industrialization changed things.. just kidding it only switched them around.`>
+
 Money is hard to come by.
 
 Sure there’s tons of it now going around the world.
@@ -20,6 +22,8 @@ But with Treasury Bills, Dividend Paying stocks, everybody would much rather hav
 So then where do you start?
 
 Most education expects that you already have Capital.
+
+<philosopher: caption `Adam Smith on the beauty of Capital allocation worldwide (wealth of nations)!`>
 
 Business Management degrees manage businesses that have already been built.
 

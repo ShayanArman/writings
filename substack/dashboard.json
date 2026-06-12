@@ -30,19 +30,19 @@
   },
   "61-80": {
     "posts_list": "61-80/posts-list.json",
-    "status": "in_progress",
-    "imported_count": 13,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "Import posts 74-80 when ready."
+      "Add deferred/manual images for posts 73-75, 77-78, 80."
     ],
     "last_updated": "2026-06-12"
   },
   "81-100": {
     "posts_list": "81-100/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 81-100; import posts 81-100 when ready."
+      "Add deferred/manual images for posts 81-82, 96-97, 99."
     ],
     "last_updated": "2026-06-12"
   },

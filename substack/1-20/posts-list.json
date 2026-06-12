@@ -35,8 +35,8 @@
     "file_number": 5,
     "title": "Thaly.AI will help Sales People sell more.",
     "substack_url": "https://shayanarman.substack.com/p/thalyai-will-help-sales-people-sell",
-    "images_added_locally": false,
-    "images_linked_in_post": false,
+    "images_added_locally": null,
+    "images_linked_in_post": null,
     "last_verified": "2026-06-12"
   },
   "6": {
@@ -59,7 +59,7 @@
     "file_number": 8,
     "title": "Camino - Santiago?",
     "substack_url": "https://shayanarman.substack.com/p/camino-santiago",
-    "images_added_locally": false,
+    "images_added_locally": true,
     "images_linked_in_post": true,
     "last_verified": "2026-06-12"
   },

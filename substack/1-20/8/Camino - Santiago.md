@@ -3,7 +3,7 @@ and the art of the destination
 
 There was an unwritten rule on the Camino Santiago, that we should never enter a vehicle. On one trip, I remember asking a Taxi where the next town was. As he was showing me the way, the awkward feeling was palpable. He knew, and I knew, that I couldn't possibly get in the car, even if it was only 1.5 km away. So we just stared at each other a bit, until I moved on.
 
-<todo-image-shayan: add image `caption the image`>
+![](ocean.jpg)
 
 At the end of our trip, when my little intrepid group and I got to the lighthouse at Fisterra in Galicia province of Spain, we finally got into a bus to head back for our flights. It was the strangest feeling. We couldn't believe the speed! The trek that had taken us a painstaking 3 days (2 for me since i was insane), seemed to go by in no time. It truly was magical... these little machines.
 

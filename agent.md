@@ -152,7 +152,9 @@ should follow this sequence for each post:
 7. Update `substack/dashboard.json` only when a whole range changes state.
 
 Batch scripts should be idempotent where practical: skip already verified posts
-unless the user explicitly asks to overwrite or reimport them.
+unless the user explicitly asks to overwrite or reimport them. This matters for
+overlapping requested ranges such as `74-100` followed by `100-200`; post 100
+should not be imported twice if it is already verified.
 
 ## Image References
 
@@ -293,7 +295,15 @@ The verifier performs the common repeatable checks:
 - Step 5: print `git status --short`.
 - Step 6: return a pass/fail result with warnings.
 
-If the verifier warns that the source body contains media, manually inspect the live/source post and add the correct placeholders. For large batches, make the batch import script inspect the source `body_html` so placeholders land where the images appeared and captions are copied automatically:
+If the verifier warns that the source body contains media, manually inspect the live/source post and add the correct placeholders. For large batches, make the batch import script inspect the source `body_html` so placeholders land where the images appeared and captions are copied automatically.
+
+For deferred image batches, use:
+
+```text
+<todo-image-shayan: add image `Actual source caption here.`>
+```
+
+For named archive placeholders, use:
 
 ```text
 <image-name: caption `Caption text here.`>

@@ -34,6 +34,77 @@ substack/61-80/<number>/
 
 The importer creates the destination folder if it does not exist.
 
+## Post Lists / Task Ledger
+
+The root task dashboard is:
+
+```text
+substack/dashboard.json
+```
+
+It is keyed by range folder (`1-20`, `21-40`, etc.) and gives the high-level remaining work for each range. Use it as the first place to look when deciding what still needs to be imported, image-reviewed, or verified.
+
+Each range folder also has a detailed `posts-list.json` file:
+
+```text
+substack/1-20/posts-list.json
+substack/21-40/posts-list.json
+...
+substack/381-400/posts-list.json
+```
+
+Treat these JSON files as the archive task list. They show which numbered posts have been imported, what source URL they came from, whether images still need attention, and when the entry was last verified.
+
+The root `substack/dashboard.json` should stay broad and task-oriented:
+
+```json
+{
+  "61-80": {
+    "posts_list": "61-80/posts-list.json",
+    "status": "in_progress",
+    "imported_count": 13,
+    "remaining": [
+      "Import posts 74-80 when ready."
+    ],
+    "last_updated": "2026-06-12"
+  }
+}
+```
+
+Update the root task dashboard when a whole range changes state, such as when a range becomes complete, a range starts, or image-review tasks are finished.
+
+Each populated file is a JSON object keyed by the post number as a string. Empty future ranges should be valid empty JSON objects:
+
+```json
+{}
+```
+
+Entry shape:
+
+```json
+{
+  "72": {
+    "file_number": 72,
+    "title": "The Nuclear Umbrella",
+    "substack_url": "https://shayanarman.substack.com/p/the-nuclear-umbrella",
+    "images_added_locally": null,
+    "images_linked_in_post": null,
+    "last_verified": "2026-06-12"
+  }
+}
+```
+
+Field meanings:
+
+- `file_number`: the numbered archive folder/file.
+- `title`: the Substack post title from the imported Markdown.
+- `substack_url`: the canonical Substack URL when known; use `null` if it still needs a later URL pass.
+- `images_added_locally`: `true` when local image files were added, `false` when the source has images but they are not local, and `null` when the source has no images or has not been image-checked yet.
+- `images_linked_in_post`: `true` when the Markdown references local images or image placeholders, `false` when the source has images but the Markdown does not reference them, and `null` when the source has no images or has not been image-checked yet.
+- `last_verified`: the date this entry was last checked, in `YYYY-MM-DD`.
+
+When importing or fixing a post, update only that post number inside the matching `posts-list.json`. This keeps the JSON file usable as a precise todo list for remaining archive work, especially image follow-up and unverified URLs.
+
 ## Script To Use
 
 The script is:
@@ -179,6 +250,8 @@ or:
 ```
 
 If the verifier fails, fix the import before replying. If it passes with warnings, mention only warnings that matter to the user. Confirm the new/modified files match the user's request. Do not stage or commit unless the user asks.
+
+After the Markdown import and verification are correct, update the matching range's `posts-list.json` entry for that exact post number. Include the source URL, image status fields, and the current verification date. If the URL or image status is not known yet, leave that field as `null` rather than guessing.
 
 Note: `.DS_Store` files may appear in Git status if they were already tracked before `.gitignore` ignored them. Do not touch them unless the user asks.
 

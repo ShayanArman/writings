@@ -1,0 +1,184 @@
+{
+  "1-20": {
+    "posts_list": "1-20/posts-list.json",
+    "status": "needs_image_review",
+    "imported_count": 20,
+    "remaining": [
+      "Review images for post 5: source has an image, but no local image file or Markdown reference is recorded.",
+      "Review images for post 8: a local image exists, but the Markdown does not reference it."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "21-40": {
+    "posts_list": "21-40/posts-list.json",
+    "status": "needs_image_review",
+    "imported_count": 20,
+    "remaining": [
+      "Review images for post 35: source has an image, but no local image file or Markdown reference is recorded."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "41-60": {
+    "posts_list": "41-60/posts-list.json",
+    "status": "needs_image_review",
+    "imported_count": 20,
+    "remaining": [
+      "Review images for post 46: source has an image, but no local image file or Markdown reference is recorded.",
+      "Review images for post 49: source has an image, but no local image file or Markdown reference is recorded."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "61-80": {
+    "posts_list": "61-80/posts-list.json",
+    "status": "in_progress",
+    "imported_count": 13,
+    "remaining": [
+      "Import posts 74-80 when ready."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "81-100": {
+    "posts_list": "81-100/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "101-120": {
+    "posts_list": "101-120/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "121-140": {
+    "posts_list": "121-140/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "141-160": {
+    "posts_list": "141-160/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "161-180": {
+    "posts_list": "161-180/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "181-200": {
+    "posts_list": "181-200/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "201-220": {
+    "posts_list": "201-220/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "221-240": {
+    "posts_list": "221-240/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "241-260": {
+    "posts_list": "241-260/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "261-280": {
+    "posts_list": "261-280/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "281-300": {
+    "posts_list": "281-300/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "301-320": {
+    "posts_list": "301-320/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "321-340": {
+    "posts_list": "321-340/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "341-360": {
+    "posts_list": "341-360/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "361-380": {
+    "posts_list": "361-380/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "381-400": {
+    "posts_list": "381-400/posts-list.json",
+    "status": "empty",
+    "imported_count": 0,
+    "remaining": [
+      "Range is empty; no posts imported yet."
+    ],
+    "last_updated": "2026-06-12"
+  }
+}

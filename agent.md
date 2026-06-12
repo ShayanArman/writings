@@ -49,6 +49,28 @@ It imports raw text only:
 
 It ignores images and does not download media.
 
+## Image References
+
+This archive usually references images instead of downloading or embedding them.
+
+When the user asks for an image reference, use this placeholder format on its own line:
+
+```text
+<image-name: caption `Caption text here.`>
+```
+
+Example:
+
+```text
+<nature-lover: caption `In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?`>
+```
+
+Put the placeholder where the image appears in the Substack post. The placeholder represents the image and its caption; do not add or download image files unless the user explicitly asks.
+
+Important: the importer may turn Substack image captions into plain text body lines. When adding a placeholder for an image caption, remove the duplicate plain caption text if it only came from the image caption. Keep repeated text only when the live Substack post also has it as separate body text.
+
+Post 51 (`substack/41-60/51/On Work.md`) is the pattern to follow: image placeholders stand in for the image/caption, while any remaining repeated lines are body text that also exists in the original.
+
 ## How To Run It
 
 Preferred: run from the `substack` directory.

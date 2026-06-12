@@ -1,6 +1,6 @@
 Where is God's place?
 
-![The Ontological Need for a Judgemental God](judgemental-god.webp)
+![The Ontological Need for a Judgemental God](judgemental-god.jpg)
 
 *The Ontological Need for a Judgemental God*
 

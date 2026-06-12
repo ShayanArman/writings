@@ -96,6 +96,8 @@ If the source image has no caption, use an empty-alt local image reference:
 
 Only use this local image format when the user has provided the image file or clearly asked to embed/download an image. Otherwise, keep using placeholders and do not download media.
 
+When the user provides a local image file, preserve the file extension they provided. Do not change `.jpg` to `.webp`, `.png`, or any other extension based on file contents or MIME detection. If the user asks for a more appropriate image name, rename only the basename and keep the original extension unless the user explicitly asks to convert the file format or change the extension.
+
 Important: older imports may have Substack image captions as plain text body lines. When adding a placeholder for an image caption, remove the duplicate plain caption text if it only came from the image caption. Keep repeated text only when the live Substack post also has it as separate body text.
 
 Post 51 (`substack/41-60/51/On Work.md`) is the pattern to follow: image placeholders stand in for the image/caption, while any remaining repeated lines are body text that also exists in the original.

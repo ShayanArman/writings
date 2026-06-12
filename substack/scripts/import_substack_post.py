@@ -25,7 +25,7 @@ class BodyMarkdownParser(HTMLParser):
         self.ignored_tag_depth = 0
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag in {"script", "style", "iframe"}:
+        if tag in {"script", "style", "iframe", "figcaption"}:
             self.ignored_tag_depth += 1
             return
 
@@ -38,7 +38,7 @@ class BodyMarkdownParser(HTMLParser):
             self.parts.append("\n")
 
     def handle_endtag(self, tag: str) -> None:
-        if tag in {"script", "style", "iframe"} and self.ignored_tag_depth:
+        if tag in {"script", "style", "iframe", "figcaption"} and self.ignored_tag_depth:
             self.ignored_tag_depth -= 1
             return
 

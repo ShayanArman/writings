@@ -65,11 +65,25 @@ Example:
 <nature-lover: caption `In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?`>
 ```
 
+When the image does not have a caption, use the bare image name on its own line:
+
+```text
+<image-name>
+```
+
+Example:
+
+```text
+<sam-altman>
+```
+
 Put the placeholder where the image appears in the Substack post. The placeholder represents the image and its caption; do not add or download image files unless the user explicitly asks.
 
 Important: older imports may have Substack image captions as plain text body lines. When adding a placeholder for an image caption, remove the duplicate plain caption text if it only came from the image caption. Keep repeated text only when the live Substack post also has it as separate body text.
 
 Post 51 (`substack/41-60/51/On Work.md`) is the pattern to follow: image placeholders stand in for the image/caption, while any remaining repeated lines are body text that also exists in the original.
+
+Post 48 (`substack/41-60/48/Intrepid, to the Stars.md`) is the pattern to follow for images without captions: use a bare placeholder like `<sam-altman>`.
 
 ## How To Run It
 

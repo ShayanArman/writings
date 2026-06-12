@@ -31,153 +31,163 @@
   "61-80": {
     "posts_list": "61-80/posts-list.json",
     "status": "in_progress",
-    "imported_count": 13,
+    "imported_count": 14,
     "remaining": [
-      "Import posts 74-80 when ready."
+      "Import posts 75-80 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "81-100": {
     "posts_list": "81-100/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 81-100; import posts 81-100 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "101-120": {
     "posts_list": "101-120/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 101-120; import posts 101-120 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "121-140": {
     "posts_list": "121-140/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 121-140; import posts 121-140 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "141-160": {
     "posts_list": "141-160/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 141-160; import posts 141-160 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "161-180": {
     "posts_list": "161-180/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 161-180; import posts 161-180 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "181-200": {
     "posts_list": "181-200/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 181-200; import posts 181-200 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "201-220": {
     "posts_list": "201-220/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 201-220; import posts 201-220 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "221-240": {
     "posts_list": "221-240/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 221-240; import posts 221-240 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "241-260": {
     "posts_list": "241-260/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 241-260; import posts 241-260 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "261-280": {
     "posts_list": "261-280/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 261-280; import posts 261-280 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "281-300": {
     "posts_list": "281-300/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 281-300; import posts 281-300 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "301-320": {
     "posts_list": "301-320/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 301-320; import posts 301-320 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "321-340": {
     "posts_list": "321-340/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 321-340; import posts 321-340 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "341-360": {
     "posts_list": "341-360/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 341-360; import posts 341-360 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "361-380": {
     "posts_list": "361-380/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 361-380; import posts 361-380 when ready."
     ],
     "last_updated": "2026-06-12"
   },
   "381-400": {
     "posts_list": "381-400/posts-list.json",
-    "status": "empty",
+    "status": "urls_recorded",
     "imported_count": 0,
     "remaining": [
-      "Range is empty; no posts imported yet."
+      "URLs recorded for posts 381-400; import posts 381-400 when ready."
+    ],
+    "last_updated": "2026-06-12"
+  },
+  "401-420": {
+    "posts_list": "401-420/posts-list.json",
+    "status": "urls_recorded",
+    "imported_count": 0,
+    "remaining": [
+      "URLs recorded for posts 401-403; import posts 401-403 when ready.",
+      "Add URLs for posts 404-420 as they become available."
     ],
     "last_updated": "2026-06-12"
   }

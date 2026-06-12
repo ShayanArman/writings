@@ -7,7 +7,7 @@ When an adult breaks something, he usually takes ownership (right?)
 
 When someone comes up with an idea, they usually fight tooth and nail - sometimes in court - over the *real owner of this idea.
 
-<thaly>
+![](thaly.jpg)
 
 Check out https://thaly.ai Kickstarter here: Thaly AI: Talk to my Agent <https://www.kickstarter.com/projects/sarman/creating-my-new-startup?category_id=51&ref=profile_created>
 
@@ -23,7 +23,7 @@ The problem with this line of logic, is it assigns ‘percentages’ of blame, s
 
 I believe that everybody is 100% responsible. The shop-owner shouldn’t have ever opened up a Lemonade store. The driver should have never drank in excess. And the bar-keep should have never allowed his patron to get so out of hand.
 
-<zero_inbox>
+![](zero_inbox.jpg)
 
 Get to Inbox Zero with https://zeroinbox.ai, Clear your Emails, Clear your mind with the Zero Inbox AI Email Cleaner and Organizer
 

@@ -348,8 +348,6 @@ def imported_count_for_range(substack_root: Path, entries: dict) -> int:
         post_number = int(key)
         destination = substack_root / range_folder(post_number) / key
         has_archive_file = bool(markdown_files(destination))
-        if post_number == 1:
-            has_archive_file = has_archive_file or (substack_root / "1-20" / "1.txt").exists()
         if entry.get("last_verified") and has_archive_file:
             count += 1
     return count

@@ -12,13 +12,13 @@ Try becoming a Paid Subscriber. They say money buys you happiness, if you send i
 
 We already accept that the sun shining is quite consistent with the laws of … well consistency! Physics, simply *describes these movements, and attempts to perfectly model / predict them. However, they move by their own laws, Physics is simply a description of these laws. That is why Physics is also interchangeable with Physical Laws. The sun shines pertaining to its own laws, as it is. The Sun won’t all of a sudden say: “tomorrow i’m gonna shine in this direction.” This is based on Ontology, because of the Sun did this, then it wouldn’t be the Sun, it would be some weird Human Sun god thing. It isn’t.
 
-<universe_one>
+![](universe_one.jpg)
 
 In fact, humanity believes that Human beings are the only being / entity in the Universe with *choice. We go beyond the automatic, gear like turnings of the Universe. We can choose (they tell us). Yet Alcoholics keep drinking, and wars keep happening. In my opinion, even the wiring of the brain that gives birth to consciousness, is gear-like, and keeps turning as is. We are as much a rolling stone as well.. a rolling stone.
 
 So then if the entirety of the Universe pertains to gear like machinations, causal movements, even if some are far-far more complex then others, then what moved first? Is it all mechanical? Or automated?
 
-<universe_two>
+![](universe_two.jpg)
 
 The underlying consciousness, or spirit, behind all this, is what some call God. From the definition of “Chooser”, then perhaps the only being that has real choice is this Spirit, underlying the layer we interact with daily. The sun shines, clouds move, and you keep doing your human thing. As much (choice) as you have, you’re not gonna wake up one day and start caw-ing like a Rooster haha
 

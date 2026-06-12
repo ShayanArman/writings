@@ -11,7 +11,9 @@ But can we be blamed for our Slumber? When we are completely surrounded by Mater
 
 When our entire social circles are asleep and fully consumed, we’re meant to step out and realize the real meaning of our lives?
 
-<nature-lover: caption `In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?`>
+![In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?](nature-lover.jpg)
+
+*In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood, staying up there for 100s of days, eventually saving it! How many toys does a child need? 1? 2? 18?*
 
 I of course do not espouse leaving consumerism and becoming a God loving Monk - in no way at all. But at least having a spirit of questioning, and appreciating our lives. That there could be a deeper meaning, or purpose - other than buying, consuming, and comparing at dinner parties.
 

@@ -9,7 +9,7 @@ and start talking about ZeroInbox.ai
 
 'But dude, it's not even made yet!'
 
-<japan>
+![](japan.jpg)
 
 Just start selling it now man,
 it's the way the internet works,
@@ -18,7 +18,7 @@ just go organic!
 
 'but i gotta focus on coding'
 
-<thaly>
+![](thaly.jpg)
 
 Write about it!
 Make a blog.

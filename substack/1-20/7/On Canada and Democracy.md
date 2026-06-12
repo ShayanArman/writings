@@ -1,7 +1,7 @@
 On Canada and Democracy
 With a country so rich in resources, you're all broke.
 
-<shayan>
+![](shayan.jpg)
 
 I wholeheartedly disagree with everything that's happened in Canada in the last few years.
 

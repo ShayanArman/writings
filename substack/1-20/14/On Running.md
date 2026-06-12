@@ -45,7 +45,7 @@ But the entire time, thoughts were clearly running in my mind. Firstly, he was w
 
 We kept together the entire time though… Stride by stride, in exact unison. So a thought ran through my mind… who’s pacing who? Who’s pushing who? Confidence started to develop, and I knew I had him. So on the 12th lap, I pushed and dropped him on the track. The final 300m were agony for me, and I was about to puke. This is the feeling I never let myself have in High School I thought. Only a year ago I’d cracked the code on human performance. 11 years too late, but it’s good I discovered it.
 
-<shayan>
+![](shayan.jpg)
 
 Read this if you’re looking for inspiration On Writing and On Running
 

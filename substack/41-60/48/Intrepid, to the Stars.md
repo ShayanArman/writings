@@ -4,7 +4,7 @@ On a mathematical function for achieving the Sam Altman Prize.
 
 The website that tracks the progress of these intrepid entrepeneurs is https://SamAltmanPrize.com
 
-<sam-altman>
+![](sam-altman.jpg)
 
 Sam Altman Prize - a description
 

@@ -9,7 +9,7 @@ tech 'influencers' operate in an even more exclusive group
 
 than musicians. Sam Altman, Jensen Huang, Elon Musk and a few others generate ALL the clicks.
 
-<thaly-orb>
+![](thaly-orb.jpg)
 
 The biggest 'voices' are a handful,
 

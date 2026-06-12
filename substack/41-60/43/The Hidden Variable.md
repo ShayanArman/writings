@@ -7,7 +7,7 @@ If all things are in flux, there must have been a first mover they argued.
 
 And this first mover, must not be moved by anything else, otherwise that cause would be the First Mover and so on.
 
-<first>
+![](first.jpg)
 
 Physics later discovered that non-uniformity developed, otherwise, there wouldn’t be clusters in the universe of Galaxies that we see today.
 
@@ -27,7 +27,7 @@ So Newton created Classical Mechanics, to properly model Planets, and predict wh
 
 We can go even a step further and refine the cause of the movement to “mass”. It seemed depending on the mass, the way an object attracts another can be figured out. So they refined this, and said without a doubt, it seems ‘mass’ is the cause of movement.
 
-<second>
+![](second.jpg)
 
 As time went on, they realized Gravity wasn’t the only force that caused movement. They realized there are other forces. Like electro-magnetism.
 

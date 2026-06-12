@@ -7,7 +7,7 @@ He got an entire MIT CS Bachelor Degree through online courses in one year. This
 
 Then of course there was the Original OG himself, Tim Ferriss, that showed us what we could do by radically improving our efficiency. That was the entire premise of the 4 hour work week. To figure out a way to 'free' ourselves from the drudgery of work. Seems a bit charlatan to me, but he pretty much popularized the idea of 'passive income'.
 
-<tim>
+![](tim.jpg)
 
 A bunch of guys came after with Instagram, purporting to solve everything from Drop Shipping, to Crypto Scams, and now to AI. At the core of this is the human desire for 'freedom' from pain and suffering. This is the essential ingredient in all religions. These guys gain a following because they have a 'way' to deliver the freedom from financial stress - which is a big driver of pain for people in the modern world.
 

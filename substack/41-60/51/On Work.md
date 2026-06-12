@@ -5,7 +5,9 @@ For years I looked down on work. I called the comings and goings of people Crazy
 
 Without the reason to work, it seems utterly ridiculous. Like the comings and goings of the planets, without a mind to assign meaning. They are just moving. A grey world of mechanics.
 
-<death-achilles: caption `The Death of Achilles, Rubens`>
+![The Death of Achilles, Rubens](death-achilles.jpg)
+
+*The Death of Achilles, Rubens*
 
 The Death of Achilles, Rubens
 
@@ -49,7 +51,9 @@ The next component of the life a Man lives is the Addiction Tax that the Man mus
 
 Fight it, or it will consume you, and ultimately you will meet your end.
 
-<war: caption `Fight it, or it will consume you, and ultimately you will meet your end.`>
+![Fight it, or it will consume you, and ultimately you will meet your end.](war.jpg)
+
+*Fight it, or it will consume you, and ultimately you will meet your end.*
 
 Some of the Addiction Ulcer is contained physically, in the form of “hardware-neural programming”. But another way to describe this is Spiritual-Emotional. If you’ve ever felt incredibly-fully-connected, you know you desire nothing. Which is described again Logically-Ontologically as the Wise Man who ‘gives up everything’, as he has found God, and therefore now requires nothing. Many of our stories have Infinite-Value (definition found below article) wisdom contained in them. Another story is the meditation stoic who lives only on a Date, as his Spirit provides the rest. This is the opposite of the Ulcer which consumes resources, as the Spirit fills him with Love, wherein he is actually “Full” and requires less. His Energy Consumption is Then Less. And his “Work to sustain this consumption” is Descreased. In the Form of a smaller car, less expensive house, and simpler vacations. The wise man requires less.
 

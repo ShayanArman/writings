@@ -11,7 +11,7 @@ One day, he goes to the big boulder, and is able to move it.
 
 He is now strong.
 
-<vegeta>
+![](vegeta.jpg)
 
 Growing up, DragonBall Z had this device that could gauge the strength of a warrior.
 

@@ -4,7 +4,7 @@ You know, when I left Apple, I always kinda knew I could go back. That was the i
 
 This type of thinking was helpful when making such a change. I call it 'on-ramping', meaning going from one way of being, to another. You wouldn't believe how difficult this process was.
 
-<warhol>
+![](warhol.jpg)
 
 Thinking I can always go back to the ship, helped me climb off, get onto the sandy beach, and start the journey.
 
@@ -12,7 +12,7 @@ In University, I realized there was the concept of gradual stress. To learn some
 
 So the idea of 'burning the ships'; before you get onto the beach, with no way back home isn't the best way to convince the new recruit to make the leap.
 
-<chagall>
+![](chagall.jpg)
 
 But as time went on, the little project of entrepreneurship became more than:
 
@@ -28,13 +28,13 @@ Some choices are difficult, because of what they entail...
 
 Some choices are difficult, because of what they create.
 
-<einstein>
+![](einstein.jpg)
 
 It's been more than 3 years since I left the job to start a new journey. And more than 2.5 years on of coding, and learning. Even today, I'm at a crossroads, and a choice has to be made.
 
 So I ask you, if you were in my shoes, what is scarier? A future where I launch Thaly.ai or some other venture, and it becomes incredibly successful. Or, going back to the old way, the old life, of what I'm used to.
 
-<feynman>
+![](feynman.jpg)
 
 One of the two paths is absolutely terrifying. To become or to be, is really the ultimate question. To become, is always scarier, full of unknowns. To be, to stay the same, is always familiar and safe.
 

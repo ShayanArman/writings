@@ -7,7 +7,7 @@ I wanted to make this brief but I want to just tell you a little story about my 
 
 I always wanted to travel ever since I was a kid, and couldn't for some personal reasons until I turned 19. My passport arrived in the mail of my second year in University during exams, and I remember I set it out on the table - constantly looking at it with pride, joy, mostly joy.
 
-<greece_floor>
+![](greece_floor.jpg)
 
 A photo I took in Paros Greece, my love for travel continued…
 
@@ -25,7 +25,7 @@ On the way there, I remember having wifi, and downloading airbnb. Wait what!! Yo
 
 'Okay, here's my phone number, let's chat offline'
 
-<greek-sun>
+![](greek-sun.jpg)
 
 Another wonderful sunset in Greece
 
@@ -43,7 +43,7 @@ Later on, we walked to a record store, and I asked him what he did for a living.
 
 My jaw dropped. I didn't even know who that was. Years later, they would become one of my favorite artists; Daft Punk is playing at who's house!!!?
 
-<shayan>
+![](shayan.jpg)
 
 Me in Monaco with some friends I made from Quebec
 

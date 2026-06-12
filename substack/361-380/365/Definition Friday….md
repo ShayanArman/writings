@@ -1,0 +1,3 @@
+Definition Friday…
+
+Tomorrow we’re dropping a new definition

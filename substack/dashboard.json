@@ -109,84 +109,81 @@
   },
   "241-260": {
     "posts_list": "241-260/posts-list.json",
-    "status": "in_progress",
-    "imported_count": 12,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "Import posts 253-260 when ready."
+      "Add deferred/manual images for posts 242, 245-249, 251."
     ],
     "last_updated": "2026-06-12"
   },
   "261-280": {
     "posts_list": "261-280/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 261-280; import posts 261-280 when ready."
+      "Add deferred/manual images for posts 268, 279."
     ],
     "last_updated": "2026-06-12"
   },
   "281-300": {
     "posts_list": "281-300/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 281-300; import posts 281-300 when ready."
+      "Add deferred/manual images for posts 282, 286-287, 297-298, 300."
     ],
     "last_updated": "2026-06-12"
   },
   "301-320": {
     "posts_list": "301-320/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 301-320; import posts 301-320 when ready."
+      "Add deferred/manual images for posts 304, 307-308."
     ],
     "last_updated": "2026-06-12"
   },
   "321-340": {
     "posts_list": "321-340/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 321-340; import posts 321-340 when ready."
+      "Add deferred/manual images for posts 323, 326, 329-330, 336, 338-339."
     ],
     "last_updated": "2026-06-12"
   },
   "341-360": {
     "posts_list": "341-360/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 341-360; import posts 341-360 when ready."
+      "Add deferred/manual images for posts 343-344."
     ],
     "last_updated": "2026-06-12"
   },
   "361-380": {
     "posts_list": "361-380/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 361-380; import posts 361-380 when ready."
+      "Add deferred/manual images for posts 363, 374, 377-379."
     ],
     "last_updated": "2026-06-12"
   },
   "381-400": {
     "posts_list": "381-400/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
+    "status": "needs_image_review",
+    "imported_count": 20,
     "remaining": [
-      "URLs recorded for posts 381-400; import posts 381-400 when ready."
+      "Add deferred/manual images for posts 382, 385, 389-390, 394, 398-399."
     ],
     "last_updated": "2026-06-12"
   },
   "401-420": {
     "posts_list": "401-420/posts-list.json",
-    "status": "urls_recorded",
-    "imported_count": 0,
-    "remaining": [
-      "URLs recorded for post 401; import post 401 when ready.",
-      "Add URLs for posts 402-420 as they become available."
-    ],
+    "status": "complete",
+    "imported_count": 1,
+    "remaining": [],
     "last_updated": "2026-06-12"
   }
 }

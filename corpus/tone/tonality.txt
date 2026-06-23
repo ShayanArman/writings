@@ -1,0 +1,167 @@
+# Shayan Arman Corpus Tonality Guide
+
+Generated from the local Substack archive under `substack`.
+
+The corpus contains 401 Markdown posts. The generator strips Markdown image placeholders and obvious repeated ZeroInbox ad/footer boilerplate so those lines do not dominate the voice profile. Product-related posts still count when they are actual body writing.
+
+## Generated From
+
+- Input: `substack`
+- Draft scaffold: `corpus/tmp/tonality.json` and `corpus/tmp/tonality.txt`
+- Approved guide: `corpus/tone/tonality.json` and `corpus/tone/tonality.txt`
+- Script: `scripts/create-tonality.mjs`
+- Source size after cleanup: 84,525 words, 7,589 sentences, 5,439 paragraphs
+- Average sentence: 9.7 words
+- Median sentence: 8 words
+- Average paragraph: 15.2 words
+- Median paragraph: 10 words
+- Dominant point of view: first person
+
+## Voice Profile
+
+Shayan Arman's voice is first-person philosophical field-notes: part founder journal, part street-corner sermon, part metaphysical notebook.
+
+The writing turns ordinary scenes into conceptual laws. A cafe, a run, a phone call, a startup task, a shame spiral, a travel memory, a pool, a coding session, a family story, a weird social exchange - all of these can become evidence for a theory of mind, God, money, work, responsibility, status, or human development.
+
+The narrator is present as witness, test subject, fool, builder, sinner, and teacher. The reader is treated as smart enough to keep up and close enough to be pushed.
+
+Core personality:
+
+- restless builder
+- comic confessor
+- metaphysical system-maker
+- competitive striver
+- anti-bureaucratic skeptic
+- romantic maximalist
+- friend who argues with you because he wants you awake
+
+Emotional center:
+
+- self-overcoming
+- freedom from dead routines
+- responsibility for one's condition
+- wonder at mind, God, money, work, and human possibility
+- contempt for cowardice and empty consensus
+- tenderness hidden under swagger
+
+## Tone Axes
+
+- Warmth: medium-high, but not soft. Warmth appears as intimacy, confession, teasing, and direct address.
+- Formality: low to medium. Casual grammar and spoken phrasing can sit beside abstract or theological language.
+- Confidence: high. Big claims are normal, but they often get grounded in embarrassment, pain, or a funny life scene.
+- Pace: fast. Short sentences and short paragraphs create the feeling of live thought.
+- Specificity: high in scenes, high in abstraction. The move is usually concrete scene -> concept -> moral pressure.
+- Abstraction: very high. The writing constantly names models, laws, theories, and hidden structures.
+- Provocation: high. The voice likes reversals, blunt judgments, status inversions, and questions that make the reader answer for themselves.
+
+## Style Rules
+
+Sentence rhythm:
+
+- Prefer short, punchy sentences and fragments.
+- Use occasional longer scene-setting sentences, then return to short declarative strikes.
+- Let the rhythm feel spoken, not edited into magazine smoothness.
+
+Paragraph rhythm:
+
+- Use tiny paragraphs.
+- Most paragraphs should be one to three sentences.
+- A single sentence can stand alone if it has force.
+
+Punctuation:
+
+- Questions are common and important. They challenge, pivot, and accuse.
+- Exclamation marks are allowed when the thought becomes comic, intense, or triumphant.
+- Ellipses can show trailing thought or uncertainty.
+- Parentheses can carry side comments and self-corrections.
+- Semicolons are rare.
+- Capitalization can become expressive for concepts like Man, Mind, God, Work, Good, or Dead.
+
+Word choice:
+
+- Favor simple repeated nouns: one, thing, way, life, man, mind, work, money, world, good.
+- Mix ordinary speech with abstraction: responsibility, emergence, ontology, virtue, possibility, exceptionalism.
+- Use casual connective tissue: okay, man, well, anyway, simply put, lets say, pretty soon.
+- Let occasional roughness remain when it carries speed or personality.
+- Name concepts directly. Coin simple theory labels when useful.
+
+## Rhetorical Moves
+
+- Open with a concrete scene, then extract a principle.
+- Open with a definition, then test it against life.
+- Ask a question, answer it, then overturn the first answer.
+- Use personal failure or embarrassment as proof.
+- Build a miniature model with two or three named parts.
+- Move from practical startup/product language to spiritual or metaphysical stakes.
+- Use mythic or archetypal figures: kings, fools, God, sinners, workers, athletes, fathers, children.
+- End with a hard sentence, a joke, or an unresolved door left open.
+
+## Source-Backed Examples
+
+- "A good brand, is essentially a promise kept" (`substack/1-20/10/Brands are.md`)
+  Pattern: business concept becomes moral definition.
+- "In meditation we are training the mind" (`substack/1-20/18/On Meditation.md`)
+  Pattern: clean abstraction followed by inquiry.
+- "I arrived in Korea today, and began walking." (`substack/21-40/36/Korea (internet is incredible).md`)
+  Pattern: plain diary entry becomes thinking engine.
+- "I have a tiny, absolutely tiny small following." (`substack/41-60/54/.. ..-. .. --. ..- .-. . -.. .. - --- ..- -.md`)
+  Pattern: comic self-lowering before a larger claim.
+- "We can't let the poor get too excited!" (`substack/61-80/62/On Upward Mobility.md`)
+  Pattern: sarcasm exposes a social judgment.
+- "Is it easy to copy what you've done?" (`substack/81-100/81/Invest in Yourself.md`)
+  Pattern: reader is challenged with a practical test.
+- "You might think I'm crazy but it worked." (`substack/121-140/140/On Me.md`)
+  Pattern: anticipates skepticism and uses lived result as authority.
+- "I wake up every day implementing the plan." (`substack/181-200/191/Purpose and Direction.md`)
+  Pattern: founder discipline stated without ornament.
+- "I filled books upon books with my writing" (`substack/321-340/334/Annals of Time.md`)
+  Pattern: personal history as evidence of vocation.
+- "This world is too deep for Us..." (`substack/321-340/340/Narcos.md`)
+  Pattern: grand closing that leaves mystery.
+- "Looking back man theres only one thing" (`substack/361-380/376/A life well lived.md`)
+  Pattern: casual spoken transition into distilled lesson.
+- "Don't use your brain. Use your mind." (`substack/381-400/393/Reflexivity.md`)
+  Pattern: sharp conceptual distinction compressed into command.
+
+## Drafting Guidance
+
+Titles:
+
+- Use short titles, usually one to four words.
+- Common patterns: `On X`, `The X`, one-word abstractions, odd proper nouns, direct questions, or deliberately strange phrases.
+- Subtitles can explain or twist the title, but should not feel like SEO copy.
+
+Openings:
+
+- Begin in motion: a memory, a walk, a startup moment, a question, a definition, or a blunt claim.
+- Do not ease in with generic context.
+- Let the first few lines sound like someone thinking out loud in real time.
+
+Body:
+
+- Alternate story and principle.
+- Use short paragraphs and frequent pivots.
+- Name the underlying concept once it appears.
+- Argue directly with imagined objections.
+- Let humor, confession, and metaphysical seriousness coexist.
+
+Closings:
+
+- End with a distilled rule, unresolved mystery, comic jab, or final command.
+- Avoid neat summary paragraphs.
+- A strong last line can be shorter and stranger than the rest.
+
+Do:
+
+- Write as a participant, not an observer.
+- Use the body as evidence.
+- Keep the reader close and slightly on trial.
+- Allow abrupt transitions when the thought has heat.
+- Prefer living examples over abstract explanation alone.
+
+Avoid:
+
+- Do not smooth out all grammar, casing, or rough edge.
+- Do not write like a newsletter strategist.
+- Do not overuse hashtags, product footers, or promo lines when the goal is authorial voice.
+- Do not make the essay merely philosophical; it needs a lived scene or personal wager.

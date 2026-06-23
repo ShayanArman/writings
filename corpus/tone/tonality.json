@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "shayan_arman_tonality_guide",
+  "status": "agent_completed",
+  "generated_at": "2026-06-23",
+  "purpose": "Tone guide for drafting new writing in Shayan Arman's voice, generated from the local Substack archive.",
+  "source_policy": {
+    "input_dir": "substack",
+    "output_dir": "corpus/tone",
+    "tmp_scaffold_dir": "corpus/tmp",
+    "document_count": 401,
+    "read_scope": "All Markdown posts under substack were used as the source corpus. Markdown image placeholders and repeated ZeroInbox ad/footer boilerplate were excluded from mechanical tone statistics so product promotion residue would not dominate the guide.",
+    "script": "scripts/create-tonality.mjs"
+  },
+  "mechanical_stats": {
+    "total_words": 84525,
+    "total_sentences": 7589,
+    "total_paragraphs": 5439,
+    "average_sentence_words": 9.7,
+    "median_sentence_words": 8,
+    "average_paragraph_words": 15.2,
+    "median_paragraph_words": 10,
+    "sentence_length_distribution": {
+      "short_1_to_10_words": 5103,
+      "medium_11_to_20_words": 2074,
+      "long_21_plus_words": 412
+    },
+    "punctuation_counts": {
+      "exclamation": 711,
+      "question": 1016,
+      "colon": 310,
+      "semicolon": 25,
+      "dash": 454,
+      "ellipsis": 489,
+      "parentheses": 414
+    },
+    "point_of_view": {
+      "dominant": "first_person",
+      "counts": {
+        "first_person": 3479,
+        "second_person": 2078,
+        "third_person": 1508
+      }
+    },
+    "contractions_count": 1333,
+    "title_style": {
+      "average_title_words": 2.7,
+      "median_title_words": 2,
+      "on_titles": 59,
+      "the_titles": 76,
+      "question_titles": 13,
+      "exclamation_titles": 7,
+      "one_word_titles": 53
+    }
+  },
+  "voice_profile": {
+    "summary": "Shayan Arman's voice is first-person philosophical field-notes: part founder journal, part street-corner sermon, part metaphysical notebook. The writing turns ordinary scenes into conceptual laws. It moves quickly from a cafe, a run, a phone call, a startup task, a shame spiral, or a travel memory into claims about mind, God, money, work, responsibility, and human development. It is candid, self-accusing, funny, grand, impatient, and unusually willing to sound unfinished if the sentence has force.",
+    "point_of_view": "Mostly first person, often pivoting into direct second-person challenge. The narrator is present as witness, test subject, fool, builder, sinner, and teacher.",
+    "audience_relationship": "The reader is treated as smart enough to keep up and close enough to be pushed. The voice alternates between confession, argument, teasing, command, and direct moral challenge.",
+    "core_personality": [
+      "restless builder",
+      "comic confessor",
+      "metaphysical system-maker",
+      "competitive striver",
+      "anti-bureaucratic skeptic",
+      "romantic maximalist",
+      "friend who argues with you because he wants you awake"
+    ],
+    "authority_basis": [
+      "lived experience from startups, travel, Apple, money stress, family, relationships, religion, sport, and coding",
+      "self-experimentation and personal risk",
+      "turning small scenes into large conceptual models",
+      "moral conviction rather than institutional credentialing",
+      "references to philosophy, religion, anime, startups, politics, sports, and ordinary street life"
+    ],
+    "emotional_center": [
+      "self-overcoming",
+      "freedom from dead routines",
+      "responsibility for one's condition",
+      "wonder at mind, God, money, work, and human possibility",
+      "contempt for cowardice and empty consensus",
+      "tenderness hidden under swagger"
+    ]
+  },
+  "tone_axes": {
+    "warmth": "Medium-high, but not soft. Warmth usually appears as intimacy, confession, teasing, and direct address rather than careful reassurance.",
+    "formality": "Low to medium. The diction is conversational, sometimes intentionally rough, but it can jump suddenly into abstract or theological language.",
+    "confidence": "High. The voice makes big claims, then often grounds them in an embarrassing, funny, or vulnerable personal scene.",
+    "pace": "Fast. Short sentences and very short paragraphs create momentum. Longer thoughts are broken into steps rather than polished blocks.",
+    "specificity": "High when recounting life scenes; intentionally abstract when naming principles.",
+    "abstraction": "Very high. Ordinary events are constantly turned into models, laws, theories, and definitions.",
+    "provocation": "High. The writing likes reversals, blunt judgments, status inversions, and questions that make the reader defend themselves.",
+    "sales_pressure": "Normally low inside essays. Product mentions should feel like a quick aside or separate ad beat, not the core voice."
+  },
+  "style_rules": {
+    "sentence_rhythm": "Prefer short, punchy sentences and fragments. The corpus average is about 9.7 words per sentence. Use occasional longer sentences when telling a scene, then return to short declarative strikes.",
+    "paragraph_rhythm": "Use tiny paragraphs. Most paragraphs should be one to three sentences, often one line. Let white space create emphasis.",
+    "punctuation": [
+      "Use questions often, especially as challenges or conceptual pivots.",
+      "Use exclamation marks when the thought becomes comic, intense, or triumphant.",
+      "Use ellipses for trailing thought, uncertainty, and spoken rhythm.",
+      "Use parentheses for side comments and self-corrections.",
+      "Use semicolons rarely.",
+      "Capitalization can become expressive, especially for concepts like Man, Mind, God, Work, Good, or Dead."
+    ],
+    "word_choice": [
+      "Favor simple repeated nouns: one, thing, way, life, man, mind, work, money, world, good.",
+      "Mix ordinary speech with abstract nouns: responsibility, emergence, ontology, virtue, possibility, exceptionalism.",
+      "Use casual connective tissue: okay, man, well, anyway, simply put, lets say, pretty soon.",
+      "Let occasional roughness remain when it carries speed or personality.",
+      "Name concepts directly and sometimes coin simple theory labels."
+    ],
+    "rhetorical_moves": [
+      "Open with a concrete scene, then extract a principle.",
+      "Open with a definition, then test it against life.",
+      "Ask a question, answer it, then overturn the first answer.",
+      "Use a personal failure or embarrassment as proof.",
+      "Build a miniature model with two or three named parts.",
+      "Move from practical startup/product language to spiritual or metaphysical stakes.",
+      "Use mythic or archetypal figures: kings, fools, God, sinners, workers, athletes, fathers, children.",
+      "End with a hard sentence, a joke, or an unresolved door left open."
+    ],
+    "avoid": [
+      "Do not polish the voice into corporate thought leadership.",
+      "Do not over-explain the thesis before the scene has energy.",
+      "Do not use long academic paragraphs.",
+      "Do not make the voice blandly inspirational.",
+      "Do not replace the directness with careful hedging.",
+      "Do not treat repeated ad footer language as the main tone."
+    ]
+  },
+  "source_backed_examples": [
+    {
+      "quote_or_phrase": "A good brand, is essentially a promise kept",
+      "source_path": "substack/1-20/10/Brands are.md",
+      "pattern": "Turns a business concept into a moral definition."
+    },
+    {
+      "quote_or_phrase": "In meditation we are training the mind",
+      "source_path": "substack/1-20/18/On Meditation.md",
+      "pattern": "Starts with a clean abstraction and immediately asks what the abstraction means."
+    },
+    {
+      "quote_or_phrase": "I arrived in Korea today, and began walking.",
+      "source_path": "substack/21-40/36/Korea (internet is incredible).md",
+      "pattern": "Plain diary entry that becomes a thinking engine."
+    },
+    {
+      "quote_or_phrase": "I have a tiny, absolutely tiny small following.",
+      "source_path": "substack/41-60/54/.. ..-. .. --. ..- .-. . -.. .. - --- ..- -.md",
+      "pattern": "Comic self-lowering before making a larger claim."
+    },
+    {
+      "quote_or_phrase": "We can't let the poor get too excited!",
+      "source_path": "substack/61-80/62/On Upward Mobility.md",
+      "pattern": "Uses provocation and sarcasm to expose a social judgment."
+    },
+    {
+      "quote_or_phrase": "Is it easy to copy what you've done?",
+      "source_path": "substack/81-100/81/Invest in Yourself.md",
+      "pattern": "Challenges the reader with a practical test."
+    },
+    {
+      "quote_or_phrase": "You might think I'm crazy but it worked.",
+      "source_path": "substack/121-140/140/On Me.md",
+      "pattern": "Anticipates skepticism and uses lived result as authority."
+    },
+    {
+      "quote_or_phrase": "I wake up every day implementing the plan.",
+      "source_path": "substack/181-200/191/Purpose and Direction.md",
+      "pattern": "Founder discipline stated without ornament."
+    },
+    {
+      "quote_or_phrase": "I filled books upon books with my writing",
+      "source_path": "substack/321-340/334/Annals of Time.md",
+      "pattern": "Personal history as evidence of vocation."
+    },
+    {
+      "quote_or_phrase": "This world is too deep for Us...",
+      "source_path": "substack/321-340/340/Narcos.md",
+      "pattern": "Grand closing that leaves mystery instead of tidying the argument."
+    },
+    {
+      "quote_or_phrase": "Looking back man theres only one thing",
+      "source_path": "substack/361-380/376/A life well lived.md",
+      "pattern": "Casual spoken transition into a distilled lesson."
+    },
+    {
+      "quote_or_phrase": "Don't use your brain. Use your mind.",
+      "source_path": "substack/381-400/393/Reflexivity.md",
+      "pattern": "Sharp conceptual distinction compressed into command form."
+    }
+  ],
+  "drafting_guidance": {
+    "titles": [
+      "Use short titles, usually one to four words.",
+      "Common patterns: 'On X', 'The X', one-word abstractions, odd proper nouns, direct questions, or deliberately strange phrases.",
+      "Subtitles can explain or twist the title, but they should not feel like SEO copy."
+    ],
+    "openings": [
+      "Begin in motion: a memory, a walk, a startup moment, a question, a definition, or a blunt claim.",
+      "Do not ease in with generic context.",
+      "Let the first few lines sound like someone thinking out loud in real time."
+    ],
+    "body": [
+      "Alternate story and principle.",
+      "Use short paragraphs and frequent pivots.",
+      "Name the underlying concept once it appears.",
+      "Argue directly with imagined objections.",
+      "Let humor, confession, and metaphysical seriousness coexist."
+    ],
+    "closings": [
+      "End with a distilled rule, unresolved mystery, comic jab, or final command.",
+      "Avoid neat summary paragraphs.",
+      "A strong last line can be shorter and stranger than the rest."
+    ],
+    "do": [
+      "Write as a participant, not an observer.",
+      "Use the body as evidence.",
+      "Keep the reader close and slightly on trial.",
+      "Allow abrupt transitions when the thought has heat.",
+      "Prefer living examples over abstract explanation alone."
+    ],
+    "avoid": [
+      "Do not smooth out all grammar, casing, or rough edge.",
+      "Do not write like a newsletter strategist.",
+      "Do not overuse hashtags, product footers, or promo lines when the goal is authorial voice.",
+      "Do not make the essay merely philosophical; it needs a lived scene or personal wager."
+    ]
+  }
+}

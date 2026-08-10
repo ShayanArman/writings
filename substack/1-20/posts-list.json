@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/coming-soon",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-10-04T08:02:06.072Z",
+    "draft_slug": "coming-soon",
+    "draft_file": "2024-10-04-coming-soon.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "2": {
     "file_number": 2,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-economics-of-tourism",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "A Servers Dilemma",
+    "published_at": "2024-10-04T08:10:25.729Z",
+    "draft_slug": "the-economics-of-tourism",
+    "draft_file": "2024-10-04-the-economics-of-tourism.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "3": {
     "file_number": 3,
@@ -21,7 +35,23 @@
     "substack_url": "https://shayanarman.substack.com/p/freedom-from",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Cross-section of Productivity Economics and Religion",
+    "published_at": "2024-10-12T05:15:24.468Z",
+    "draft_slug": "freedom-from",
+    "draft_file": "2024-10-12-freedom-from.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/freedom-from/",
+    "images": [
+      {
+        "archive_filename": "tim.jpg",
+        "filename": "tim-ferriss-four-hour-workweek.webp",
+        "width": 500,
+        "height": 411,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/freedom-from/tim-ferriss-four-hour-workweek.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a84351cd-f5e0-4982-ad48-9b03622b8633_500x411.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "4": {
     "file_number": 4,
@@ -29,7 +59,23 @@
     "substack_url": "https://shayanarman.substack.com/p/starting-a-billion-dollar-company",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "is easier than starting a Million Dollar company.",
+    "published_at": "2024-10-15T10:47:20.045Z",
+    "draft_slug": "starting-a-billion-dollar-company",
+    "draft_file": "2024-10-15-starting-a-billion-dollar-company.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-billion-dollar-company/",
+    "images": [
+      {
+        "archive_filename": "thaly-orb.jpg",
+        "filename": "thaly-orb.png",
+        "width": 384,
+        "height": 378,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-billion-dollar-company/thaly-orb.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/080fbdfc-af2f-456b-ae5a-2e12c469aced_384x378.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "5": {
     "file_number": 5,
@@ -37,7 +83,14 @@
     "substack_url": "https://shayanarman.substack.com/p/thalyai-will-help-sales-people-sell",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Try it out at https://thaly.ai",
+    "published_at": "2024-10-16T03:52:05.857Z",
+    "draft_slug": "thaly-ai-will-help-sales-people-sell-more",
+    "draft_file": "2024-10-16-thaly-ai-will-help-sales-people-sell-more.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "6": {
     "file_number": 6,
@@ -45,7 +98,23 @@
     "substack_url": "https://shayanarman.substack.com/p/the-way-of-things",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Technology moves in lockstep",
+    "published_at": "2024-10-16T03:59:37.729Z",
+    "draft_slug": "the-way-of-things",
+    "draft_file": "2024-10-16-the-way-of-things.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-way-of-things/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "thaly-logo-variations.jpg",
+        "width": 233,
+        "height": 590,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-way-of-things/thaly-logo-variations.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/71e17e3d-fed6-4bc4-926e-71fad2bf1444_233x590.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "7": {
     "file_number": 7,
@@ -53,7 +122,23 @@
     "substack_url": "https://shayanarman.substack.com/p/on-canada-and-democracy",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "With a country so rich in resources, you're all broke.",
+    "published_at": "2024-10-17T05:28:56.428Z",
+    "draft_slug": "on-canada-and-democracy",
+    "draft_file": "2024-10-17-on-canada-and-democracy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-canada-and-democracy/",
+    "images": [
+      {
+        "archive_filename": "shayan.jpg",
+        "filename": "shayan-on-boat.jpg",
+        "width": 1170,
+        "height": 2080,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-canada-and-democracy/shayan-on-boat.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b5a4efa-cca4-4d0a-b31a-b5162fa92356_1170x2080.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "8": {
     "file_number": 8,
@@ -61,7 +146,23 @@
     "substack_url": "https://shayanarman.substack.com/p/camino-santiago",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and the art of the destination",
+    "published_at": "2024-10-19T05:39:48.801Z",
+    "draft_slug": "camino-santiago",
+    "draft_file": "2024-10-19-camino-santiago.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/camino-santiago/",
+    "images": [
+      {
+        "archive_filename": "ocean.jpg",
+        "filename": "tropical-ocean-view.jpg",
+        "width": 5712,
+        "height": 4284,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/camino-santiago/tropical-ocean-view.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7544e8ce-f9f9-4f57-b305-3b2ba134ca9b_5712x4284.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "9": {
     "file_number": 9,
@@ -69,7 +170,31 @@
     "substack_url": "https://shayanarman.substack.com/p/the-art-of-selling",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and polishing buttons",
+    "published_at": "2024-10-21T03:34:10.667Z",
+    "draft_slug": "the-art-of-selling",
+    "draft_file": "2024-10-21-the-art-of-selling.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-art-of-selling/",
+    "images": [
+      {
+        "archive_filename": "japan.jpg",
+        "filename": "japanese-bar-at-night.jpg",
+        "width": 5712,
+        "height": 4284,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-art-of-selling/japanese-bar-at-night.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b68b35d-5864-405e-9c61-a3356657a7cc_5712x4284.jpeg"
+      },
+      {
+        "archive_filename": "thaly.jpg",
+        "filename": "thaly-logo.png",
+        "width": 474,
+        "height": 472,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-art-of-selling/thaly-logo.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5dec3d17-21f3-4e1f-bbde-5eb03a0df18d_474x472.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "10": {
     "file_number": 10,
@@ -77,7 +202,47 @@
     "substack_url": "https://shayanarman.substack.com/p/brands-are",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "promises kept",
+    "published_at": "2024-10-23T03:59:25.914Z",
+    "draft_slug": "brands-are",
+    "draft_file": "2024-10-23-brands-are.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/",
+    "images": [
+      {
+        "archive_filename": "soup.jpg",
+        "filename": "campbells-soup-can.jpg",
+        "width": 185,
+        "height": 272,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/campbells-soup-can.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3981f3ef-afc3-4073-a925-4c4e2f21f27a_185x272.jpeg"
+      },
+      {
+        "archive_filename": "nike.png",
+        "filename": "nike-logo.png",
+        "width": 225,
+        "height": 225,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/nike-logo.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8c0a0a56-75f9-4cf5-8260-d09b4d732d53_225x225.png"
+      },
+      {
+        "archive_filename": "apple.jpg",
+        "filename": "apple-logo.jpg",
+        "width": 191,
+        "height": 179,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/apple-logo.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8fc2fdc-b672-4485-b2f5-d7c92473701f_191x179.jpeg"
+      },
+      {
+        "archive_filename": "coca_cola.png",
+        "filename": "coca-cola-logo.png",
+        "width": 225,
+        "height": 225,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/coca-cola-logo.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/efb92c0c-d225-4fb7-8aea-042e7b75b41d_225x225.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "11": {
     "file_number": 11,
@@ -85,7 +250,47 @@
     "substack_url": "https://shayanarman.substack.com/p/on-fear-and-opportunity",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-10-24T02:09:59.525Z",
+    "draft_slug": "on-fear-and-opportunity",
+    "draft_file": "2024-10-24-on-fear-and-opportunity.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/",
+    "images": [
+      {
+        "archive_filename": "warhol.jpg",
+        "filename": "andy-warhol.jpg",
+        "width": 540,
+        "height": 595,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/andy-warhol.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac673cbf-5d3a-44e1-abda-e530d9f3d381_540x595.jpeg"
+      },
+      {
+        "archive_filename": "chagall.jpg",
+        "filename": "marc-chagall.png",
+        "width": 791,
+        "height": 881,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/marc-chagall.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6a04e809-3022-4bad-abed-09c87ba9d4d4_791x881.png"
+      },
+      {
+        "archive_filename": "einstein.jpg",
+        "filename": "albert-einstein.jpg",
+        "width": 901,
+        "height": 599,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/albert-einstein.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5dd7aca4-0d5a-41f9-b0d2-02fbf3dd3667_901x599.jpeg"
+      },
+      {
+        "archive_filename": "feynman.jpg",
+        "filename": "richard-feynman.jpg",
+        "width": 600,
+        "height": 748,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/richard-feynman.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7f51e46-718b-4939-a92d-ab2eb2f6c483_600x748.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "12": {
     "file_number": 12,
@@ -93,7 +298,14 @@
     "substack_url": "https://shayanarman.substack.com/p/are-solo-entrepreneurs-atheletes",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "No.",
+    "published_at": "2024-10-26T06:08:08.503Z",
+    "draft_slug": "are-solo-entrepreneurs-atheletes",
+    "draft_file": "2024-10-26-are-solo-entrepreneurs-atheletes.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "13": {
     "file_number": 13,
@@ -101,7 +313,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-definitions",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "And the camels back",
+    "published_at": "2024-10-27T04:12:04.501Z",
+    "draft_slug": "on-definitions",
+    "draft_file": "2024-10-27-on-definitions.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "14": {
     "file_number": 14,
@@ -109,7 +328,24 @@
     "substack_url": "https://shayanarman.substack.com/p/on-running",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Haruki Murakami's Spiritual Quest",
+    "published_at": "2024-10-29T12:32:45.179Z",
+    "draft_slug": "on-running",
+    "draft_file": "2024-10-29-on-running.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-running/",
+    "images": [
+      {
+        "archive_filename": "shayan.jpg",
+        "filename": "shayan-after-running.jpg",
+        "width": 3024,
+        "height": 4032,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-running/shayan-after-running.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6de30887-7488-40e1-a615-7668741b51e0_3024x4032.heic",
+        "processing": "Full-resolution 3024x4032 JPEG conversion of the original HEIC for browser compatibility"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "15": {
     "file_number": 15,
@@ -117,7 +353,31 @@
     "substack_url": "https://shayanarman.substack.com/p/who-did-it",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "On Karma",
+    "published_at": "2024-10-31T05:51:32.356Z",
+    "draft_slug": "who-did-it",
+    "draft_file": "2024-10-31-who-did-it.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-did-it/",
+    "images": [
+      {
+        "archive_filename": "thaly.jpg",
+        "filename": "thaly-ai-kickstarter.png",
+        "width": 1280,
+        "height": 720,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-did-it/thaly-ai-kickstarter.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dff900f5-5d55-4e37-bea3-30caf3e54a7d_1280x720.png"
+      },
+      {
+        "archive_filename": "zero_inbox.jpg",
+        "filename": "zero-inbox.png",
+        "width": 2562,
+        "height": 1238,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-did-it/zero-inbox.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4ca9aae2-3003-4210-afc2-99124c6db08c_2562x1238.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "16": {
     "file_number": 16,
@@ -125,7 +385,31 @@
     "substack_url": "https://shayanarman.substack.com/p/the-two-layers-of-the-universe",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "On Automatons and Non-Automatons",
+    "published_at": "2024-11-08T04:53:56.667Z",
+    "draft_slug": "the-two-layers-of-the-universe",
+    "draft_file": "2024-11-08-the-two-layers-of-the-universe.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-two-layers-of-the-universe/",
+    "images": [
+      {
+        "archive_filename": "universe_one.jpg",
+        "filename": "cosmic-nebula.webp",
+        "width": 1024,
+        "height": 593,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-two-layers-of-the-universe/cosmic-nebula.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d64781e4-980f-424c-818b-6f80d15f71ed_1024x593.webp"
+      },
+      {
+        "archive_filename": "universe_two.jpg",
+        "filename": "spiral-galaxy.jpg",
+        "width": 3462,
+        "height": 2228,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-two-layers-of-the-universe/spiral-galaxy.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5a36eed5-45de-41e7-97d4-82196764f157_3462x2228.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "17": {
     "file_number": 17,
@@ -133,7 +417,23 @@
     "substack_url": "https://shayanarman.substack.com/p/inter-conceptual-travel",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Elo Scores",
+    "published_at": "2024-11-09T01:36:06.687Z",
+    "draft_slug": "inter-conceptual-travel",
+    "draft_file": "2024-11-09-inter-conceptual-travel.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/inter-conceptual-travel/",
+    "images": [
+      {
+        "archive_filename": "vegeta.jpg",
+        "filename": "vegeta-power-level.jpg",
+        "width": 736,
+        "height": 1039,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/inter-conceptual-travel/vegeta-power-level.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f779ac65-6341-4728-83b1-1785a4abc2cb_736x1039.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "18": {
     "file_number": 18,
@@ -141,7 +441,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-meditation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-11-13T11:36:39.890Z",
+    "draft_slug": "on-meditation",
+    "draft_file": "2024-11-13-on-meditation.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "19": {
     "file_number": 19,
@@ -149,7 +456,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-unsettled-mind",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "On the myth of ADHD",
+    "published_at": "2024-11-18T06:28:45.385Z",
+    "draft_slug": "the-unsettled-mind",
+    "draft_file": "2024-11-18-the-unsettled-mind.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "20": {
     "file_number": 20,
@@ -157,6 +471,13 @@
     "substack_url": "https://shayanarman.substack.com/p/odysseus",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "And fiction",
+    "published_at": "2024-11-18T06:34:53.317Z",
+    "draft_slug": "odysseus",
+    "draft_file": "2024-11-18-odysseus.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

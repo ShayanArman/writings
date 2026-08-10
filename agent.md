@@ -235,6 +235,51 @@ Post 48 (`substack/41-60/48/Intrepid, to the Stars.md`) is the pattern to follow
 
 Post 64 (`substack/61-80/64/People don't appreciate this enough.md`) is the pattern to follow when the user provides a local image file: use a Markdown image reference like `![Queenstown New Zealand](mountain.jpg)` followed by `*Queenstown New Zealand*`.
 
+## Converting Archived Posts To Reviewable MDX Drafts
+
+When Shayan asks to turn numbered archive posts into site drafts, use this workflow:
+
+1. Read the title, canonical URL, and existing image status from the range's `posts-list.json`.
+2. Fetch the original Substack metadata and use its exact publication timestamp. Put the `YYYY-MM-DD` portion in both the MDX filename and frontmatter `date`.
+3. Create a simple lowercase kebab-case slug from the real Substack title.
+4. Create the review copy only in:
+   `/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/draft-post/YYYY-MM-DD-<slug>.mdx`
+5. Keep the post local until Shayan explicitly approves publishing it. Never upload draft MDX during the review pass.
+6. Convert body images to `GangsterImage` components and use final S3 references in the MDX.
+7. Upload only approved/requested images to a dedicated slug folder under:
+   `s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/`
+
+S3 access boundary for this site:
+
+- Only access objects under `s3://seo-gangster/sites/shayan-arman-blog/`.
+- Do not list, read, write, copy, or delete any other prefix in the `seo-gangster` bucket.
+- Scope every AWS command to the exact `sites/shayan-arman-blog/` key prefix or a narrower post-specific prefix.
+- Never use a bucket-wide listing, sync, copy, or permission check for this workflow.
+- Image uploads belong under `sites/shayan-arman-blog/public/images/posts/<slug>/`.
+- Published MDX would belong under `sites/shayan-arman-blog/posts/writings/`, but do not upload MDX until Shayan explicitly approves the reviewed drafts.
+
+Image rules for MDX conversion:
+
+- Use the original full-resolution `substack-post-media.s3.amazonaws.com` object, never a resized or recompressed `substackcdn.com/image/fetch` rendition.
+- If the original format is not suitable for the website, such as HEIC, make a full-resolution browser-compatible conversion without downscaling.
+- Normalize image basenames to lowercase kebab-case with dashes, preserving a suitable extension. For example, `coca_cola.png` becomes `coca-cola.png`.
+- Preserve source image order and placement in the article.
+- Give every image meaningful alt text. Preserve a real source caption when one exists; do not invent a caption merely to fill the field.
+- Use the first suitable article image as the metadata thumbnail, but do not duplicate it as an extra body image solely to create a hero.
+- Create one S3 folder per post slug. Do not place different posts' images directly in the shared `posts/` root.
+
+Whenever original metadata or publishing preparation information is discovered, update that exact post's `posts-list.json` entry. In addition to the existing fields, record useful fields such as:
+
+- `subtitle`: the original Substack subtitle, or `null`.
+- `published_at`: the exact original Substack timestamp.
+- `draft_slug`: the chosen kebab-case slug.
+- `draft_file`: the dated MDX filename.
+- `image_s3_prefix`: the slug-specific image folder, or `null` when there are no images.
+- `images`: an array that maps each normalized filename to its final S3 URI and original source URL.
+- `images_uploaded_to_s3`: `true` only after all images used by that post were successfully uploaded; otherwise `false` or `null` when the post has no images.
+
+Validate every generated MDX file before reporting completion. Draft review happens at `/drafts/<slug>` while the local development server is running.
+
 ## How To Run It
 
 Preferred: run from the `substack` directory.

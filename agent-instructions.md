@@ -122,6 +122,22 @@ Use:
 
 Whenever metadata is recovered, update that exact entry in the matching `posts-list.json`. Do not leave recovered metadata only in the MDX.
 
+## Live-Post Source URL Rule
+
+Every MDX post placed under:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/live-posts/shayan-arman-blog/writings/
+```
+
+must include a quoted `source-url` field in its frontmatter. Match the live MDX file to its ledger entry using `draft_file`, then copy the exact `substack_url` value from the matching range's `posts-list.json`:
+
+```mdx
+source-url: "https://shayanarman.substack.com/p/example-slug"
+```
+
+Do not reconstruct the URL from the MDX slug, and do not confuse the post-level `substack_url` with an image mapping's `source_url`. Whenever drafts are moved into `site/live-posts/`, verify that every live post in the migrated range has exactly one `source-url` and that its value exactly matches the ledger.
+
 ## Ledger Fields For MDX Migration
 
 Each migrated ledger entry can include:
@@ -166,6 +182,7 @@ date: "YYYY-MM-DD"
 category: "Writings"
 collection: "Writings"
 author: "Shayan Arman"
+source-url: "https://shayanarman.substack.com/p/example-slug"
 keywords:
   - "descriptive keyword"
 hashtags:
@@ -268,6 +285,7 @@ After Shayan approves a draft:
 Before reporting a converted range as complete:
 
 - Parse every MDX frontmatter block.
+- For every live MDX post, confirm `source-url` exactly matches the `substack_url` in the ledger entry identified by `draft_file`.
 - Confirm filename date equals frontmatter `date`.
 - Compile every MDX file with `@mdx-js/mdx`.
 - Confirm no `<todo-image-shayan: ...>` placeholders remain.

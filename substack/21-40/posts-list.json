@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-value-of-value",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-11-18T08:24:18.486Z",
+    "draft_slug": "the-value-of-value",
+    "draft_file": "2024-11-18-the-value-of-value.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "22": {
     "file_number": 22,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-little-things",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-11-19T08:55:55.828Z",
+    "draft_slug": "the-little-things",
+    "draft_file": "2024-11-19-the-little-things.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "23": {
     "file_number": 23,
@@ -21,7 +35,14 @@
     "substack_url": "https://shayanarman.substack.com/p/minor-deviations",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-11-20T09:36:14.044Z",
+    "draft_slug": "minor-deviations",
+    "draft_file": "2024-11-20-minor-deviations.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "24": {
     "file_number": 24,
@@ -29,7 +50,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-creation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "poetry",
+    "published_at": "2024-11-30T08:13:49.604Z",
+    "draft_slug": "on-creation",
+    "draft_file": "2024-11-30-on-creation.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "25": {
     "file_number": 25,
@@ -37,7 +65,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-emergence",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-12-02T17:47:37.742Z",
+    "draft_slug": "on-emergence",
+    "draft_file": "2024-12-02-on-emergence.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "26": {
     "file_number": 26,
@@ -45,7 +80,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-values",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and the notion of the Good",
+    "published_at": "2024-12-05T07:55:46.889Z",
+    "draft_slug": "on-values",
+    "draft_file": "2024-12-05-on-values.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "27": {
     "file_number": 27,
@@ -53,7 +95,14 @@
     "substack_url": "https://shayanarman.substack.com/p/emergent-properties",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-12-10T07:04:22.600Z",
+    "draft_slug": "emergent-properties",
+    "draft_file": "2024-12-10-emergent-properties.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "28": {
     "file_number": 28,
@@ -61,7 +110,14 @@
     "substack_url": "https://shayanarman.substack.com/p/what-we-are-most-concerned-with",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2024-12-10T07:15:23.868Z",
+    "draft_slug": "what-we-are-most-concerned-with",
+    "draft_file": "2024-12-10-what-we-are-most-concerned-with.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "29": {
     "file_number": 29,
@@ -69,7 +125,14 @@
     "substack_url": "https://shayanarman.substack.com/p/alive-and-wed-un-reasonably-dead",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "A cat's tail",
+    "published_at": "2024-12-14T15:17:30.664Z",
+    "draft_slug": "alive-and-wed-un-reasonably-dead",
+    "draft_file": "2024-12-14-alive-and-wed-un-reasonably-dead.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "30": {
     "file_number": 30,
@@ -77,7 +140,14 @@
     "substack_url": "https://shayanarman.substack.com/p/princep-august-apex",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "What is the first virtue? The first truth?",
+    "published_at": "2024-12-15T08:44:40.986Z",
+    "draft_slug": "princep-august-apex",
+    "draft_file": "2024-12-15-princep-august-apex.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "31": {
     "file_number": 31,
@@ -85,7 +155,14 @@
     "substack_url": "https://shayanarman.substack.com/p/what-a-mess",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "A shepherds tale",
+    "published_at": "2024-12-16T07:58:58.101Z",
+    "draft_slug": "what-a-mess",
+    "draft_file": "2024-12-16-what-a-mess.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "32": {
     "file_number": 32,
@@ -93,7 +170,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-b-cs",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "A Winter without Guests",
+    "published_at": "2024-12-19T09:22:10.410Z",
+    "draft_slug": "a-b-cs",
+    "draft_file": "2024-12-19-a-b-cs.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "33": {
     "file_number": 33,
@@ -101,7 +185,14 @@
     "substack_url": "https://shayanarman.substack.com/p/shaking-hands-with-kings",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "the Golden Dollar",
+    "published_at": "2024-12-21T16:50:17.407Z",
+    "draft_slug": "shaking-hands-with-kings",
+    "draft_file": "2024-12-21-shaking-hands-with-kings.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "34": {
     "file_number": 34,
@@ -109,7 +200,14 @@
     "substack_url": "https://shayanarman.substack.com/p/selling-your-iphone-to-god",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Opposing Factors",
+    "published_at": "2024-12-23T14:33:39.185Z",
+    "draft_slug": "selling-your-iphone-to-god",
+    "draft_file": "2024-12-23-selling-your-iphone-to-god.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "35": {
     "file_number": 35,
@@ -117,7 +215,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-change",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and its location",
+    "published_at": "2024-12-24T08:23:00.619Z",
+    "draft_slug": "on-change",
+    "draft_file": "2024-12-24-on-change.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "36": {
     "file_number": 36,
@@ -125,7 +230,14 @@
     "substack_url": "https://shayanarman.substack.com/p/korea-internet-is-incredible",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Philosophy takes time (like everything)",
+    "published_at": "2024-12-29T05:14:44.489Z",
+    "draft_slug": "korea-internet-is-incredible",
+    "draft_file": "2024-12-29-korea-internet-is-incredible.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "37": {
     "file_number": 37,
@@ -133,7 +245,14 @@
     "substack_url": "https://shayanarman.substack.com/p/its-easy",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-01T00:27:03.880Z",
+    "draft_slug": "its-easy",
+    "draft_file": "2025-01-01-its-easy.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "38": {
     "file_number": 38,
@@ -141,7 +260,14 @@
     "substack_url": "https://shayanarman.substack.com/p/in-the-end-equality",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-01T03:01:25.748Z",
+    "draft_slug": "in-the-end-equality",
+    "draft_file": "2025-01-01-in-the-end-equality.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "39": {
     "file_number": 39,
@@ -149,7 +275,42 @@
     "substack_url": "https://shayanarman.substack.com/p/the-greatest-cover-letter-of-all",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "my love for the new, the strange, the wonderful",
+    "published_at": "2025-01-01T03:17:39.369Z",
+    "draft_slug": "the-greatest-cover-letter-of-all",
+    "draft_file": "2025-01-01-the-greatest-cover-letter-of-all.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/",
+    "images": [
+      {
+        "archive_filename": "greece_floor.jpg",
+        "filename": "paros-greece.jpg",
+        "width": 3024,
+        "height": 4032,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/paros-greece.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9fd38e61-d9d2-4b44-9f84-1d8347888196_3024x4032.heic",
+        "processing": "Converted from the original 3024x4032 HEIC to a quality-100 JPEG without downscaling."
+      },
+      {
+        "archive_filename": "shayan.jpg",
+        "filename": "greek-sunset.jpg",
+        "width": 3024,
+        "height": 4032,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/greek-sunset.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a101d505-f3d7-4ca3-b0e0-b9098a88a200_3024x4032.heic",
+        "processing": "Converted from the original 3024x4032 HEIC to a quality-100 JPEG without downscaling."
+      },
+      {
+        "archive_filename": "greek-sun.jpg",
+        "filename": "shayan-in-monaco.jpg",
+        "width": 4284,
+        "height": 5712,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/shayan-in-monaco.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5b11ca0-8306-4719-ba47-1cd641dc5961_4284x5712.heic",
+        "processing": "Converted from the original 4284x5712 HEIC to a quality-100 JPEG without downscaling."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "40": {
     "file_number": 40,
@@ -157,6 +318,13 @@
     "substack_url": "https://shayanarman.substack.com/p/on-negotiation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "a continuation of the series of value \"what is the value of value\"",
+    "published_at": "2025-01-02T02:38:10.945Z",
+    "draft_slug": "on-negotiation",
+    "draft_file": "2025-01-02-on-negotiation.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

@@ -97,11 +97,25 @@ Draft files:
 2024-11-18-odysseus.mdx
 ```
 
-There are 21 article images across 12 image-bearing posts. All 21 were uploaded and individually verified under the canonical Shayan Arman S3 image prefix. No MDX post was uploaded.
+There are 21 article images across 12 image-bearing posts. All 21 were uploaded and individually verified under the canonical Shayan Arman S3 image prefix. As of 2026-08-10, all 20 MDX posts are also present under the canonical writings-post prefix.
 
 The `substack/1-20/posts-list.json` ledger was enriched and marks all 12 image-bearing posts with `images_uploaded_to_s3: true`.
 
-Do not redo posts 1–20 unless Shayan asks for revisions. For the next migration prompt, start with the exact range Shayan names—most likely `substack/21-40/`—and apply the same ledger, date, hashtag, image-quality, draft-location, S3-boundary, and approval rules.
+Do not redo posts 1–20 unless Shayan asks for revisions. For later ranges, apply the same ledger, date, hashtag, image-quality, draft-location, S3-boundary, and approval rules.
+
+## Current Completed State: Posts 21–40
+
+All 20 posts from `substack/21-40/` have been converted into validated local MDX files in the Shayan Arman draft directory and uploaded to:
+
+```text
+s3://seo-gangster/sites/shayan-arman-blog/posts/writings/
+```
+
+Post 39 is the only image-bearing post in this range. Its three original full-resolution HEIC images were converted to quality-100 browser-compatible JPEGs without downscaling, uploaded to the post-specific image prefix, and verified at 3024×4032, 3024×4032, and 4284×5712.
+
+All 20 MDX files and all three images were verified against their exact S3 keys and local byte sizes on 2026-08-10. The `substack/21-40/posts-list.json` ledger contains the authoritative metadata, draft filenames, source URLs, image mappings, processing notes, and verification state.
+
+Do not redo posts 21–40 unless Shayan asks for revisions. For the next migration prompt, start with the exact range Shayan names—most likely `substack/41-60/`—and apply the same rules.
 
 ## Source Metadata Rules
 

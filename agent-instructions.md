@@ -117,6 +117,37 @@ All 20 MDX files and all three images were verified against their exact S3 keys 
 
 Do not redo posts 21–40 unless Shayan asks for revisions. For the next migration prompt, start with the exact range Shayan names—most likely `substack/41-60/`—and apply the same rules.
 
+## Current Review State: Post 41 Pilot
+
+Post 41, “One Yellow Card,” is the only post currently prepared for review from
+the next ranges. Its local draft is:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/draft-post/2025-01-06-one-yellow-card.mdx
+```
+
+Preview route:
+
+```text
+/drafts/one-yellow-card
+```
+
+The pilot includes the exact frontmatter `source-url`, which the shared article
+layout renders as a subtle “Source article” metadata link after the date. It
+also includes explicit Markdown links for visible body URLs,
+`<ShareArticleClipboard />`, `<ArticleDivider />`, and `<ProductLinks />` in the
+required order. Post 41 has no article images. Its MDX compilation, TypeScript,
+ESLint, and site contract checks passed.
+
+Post 41 has not been uploaded to S3 and is awaiting Shayan's explicit approval.
+Do not convert or upload posts 42–100 merely because those future ranges were
+discussed. Continue only after Shayan sends a new approval message that names
+the work to perform.
+
+The discussed future batch was `41-60`, then `61-80`, then `81-100`, with no
+intermediate `draft-post` copies after the pilot is approved. This records the
+intended sequence only; it is not authorization to start or publish that batch.
+
 ## Source Metadata Rules
 
 The range ledger already provides the title and canonical Substack URL. Use it first.
@@ -138,6 +169,12 @@ Whenever metadata is recovered, update that exact entry in the matching `posts-l
 
 ## Live-Post Source URL Rule
 
+Every migrated MDX file with a known ledger `substack_url`—including a local
+review draft—must include the exact quoted `source-url` in frontmatter. The
+shared article layout reads this field and renders a subtle “Source article”
+text link in the metadata row after the category and date. Do not add a second
+source link inside the MDX body.
+
 Every MDX post placed under:
 
 ```text
@@ -151,6 +188,101 @@ source-url: "https://shayanarman.substack.com/p/example-slug"
 ```
 
 Do not reconstruct the URL from the MDX slug, and do not confuse the post-level `substack_url` with an image mapping's `source_url`. Whenever drafts are moved into `site/live-posts/`, verify that every live post in the migrated range has exactly one `source-url` and that its value exactly matches the ledger.
+
+## Article Footer Contract
+
+Every converted article must end in this order:
+
+1. `<ShareArticleClipboard />`.
+2. `<ArticleDivider />`.
+3. `<ProductLinks />`.
+
+Import all required site components in the MDX:
+
+```mdx
+import ArticleDivider from "@site/components/ArticleDivider";
+import ProductLinks from "@site/components/ProductLinks";
+import ShareArticleClipboard from "@site/components/ShareArticleClipboard";
+```
+
+The source URL belongs only in frontmatter. The footer remains platform-neutral:
+
+```mdx
+<ShareArticleClipboard />
+
+<ArticleDivider />
+
+<ProductLinks />
+```
+
+Always keep `ArticleDivider`, the share component, and the product component.
+This order supersedes the earlier placement of the divider above the share
+section. There must be only one article-footer divider: between the share
+section and ProductLinks.
+Convert visible raw body URLs into explicit Markdown links so readers can click
+them.
+
+### Rendered Source Attribution Contract
+
+The source attribution is owned centrally by:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/shared/components/Article/BlogArticle.tsx
+```
+
+`parseMdxDocument` maps the frontmatter `source-url` field to article metadata.
+When present, `BlogArticle` renders the text “Source article” after the date,
+separated by the same subtle metadata dot. The link opens in a new tab with
+`noopener noreferrer` and uses quiet metadata styling with understated hover
+and keyboard-focus feedback. Do not use a source card, source icon, envelope
+icon, `SourceArticleLink` component, or duplicate body link.
+
+### `ArticleDivider` Contract
+
+The reusable component lives at:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/components/ArticleDivider/
+```
+
+`ArticleDivider` owns the only separator line in the article footer. Use it as
+a standalone `<ArticleDivider />` immediately after
+`<ShareArticleClipboard />` and immediately before `<ProductLinks />`. It must
+render an accessible horizontal separator with a `3.5rem` top margin, a
+`1px solid rgba(23, 23, 23, 0.14)` line, and a `2rem` bottom margin. Do not put
+footer separator styles inside `ShareArticleClipboard` or `ProductLinks`, and
+do not add another line above the share section.
+
+### `ShareArticleClipboard` Contract
+
+The reusable component lives at:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/components/ShareArticleClipboard/
+```
+
+Use `<ShareArticleClipboard />` without requiring article-specific props. It
+must provide:
+
+- an accessible X share link using
+  `https://x.com/intent/post?text=<encoded-title>&url=<encoded-canonical-url>`;
+- an accessible LinkedIn share link using
+  `https://www.linkedin.com/sharing/share-offsite/?url=<encoded-canonical-url>&title=<encoded-title>`;
+- a Copy link button that copies the canonical public article URL and gives
+  visible success feedback;
+- clear keyboard focus styles and accessible labels;
+- the article's exact rendered title when a reader clicks a share control;
+- the canonical `/writings/<slug>` URL rather than a local `/drafts/<slug>` URL
+  when the component is rendered in draft preview.
+
+Open social-share destinations in a new tab with `noopener noreferrer`. Keep
+the presentation restrained and editorial: a “Share this article” heading,
+square X and LinkedIn controls, and a wider Copy link control.
+`ShareArticleClipboard` must not render a divider or external top
+margin/padding. `ArticleDivider` owns the separator after the share section.
+Avoid article-typography margins leaking into the share heading. `ProductLinks`
+must have no built-in divider and no top padding; retain its `15px`
+(`0.9375rem`) top margin after `ArticleDivider`.
 
 ## Ledger Fields For MDX Migration
 
@@ -236,6 +368,9 @@ The source hashtag lines remain in the article bodies. Do not remove them unless
 - Remove the source title and subtitle from the body because the article layout renders them from frontmatter.
 - Preserve Shayan's wording, capitalization, punctuation, paragraph order, and intentional roughness.
 - Preserve source links.
+- Convert every visible raw `http://` or `https://` body URL into an explicit
+  Markdown link such as `[https://example.com](https://example.com)`. A URL
+  appearing as plain text is not considered a finished link.
 - Convert angle-bracket URLs that MDX interprets as JSX into normal Markdown links.
 - Replace invalid extraction placeholders with real media components.
 - Preserve every source image's original position and order.
@@ -257,6 +392,8 @@ import GangsterImage from "@shared/components/GangsterImage";
 - Constrain small logos or artwork with `figureStyle` so they are not stretched beyond their native dimensions.
 - Use real source captions when present. Do not invent a caption merely to fill a prop.
 - Always provide meaningful alt text.
+- Put `<br />` on its own line immediately after every `GangsterImage` that has
+  a `caption` prop. Do not add this caption spacer to images without captions.
 
 ### `GangsterImage` Caption Contract
 
@@ -273,6 +410,8 @@ For a plain-text caption, preserve the source wording exactly:
   sizes="(max-width: 768px) 100vw, 760px"
   caption="A photo I took in Paros Greece, my love for travel continued…"
 />
+
+<br />
 ```
 
 When the caption contains links or other inline markup, preserve them by passing a React node rather than flattening the caption into an unlinked string:
@@ -286,6 +425,8 @@ When the caption contains links or other inline markup, preserve them by passing
   sizes="(max-width: 768px) 100vw, 760px"
   caption={<>See <a href="https://example.com">the original source</a>.</>}
 />
+
+<br />
 ```
 
 Caption identification rules:
@@ -310,6 +451,34 @@ Caption identification rules:
 ## Draft Review And Approval Gate
 
 Drafts are local-only until approval.
+
+### One-Post Pilot Before A Batch
+
+When Shayan asks to see one post before deciding whether to run a larger batch:
+
+1. Convert only the named pilot post into `site/draft-post/`.
+2. Add its exact frontmatter `source-url`; rely on the shared article layout for
+   the subtle rendered source link. End the footer with
+   `<ShareArticleClipboard />`, `<ArticleDivider />`, and `<ProductLinks />` in
+   that exact order.
+3. Validate the pilot and provide its `/drafts/<slug>` preview route.
+4. Do not convert, prepare, upload, or otherwise touch later posts in the
+   proposed batch.
+5. Do not upload the pilot MDX or any batch MDX/images to S3.
+6. Wait for a new, explicit approval message from Shayan.
+
+A description of what should happen *after* approval—even when it contains
+phrasing such as “okay make them all”—is not present approval when Shayan also
+says he wants to inspect the pilot first. Treat the approval checkpoint as the
+controlling instruction.
+
+After Shayan explicitly approves the pilot and explicitly authorizes the named
+batch, perform only those named ranges. If he also says there is no need to
+create `draft-post` copies for the approved batch, generate publishable MDX in
+a safe local working area, run the complete validation suite, upload images and
+MDX to the exact approved Shayan Arman S3 prefixes, verify each exact key, and
+update the corresponding ledgers. Do not interpret pilot approval alone as
+authorization for unmentioned ranges.
 
 Preview route:
 
@@ -340,7 +509,24 @@ After Shayan approves a draft:
 Before reporting a converted range as complete:
 
 - Parse every MDX frontmatter block.
+- Confirm every MDX with a ledger `substack_url` has exactly one frontmatter
+  `source-url` whose value matches the ledger exactly.
 - For every live MDX post, confirm `source-url` exactly matches the `substack_url` in the ledger entry identified by `draft_file`.
+- Confirm every visible raw body URL has been converted to a clickable Markdown
+  link, excluding URLs intentionally used as link destinations, component
+  props, or frontmatter values.
+- When `substack_url` exists, confirm the shared article header renders exactly
+  one subtle “Source article” text link whose `href` matches `source-url`.
+- Confirm there is no `SourceArticleLink` import, source card, source icon, or
+  duplicate source link in the MDX body.
+- Confirm the footer order is exactly one `<ShareArticleClipboard />`, exactly
+  one `<ArticleDivider />`, then exactly one `<ProductLinks />`.
+- Confirm the only article-footer line is the standalone `<ArticleDivider />`
+  between the share section and ProductLinks; confirm neither
+  `ShareArticleClipboard` nor `ProductLinks` contains a divider, and confirm
+  ProductLinks retains its `15px` (`0.9375rem`) top margin after the divider.
+- Confirm the X and LinkedIn share destinations encode the article title and
+  canonical public URL, and confirm Copy link uses that same canonical URL.
 - Confirm filename date equals frontmatter `date`.
 - Compile every MDX file with `@mdx-js/mdx`.
 - Confirm no `<todo-image-shayan: ...>` placeholders remain.
@@ -349,6 +535,9 @@ Before reporting a converted range as complete:
 - Confirm no known caption remains as a standalone Markdown paragraph above or below its `GangsterImage`.
 - Confirm ordinary prose adjacent to images was not mistakenly moved into a caption.
 - Confirm caption links and other inline markup remain functional React-node content rather than being flattened or dropped.
+- Confirm each `GangsterImage` with a `caption` prop is followed immediately by
+  a standalone `<br />`, and that uncaptioned images do not receive this
+  caption spacer.
 - Confirm all S3 references begin with:
   `s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/`
 - Compare the unique image references in the MDX set against the image mappings in `posts-list.json`.
@@ -373,6 +562,8 @@ Those files are not the canonical Shayan Arman drafts and are not referenced by 
 Keep handoffs concise. State:
 
 - which numbered range was converted;
+- whether the work is a one-post pilot awaiting approval or an explicitly
+  approved batch;
 - the correct local draft directory;
 - how many drafts and images were validated;
 - whether images were uploaded;

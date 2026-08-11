@@ -162,7 +162,14 @@
     "substack_url": "https://shayanarman.substack.com/p/never-have-you-ever",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "experienced such things I'm sure",
+    "published_at": "2025-03-11T15:21:05.041Z",
+    "draft_slug": "never-have-you-ever",
+    "draft_file": "2025-03-11-never-have-you-ever.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "69": {
     "file_number": 69,
@@ -170,7 +177,23 @@
     "substack_url": "https://shayanarman.substack.com/p/where-is-gods-place",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-03-11T20:47:52.015Z",
+    "draft_slug": "where-is-gods-place",
+    "draft_file": "2025-03-11-where-is-gods-place.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/where-is-gods-place/",
+    "images": [
+      {
+        "archive_filename": "judgemental-god.jpg",
+        "filename": "judgemental-god.webp",
+        "width": 631,
+        "height": 300,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/where-is-gods-place/judgemental-god.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f1b2b6f9-7f9f-4b20-ae8a-c4a57bbaf16c_631x300.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "70": {
     "file_number": 70,
@@ -178,7 +201,14 @@
     "substack_url": "https://shayanarman.substack.com/p/petri-dish-economics",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-03-12T15:22:46.055Z",
+    "draft_slug": "petri-dish-economics",
+    "draft_file": "2025-03-12-petri-dish-economics.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "71": {
     "file_number": 71,

@@ -146,32 +146,41 @@ visible-link, hashtag, footer, image-order, and caption-placement validation.
 The `substack/41-60/posts-list.json` ledger is authoritative for titles,
 publication timestamps, source URLs, final filenames, image mappings, and
 verification state. Do not redo posts 41–60 unless Shayan asks for revisions.
-The next unconverted range starts at post 74.
+The next unconverted range starts at post 78.
 
-## Current Completed State: Posts 61–73
+## Current Completed State: Posts 61–77
 
 Posts 61–66 have been converted into validated, publishable MDX in the local
 Shayan Arman `site/live-posts/shayan-arman-blog/writings/` directory and
 uploaded to the canonical writings-post S3 prefix. At Shayan's request, posts
-67–73 were generated and validated one at a time in temporary storage,
+67–77 were generated and validated one at a time in temporary storage,
 uploaded directly to S3, and were not added to `site/live-posts/`.
 
-Posts 62, 64, 66, 67, 69, and 73 are the six image-bearing posts in this batch. Their eight
-original full-quality `substack-post-media.s3.amazonaws.com` objects were
-verified byte-for-byte against the archive files before upload. Post 62's
+Posts 62, 64, 66, 67, 69, 73, 74, 75, and 77 are the nine image-bearing posts
+in this batch. Their fourteen original full-quality
+`substack-post-media.s3.amazonaws.com` objects were verified at their native
+dimensions and checksums before upload. Where archive files existed, the
+original source objects were also verified byte-for-byte against them. Post 62's
 `factory.jpg` archive file contains WebP data, so its final S3 filename and
 MDX reference correctly use `factory.webp`. Post 66's misleading
 `shibuya-station.jpg` archive filename was replaced with the descriptive final
 filename `death-note-light-and-l.jpg`. Post 69's `judgemental-god.jpg` archive
 file also contains WebP data, so its final filename is `judgemental-god.webp`.
 Post 73's missing local image was recovered directly from the original
-full-quality Substack PNG object. All eight image objects and all thirteen MDX
-objects were verified against their exact S3 keys, local byte sizes, and MD5
-ETags on 2026-08-11.
+full-quality Substack PNG object. Post 74's three missing local diagrams were
+recovered directly from the original full-quality Substack objects; the second
+source URL ends in `.jpeg` but serves PNG data, so its final filename and
+content type correctly use PNG. Post 75's missing local illustration was
+recovered directly from the original full-quality 1024×1024 Substack PNG
+object. Post 76 is text-only. Post 77's two missing local Zero Inbox images were
+recovered directly from the original full-quality 1292×727 JPEG and 1179×2556
+PNG objects. All fourteen image objects and all seventeen MDX objects were
+verified against their exact S3 keys, local byte sizes, and MD5 ETags on
+2026-08-11.
 
-The `substack/61-80/posts-list.json` ledger is authoritative for the thirteen
+The `substack/61-80/posts-list.json` ledger is authoritative for the seventeen
 titles, publication timestamps, source URLs, filenames, image mappings, and
-verification state. Do not redo posts 61–73 unless Shayan asks for revisions.
+verification state. Do not redo posts 61–77 unless Shayan asks for revisions.
 
 ## Completed Live-Post Pattern Upgrade: Posts 1–40
 
@@ -202,9 +211,9 @@ captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
 whitespace checks passed. No updated MDX files were uploaded to S3 as part of
 this local live-post upgrade.
 
-## Next Migration State: Posts 74–100
+## Next Migration State: Posts 78–100
 
-Posts 1–73 are complete and uploaded. The next unconverted posts are 74–80
+Posts 1–77 are complete and uploaded. The next unconverted posts are 78–80
 within `substack/61-80/`, followed by `substack/81-100/`.
 
 This records the intended sequence only. Do not convert or upload either range

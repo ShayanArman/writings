@@ -270,7 +270,39 @@
     "substack_url": "https://shayanarman.substack.com/p/pain-pleasure-and-redemption",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-03-31T01:54:57.451Z",
+    "draft_slug": "pain-pleasure-and-redemption",
+    "draft_file": "2025-03-31-pain-pleasure-and-redemption.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "pain-pleasure-cycle.jpeg",
+        "width": 1280,
+        "height": 964,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-cycle.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bbce6bc1-2db9-4807-ad59-e743f8d11258_1280x964.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "pain-pleasure-equilibrium.png",
+        "width": 1280,
+        "height": 964,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-equilibrium.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/061c71bd-294d-4f7b-8c6b-dc22eceba3e7_1280x964.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "rest-and-equilibrium.png",
+        "width": 1000,
+        "height": 600,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/rest-and-equilibrium.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/057ecaf9-a312-4ffe-966c-b01c775cdbd5_1000x600.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "75": {
     "file_number": 75,
@@ -278,7 +310,27 @@
     "substack_url": "https://shayanarman.substack.com/p/your-lucky-week",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-04-07T03:01:44.689Z",
+    "draft_slug": "your-lucky-week",
+    "draft_file": "2025-04-07-your-lucky-week.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/your-lucky-week/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "lucky-week-probability.png",
+        "width": 1024,
+        "height": 1024,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/your-lucky-week/lucky-week-probability.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d18280de-1348-432f-8176-360ec5ce6a7c_1024x1024.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "76": {
     "file_number": 76,
@@ -286,7 +338,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-the-river",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-04-11T05:20:25.505Z",
+    "draft_slug": "on-the-river",
+    "draft_file": "2025-04-11-on-the-river.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "77": {
     "file_number": 77,
@@ -294,7 +353,38 @@
     "substack_url": "https://shayanarman.substack.com/p/ad-zero-inbox-email-cleaner-and-manager",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "What makes you different?",
+    "published_at": "2025-04-16T16:05:36.421Z",
+    "draft_slug": "ad-zero-inbox-email-cleaner-and-manager",
+    "draft_file": "2025-04-16-ad-zero-inbox-email-cleaner-and-manager.mdx",
+    "hashtags": [
+      "#zeroinbox",
+      "#inboxzero",
+      "#emailmanager",
+      "#email",
+      "#emailcleaner"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "zero-inbox-email-manager.jpeg",
+        "width": 1292,
+        "height": 727,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-email-manager.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/074132da-4cc1-4375-9fa7-2c30b025cc98_1292x727.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "zero-inbox-mobile-search.png",
+        "width": 1179,
+        "height": 2556,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-mobile-search.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/49bb891f-aff7-4c8e-8582-52a3fd9670bf_1179x2556.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "78": {
     "file_number": 78,

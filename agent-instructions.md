@@ -146,7 +146,25 @@ visible-link, hashtag, footer, image-order, and caption-placement validation.
 The `substack/41-60/posts-list.json` ledger is authoritative for titles,
 publication timestamps, source URLs, final filenames, image mappings, and
 verification state. Do not redo posts 41–60 unless Shayan asks for revisions.
-The next unconverted range starts at post 61.
+The next unconverted range starts at post 66.
+
+## Current Completed State: Posts 61–65
+
+Posts 61–65 have been converted into validated, publishable MDX in the local
+Shayan Arman `site/live-posts/shayan-arman-blog/writings/` directory and
+uploaded to the canonical writings-post S3 prefix.
+
+Posts 62 and 64 are the two image-bearing posts in this batch. Their three
+original full-quality `substack-post-media.s3.amazonaws.com` objects were
+verified byte-for-byte against the archive files before upload. Post 62's
+`factory.jpg` archive file contains WebP data, so its final S3 filename and
+MDX reference correctly use `factory.webp`. All three image objects and all
+five MDX objects were verified against their exact S3 keys, local byte sizes,
+and MD5 ETags on 2026-08-11.
+
+The `substack/61-80/posts-list.json` ledger is authoritative for the five
+titles, publication timestamps, source URLs, filenames, image mappings, and
+verification state. Do not redo posts 61–65 unless Shayan asks for revisions.
 
 ## Completed Live-Post Pattern Upgrade: Posts 1–40
 
@@ -177,10 +195,10 @@ captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
 whitespace checks passed. No updated MDX files were uploaded to S3 as part of
 this local live-post upgrade.
 
-## Next Migration State: Posts 61–100
+## Next Migration State: Posts 66–100
 
-Posts 1–60 are complete and uploaded. The next unconverted range is
-`substack/61-80/`, followed by `substack/81-100/`.
+Posts 1–65 are complete and uploaded. The next unconverted posts are 66–80
+within `substack/61-80/`, followed by `substack/81-100/`.
 
 This records the intended sequence only. Do not convert or upload either range
 until Shayan sends a new approval message naming the work to perform. If he
@@ -481,6 +499,7 @@ Caption identification rules:
 
 ## Full-Quality Image Rules
 
+- "make sure to download the full image versions, the highest quality not the slimmed down versions provided by some cdns"
 - Use the original full-resolution `substack-post-media.s3.amazonaws.com` object.
 - Never use a resized, cropped, or recompressed `substackcdn.com/image/fetch` rendition when the original browser-compatible object is available.
 - Confirm the original dimensions and media type.

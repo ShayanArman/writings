@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-meaning-and-identity",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "a continuation on Consumerism",
+    "published_at": "2025-02-23T09:11:58.039Z",
+    "draft_slug": "on-meaning-and-identity",
+    "draft_file": "2025-02-23-on-meaning-and-identity.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "62": {
     "file_number": 62,
@@ -13,7 +20,31 @@
     "substack_url": "https://shayanarman.substack.com/p/on-upward-mobility",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and the evasion of Capital",
+    "published_at": "2025-02-24T22:45:09.030Z",
+    "draft_slug": "on-upward-mobility",
+    "draft_file": "2025-02-24-on-upward-mobility.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/",
+    "images": [
+      {
+        "archive_filename": "factory.jpg",
+        "filename": "factory.webp",
+        "width": 800,
+        "height": 450,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/factory.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f376c722-fd01-48e7-9548-50eb218e73b4_800x450.webp"
+      },
+      {
+        "archive_filename": "philosopher.jpg",
+        "filename": "philosopher.jpg",
+        "width": 183,
+        "height": 276,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/philosopher.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5a91bf74-5d70-4eb9-83f6-8d2f558ca776_183x276.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "63": {
     "file_number": 63,
@@ -21,7 +52,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-difference",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "on the Human Condition",
+    "published_at": "2025-02-26T22:20:55.400Z",
+    "draft_slug": "the-difference",
+    "draft_file": "2025-02-26-the-difference.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "64": {
     "file_number": 64,
@@ -29,7 +67,23 @@
     "substack_url": "https://shayanarman.substack.com/p/people-dont-appreciate-this-enough",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "One Machine to Rule them All",
+    "published_at": "2025-03-02T21:00:55.521Z",
+    "draft_slug": "people-dont-appreciate-this-enough",
+    "draft_file": "2025-03-02-people-dont-appreciate-this-enough.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/people-dont-appreciate-this-enough/",
+    "images": [
+      {
+        "archive_filename": "mountain.jpg",
+        "filename": "mountain.jpg",
+        "width": 4284,
+        "height": 5712,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/people-dont-appreciate-this-enough/mountain.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9746616b-2324-45be-bc5b-3808a009d76b_4284x5712.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "65": {
     "file_number": 65,
@@ -37,7 +91,14 @@
     "substack_url": "https://shayanarman.substack.com/p/i-ask-you-only-one-thing",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-03-08T20:26:31.623Z",
+    "draft_slug": "i-ask-you-only-one-thing",
+    "draft_file": "2025-03-08-i-ask-you-only-one-thing.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "66": {
     "file_number": 66,

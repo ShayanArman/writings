@@ -216,7 +216,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-nuclear-umbrella",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and Canada's sovereignty",
+    "published_at": "2025-03-15T18:04:25.743Z",
+    "draft_slug": "the-nuclear-umbrella",
+    "draft_file": "2025-03-15-the-nuclear-umbrella.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "72": {
     "file_number": 72,
@@ -224,7 +231,14 @@
     "substack_url": "https://shayanarman.substack.com/p/umbrellas-part-2",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and funny thoughts on friendship",
+    "published_at": "2025-03-15T18:09:48.312Z",
+    "draft_slug": "umbrellas-part-2",
+    "draft_file": "2025-03-15-umbrellas-part-2.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "73": {
     "file_number": 73,
@@ -232,7 +246,23 @@
     "substack_url": "https://shayanarman.substack.com/p/what-is-love",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "but a production",
+    "published_at": "2025-03-17T20:50:36.310Z",
+    "draft_slug": "what-is-love",
+    "draft_file": "2025-03-17-what-is-love.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/what-is-love/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "state-machine-diagram.png",
+        "width": 1040,
+        "height": 667,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/what-is-love/state-machine-diagram.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fd3fe4e-0aad-494d-9827-01f73663244b_1040x667.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "74": {
     "file_number": 74,

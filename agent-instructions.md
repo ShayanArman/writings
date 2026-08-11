@@ -146,17 +146,17 @@ visible-link, hashtag, footer, image-order, and caption-placement validation.
 The `substack/41-60/posts-list.json` ledger is authoritative for titles,
 publication timestamps, source URLs, final filenames, image mappings, and
 verification state. Do not redo posts 41–60 unless Shayan asks for revisions.
-The next unconverted range starts at post 71.
+The next unconverted range starts at post 74.
 
-## Current Completed State: Posts 61–70
+## Current Completed State: Posts 61–73
 
 Posts 61–66 have been converted into validated, publishable MDX in the local
 Shayan Arman `site/live-posts/shayan-arman-blog/writings/` directory and
 uploaded to the canonical writings-post S3 prefix. At Shayan's request, posts
-67–70 were generated and validated one at a time in temporary storage,
+67–73 were generated and validated one at a time in temporary storage,
 uploaded directly to S3, and were not added to `site/live-posts/`.
 
-Posts 62, 64, 66, 67, and 69 are the five image-bearing posts in this batch. Their seven
+Posts 62, 64, 66, 67, 69, and 73 are the six image-bearing posts in this batch. Their eight
 original full-quality `substack-post-media.s3.amazonaws.com` objects were
 verified byte-for-byte against the archive files before upload. Post 62's
 `factory.jpg` archive file contains WebP data, so its final S3 filename and
@@ -164,13 +164,14 @@ MDX reference correctly use `factory.webp`. Post 66's misleading
 `shibuya-station.jpg` archive filename was replaced with the descriptive final
 filename `death-note-light-and-l.jpg`. Post 69's `judgemental-god.jpg` archive
 file also contains WebP data, so its final filename is `judgemental-god.webp`.
-All seven image objects and all ten MDX
+Post 73's missing local image was recovered directly from the original
+full-quality Substack PNG object. All eight image objects and all thirteen MDX
 objects were verified against their exact S3 keys, local byte sizes, and MD5
 ETags on 2026-08-11.
 
-The `substack/61-80/posts-list.json` ledger is authoritative for the ten
+The `substack/61-80/posts-list.json` ledger is authoritative for the thirteen
 titles, publication timestamps, source URLs, filenames, image mappings, and
-verification state. Do not redo posts 61–70 unless Shayan asks for revisions.
+verification state. Do not redo posts 61–73 unless Shayan asks for revisions.
 
 ## Completed Live-Post Pattern Upgrade: Posts 1–40
 
@@ -201,9 +202,9 @@ captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
 whitespace checks passed. No updated MDX files were uploaded to S3 as part of
 this local live-post upgrade.
 
-## Next Migration State: Posts 71–100
+## Next Migration State: Posts 74–100
 
-Posts 1–70 are complete and uploaded. The next unconverted posts are 71–80
+Posts 1–73 are complete and uploaded. The next unconverted posts are 74–80
 within `substack/61-80/`, followed by `substack/81-100/`.
 
 This records the intended sequence only. Do not convert or upload either range

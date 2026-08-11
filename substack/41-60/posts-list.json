@@ -20,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/jahiliyyah",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Pre Awakening",
+    "published_at": "2025-01-07T01:54:05.817Z",
+    "draft_slug": "jahiliyyah",
+    "draft_file": "2025-01-07-jahiliyyah.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "43": {
     "file_number": 43,
@@ -28,7 +35,31 @@
     "substack_url": "https://shayanarman.substack.com/p/the-hidden-variable",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "And the not so subtle art of Physics",
+    "published_at": "2025-01-12T07:24:36.747Z",
+    "draft_slug": "the-hidden-variable",
+    "draft_file": "2025-01-12-the-hidden-variable.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-hidden-variable/",
+    "images": [
+      {
+        "archive_filename": "first.jpg",
+        "filename": "polygons-converging-on-circle.png",
+        "width": 1180,
+        "height": 1180,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-hidden-variable/polygons-converging-on-circle.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bc0b3c2b-75b1-4540-bbe5-a17afea84e1e_1180x1180.jpeg"
+      },
+      {
+        "archive_filename": "second.jpg",
+        "filename": "nested-geometric-shapes.png",
+        "width": 1180,
+        "height": 1124,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-hidden-variable/nested-geometric-shapes.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bcbe0165-456a-49d1-9e99-865d8ca0c3a6_1180x1124.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "44": {
     "file_number": 44,
@@ -36,7 +67,14 @@
     "substack_url": "https://shayanarman.substack.com/p/theory-of-similarities",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-15T23:49:04.376Z",
+    "draft_slug": "theory-of-similarities",
+    "draft_file": "2025-01-15-theory-of-similarities.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "45": {
     "file_number": 45,
@@ -44,7 +82,14 @@
     "substack_url": "https://shayanarman.substack.com/p/genetics-as-a-novel",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-17T00:36:13.703Z",
+    "draft_slug": "genetics-as-a-novel",
+    "draft_file": "2025-01-17-genetics-as-a-novel.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "46": {
     "file_number": 46,
@@ -52,7 +97,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-end-of-email",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-20T01:04:39.777Z",
+    "draft_slug": "the-end-of-email",
+    "draft_file": "2025-01-20-the-end-of-email.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "47": {
     "file_number": 47,
@@ -60,7 +112,14 @@
     "substack_url": "https://shayanarman.substack.com/p/art-of-the-deal",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and other art forms",
+    "published_at": "2025-01-22T02:36:28.861Z",
+    "draft_slug": "art-of-the-deal",
+    "draft_file": "2025-01-22-art-of-the-deal.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "48": {
     "file_number": 48,
@@ -68,7 +127,23 @@
     "substack_url": "https://shayanarman.substack.com/p/intrepid-to-the-stars",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-23T00:07:41.546Z",
+    "draft_slug": "intrepid-to-the-stars",
+    "draft_file": "2025-01-23-intrepid-to-the-stars.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/intrepid-to-the-stars/",
+    "images": [
+      {
+        "archive_filename": "sam-altman.jpg",
+        "filename": "sam-altman-at-white-house.webp",
+        "width": 700,
+        "height": 467,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/intrepid-to-the-stars/sam-altman-at-white-house.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dfe49429-f76d-469b-b599-250259f98b1f_700x467.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "49": {
     "file_number": 49,
@@ -76,7 +151,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-creationism",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "And Karma",
+    "published_at": "2025-01-26T05:24:49.393Z",
+    "draft_slug": "on-creationism",
+    "draft_file": "2025-01-26-on-creationism.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "50": {
     "file_number": 50,
@@ -84,7 +166,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-party",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and the Mind",
+    "published_at": "2025-01-27T00:40:55.712Z",
+    "draft_slug": "the-party",
+    "draft_file": "2025-01-27-the-party.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "51": {
     "file_number": 51,
@@ -92,7 +181,31 @@
     "substack_url": "https://shayanarman.substack.com/p/on-work",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and the Art of Consumption",
+    "published_at": "2025-01-27T01:10:09.989Z",
+    "draft_slug": "on-work",
+    "draft_file": "2025-01-27-on-work.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-work/",
+    "images": [
+      {
+        "archive_filename": "death-achilles.jpg",
+        "filename": "death-of-achilles-rubens.webp",
+        "width": 1000,
+        "height": 860,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-work/death-of-achilles-rubens.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d7dbafba-b9be-4769-83da-80b1616d9e77_1000x860.webp"
+      },
+      {
+        "archive_filename": "war.jpg",
+        "filename": "battle-scene-rubens.webp",
+        "width": 2254,
+        "height": 1246,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-work/battle-scene-rubens.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f4e005a5-2629-4137-b854-abd3d16c6fb1_2254x1246.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "52": {
     "file_number": 52,
@@ -100,7 +213,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-life",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-29T00:07:02.427Z",
+    "draft_slug": "on-life",
+    "draft_file": "2025-01-29-on-life.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "53": {
     "file_number": 53,
@@ -108,15 +228,29 @@
     "substack_url": "https://shayanarman.substack.com/p/2-trees",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-01-29T00:20:53.204Z",
+    "draft_slug": "2-trees",
+    "draft_file": "2025-01-29-2-trees.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "54": {
     "file_number": 54,
-    "title": ".. / ..-. .. --. ..- .-. . -.. / .. - / --- ..- -",
+    "title": " .. / ..-. .. --. ..- .-. . -.. / .. - / --- ..- -",
     "substack_url": "https://shayanarman.substack.com/p/002",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "Paste the above into ChatGPT",
+    "published_at": "2025-02-01T01:29:30.496Z",
+    "draft_slug": "002",
+    "draft_file": "2025-02-01-002.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "55": {
     "file_number": 55,
@@ -124,7 +258,14 @@
     "substack_url": "https://shayanarman.substack.com/p/double-taxation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "the Party",
+    "published_at": "2025-02-02T01:33:59.398Z",
+    "draft_slug": "double-taxation",
+    "draft_file": "2025-02-02-double-taxation.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "56": {
     "file_number": 56,
@@ -132,7 +273,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-suffering",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": null,
+    "published_at": "2025-02-09T21:02:31.874Z",
+    "draft_slug": "on-suffering",
+    "draft_file": "2025-02-09-on-suffering.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "57": {
     "file_number": 57,
@@ -140,7 +288,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-language",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "writers are divine",
+    "published_at": "2025-02-10T02:48:06.653Z",
+    "draft_slug": "on-language",
+    "draft_file": "2025-02-10-on-language.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "58": {
     "file_number": 58,
@@ -148,7 +303,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-infinity",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and other little things",
+    "published_at": "2025-02-11T05:30:38.201Z",
+    "draft_slug": "on-infinity",
+    "draft_file": "2025-02-11-on-infinity.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "59": {
     "file_number": 59,
@@ -156,7 +318,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-line",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "and we wait for the handout",
+    "published_at": "2025-02-21T05:34:40.391Z",
+    "draft_slug": "the-line",
+    "draft_file": "2025-02-21-the-line.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "60": {
     "file_number": 60,
@@ -164,6 +333,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-depth-of-your-education",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-10",
+    "subtitle": "into Consumerism",
+    "published_at": "2025-02-22T23:12:23.837Z",
+    "draft_slug": "the-depth-of-your-education",
+    "draft_file": "2025-02-22-the-depth-of-your-education.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-depth-of-your-education/",
+    "images": [
+      {
+        "archive_filename": "nature-lover.jpg",
+        "filename": "julia-butterfly-hill.webp",
+        "width": 640,
+        "height": 320,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-depth-of-your-education/julia-butterfly-hill.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/069baad2-8d40-48be-96da-52ae98fa1f61_640x320.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

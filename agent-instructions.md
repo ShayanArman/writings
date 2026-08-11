@@ -117,6 +117,35 @@ All 20 MDX files and all three images were verified against their exact S3 keys 
 
 Do not redo posts 21–40 unless Shayan asks for revisions. For the next migration prompt, start with the exact range Shayan names—most likely `substack/41-60/`—and apply the same rules.
 
+## Completed Live-Post Pattern Upgrade: Posts 1–40
+
+On 2026-08-10, Shayan asked for every existing local live writing post to be
+updated to the finalized article pattern before continuing with later ranges.
+All 40 MDX files under:
+
+```text
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/live-posts/shayan-arman-blog/writings/
+```
+
+now comply with the following contract:
+
+- exactly one ledger-matched quoted `source-url` in frontmatter, rendered by
+  the shared article layout as the subtle “Source article” metadata link;
+- every visible body URL is a clickable Markdown or JSX link rather than raw
+  text;
+- exactly one import and rendered instance of `ShareArticleClipboard`,
+  `ArticleDivider`, and `ProductLinks`;
+- the exact footer sequence `<ShareArticleClipboard />`,
+  `<ArticleDivider />`, then `<ProductLinks />`;
+- exactly one standalone `<br />` immediately after each captioned
+  `GangsterImage`, with no spacer added to uncaptioned images.
+
+The upgrade converted 13 raw body-URL occurrences into links and validated all
+40 MDX files, all 40 ledger mappings, 24 `GangsterImage` instances, and all six
+captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
+whitespace checks passed. No updated MDX files were uploaded to S3 as part of
+this local live-post upgrade.
+
 ## Current Review State: Post 41 Pilot
 
 Post 41, “One Yellow Card,” is the only post currently prepared for review from

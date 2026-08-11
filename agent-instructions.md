@@ -115,7 +115,38 @@ Post 39 is the only image-bearing post in this range. Its three original full-re
 
 All 20 MDX files and all three images were verified against their exact S3 keys and local byte sizes on 2026-08-10. The `substack/21-40/posts-list.json` ledger contains the authoritative metadata, draft filenames, source URLs, image mappings, processing notes, and verification state.
 
-Do not redo posts 21–40 unless Shayan asks for revisions. For the next migration prompt, start with the exact range Shayan names—most likely `substack/41-60/`—and apply the same rules.
+Do not redo posts 21–40 unless Shayan asks for revisions.
+
+## Current Completed State: Posts 41–60
+
+All 20 posts from `substack/41-60/` have been converted into validated,
+publishable MDX and uploaded to:
+
+```text
+s3://seo-gangster/sites/shayan-arman-blog/posts/writings/
+```
+
+Post 41, “One Yellow Card,” began as the one-post pilot and was subsequently
+approved, completed, and uploaded. Posts 42–60 were then published directly
+without creating intermediate `draft-post` copies.
+
+Posts 43, 48, 51, and 60 are the four image-bearing posts in this range. Their
+six original full-quality source images were uploaded under the corresponding
+post-specific Shayan Arman image prefixes. The two post-43 files were original
+PNG images stored under misleading archive/source extensions, so their final
+S3 filenames use the correct `.png` extension. The remaining four images were
+preserved as WebP files.
+
+All 20 MDX posts in the range are present in S3. For posts 42–60, all 19 MDX
+objects and all six image objects were individually verified against their
+exact S3 keys, local byte sizes, and MD5 ETags on 2026-08-10. The published MDX
+also passed frontmatter parsing, MDX compilation, ledger/source matching,
+visible-link, hashtag, footer, image-order, and caption-placement validation.
+
+The `substack/41-60/posts-list.json` ledger is authoritative for titles,
+publication timestamps, source URLs, final filenames, image mappings, and
+verification state. Do not redo posts 41–60 unless Shayan asks for revisions.
+The next unconverted range starts at post 61.
 
 ## Completed Live-Post Pattern Upgrade: Posts 1–40
 
@@ -146,36 +177,16 @@ captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
 whitespace checks passed. No updated MDX files were uploaded to S3 as part of
 this local live-post upgrade.
 
-## Current Review State: Post 41 Pilot
+## Next Migration State: Posts 61–100
 
-Post 41, “One Yellow Card,” is the only post currently prepared for review from
-the next ranges. Its local draft is:
+Posts 1–60 are complete and uploaded. The next unconverted range is
+`substack/61-80/`, followed by `substack/81-100/`.
 
-```text
-/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/site/draft-post/2025-01-06-one-yellow-card.mdx
-```
-
-Preview route:
-
-```text
-/drafts/one-yellow-card
-```
-
-The pilot includes the exact frontmatter `source-url`, which the shared article
-layout renders as a subtle “Source article” metadata link after the date. It
-also includes explicit Markdown links for visible body URLs,
-`<ShareArticleClipboard />`, `<ArticleDivider />`, and `<ProductLinks />` in the
-required order. Post 41 has no article images. Its MDX compilation, TypeScript,
-ESLint, and site contract checks passed.
-
-Post 41 has not been uploaded to S3 and is awaiting Shayan's explicit approval.
-Do not convert or upload posts 42–100 merely because those future ranges were
-discussed. Continue only after Shayan sends a new approval message that names
-the work to perform.
-
-The discussed future batch was `41-60`, then `61-80`, then `81-100`, with no
-intermediate `draft-post` copies after the pilot is approved. This records the
-intended sequence only; it is not authorization to start or publish that batch.
+This records the intended sequence only. Do not convert or upload either range
+until Shayan sends a new approval message naming the work to perform. If he
+again requests direct publication without intermediate `draft-post` copies,
+use the approved-batch workflow and preserve the same validation and exact-key
+verification requirements used for posts 42–60.
 
 ## Source Metadata Rules
 

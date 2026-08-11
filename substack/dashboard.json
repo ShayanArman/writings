@@ -1,25 +1,32 @@
 {
   "1-20": {
     "posts_list": "1-20/posts-list.json",
-    "status": "needs_image_review",
+    "status": "complete",
     "imported_count": 20,
-    "remaining": [
-      "Add deferred/manual images for posts 6."
-    ],
-    "last_updated": "2026-06-12"
+    "remaining": [],
+    "publication_status": "published",
+    "published_mdx_count": 20,
+    "published_image_count": 21,
+    "last_updated": "2026-08-10"
   },
   "21-40": {
     "posts_list": "21-40/posts-list.json",
     "status": "complete",
     "imported_count": 20,
     "remaining": [],
-    "last_updated": "2026-06-12"
+    "publication_status": "published",
+    "published_mdx_count": 20,
+    "published_image_count": 3,
+    "last_updated": "2026-08-10"
   },
   "41-60": {
     "posts_list": "41-60/posts-list.json",
     "status": "complete",
     "imported_count": 20,
     "remaining": [],
+    "publication_status": "published",
+    "published_mdx_count": 20,
+    "published_image_count": 6,
     "last_updated": "2026-08-10"
   },
   "61-80": {

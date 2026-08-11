@@ -250,12 +250,53 @@ import GangsterImage from "@shared/components/GangsterImage";
   height={800}
   alt="Meaningful description"
   sizes="(max-width: 768px) 100vw, 760px"
+  caption="Exact source caption"
 />
 ```
 
 - Constrain small logos or artwork with `figureStyle` so they are not stretched beyond their native dimensions.
 - Use real source captions when present. Do not invent a caption merely to fill a prop.
 - Always provide meaningful alt text.
+
+### `GangsterImage` Caption Contract
+
+Every real body-image caption belongs to the corresponding `GangsterImage` through its `caption` prop. Never leave a caption as a normal Markdown paragraph above or below the component.
+
+For a plain-text caption, preserve the source wording exactly:
+
+```mdx
+<GangsterImage
+  src="s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>"
+  width={1200}
+  height={800}
+  alt="Meaningful description"
+  sizes="(max-width: 768px) 100vw, 760px"
+  caption="A photo I took in Paros Greece, my love for travel continued…"
+/>
+```
+
+When the caption contains links or other inline markup, preserve them by passing a React node rather than flattening the caption into an unlinked string:
+
+```mdx
+<GangsterImage
+  src="s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>"
+  width={1200}
+  height={800}
+  alt="Meaningful description"
+  sizes="(max-width: 768px) 100vw, 760px"
+  caption={<>See <a href="https://example.com">the original source</a>.</>}
+/>
+```
+
+Caption identification rules:
+
+- Treat captions already encoded in archive placeholders such as ``<image-name: caption `...`>`` or ``<todo-image-shayan: add image `...`>`` as authoritative captions.
+- Treat an italic line paired with a local Markdown image as its caption when the archive workflow identifies it that way.
+- Older imports may contain image-specific descriptions, locations, credits, or promotional copy as plain body lines. Move those lines into the matching `caption` prop when the source context shows they belong to the image.
+- Do not assume that the first paragraph after every image is a caption. If it continues the argument, story, dialogue, or introduces a separate link, preserve it as article body copy.
+- When classification is ambiguous, compare the archived Markdown, the live Substack post, the image itself, and the surrounding paragraphs. If it is still ambiguous, preserve the line as body copy and flag it for Shayan instead of silently absorbing prose into the image.
+- Keep caption text, punctuation, capitalization, and links intact. Do not replace the caption with the image alt text, and do not reuse the caption as alt text unless both genuinely serve the same purpose.
+- After moving a caption into `GangsterImage`, remove the old standalone caption line so the caption appears exactly once.
 
 ## Full-Quality Image Rules
 
@@ -304,6 +345,10 @@ Before reporting a converted range as complete:
 - Compile every MDX file with `@mdx-js/mdx`.
 - Confirm no `<todo-image-shayan: ...>` placeholders remain.
 - Confirm no unconverted Markdown image references remain when the draft uses `GangsterImage`.
+- Inspect every image-bearing post and confirm every known source caption is present exactly once in the corresponding `GangsterImage` `caption` prop.
+- Confirm no known caption remains as a standalone Markdown paragraph above or below its `GangsterImage`.
+- Confirm ordinary prose adjacent to images was not mistakenly moved into a caption.
+- Confirm caption links and other inline markup remain functional React-node content rather than being flattened or dropped.
 - Confirm all S3 references begin with:
   `s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/`
 - Compare the unique image references in the MDX set against the image mappings in `posts-list.json`.

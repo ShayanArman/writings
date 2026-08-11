@@ -106,7 +106,31 @@
     "substack_url": "https://shayanarman.substack.com/p/how-to-catch-a-thief",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-03-08T20:36:08.358Z",
+    "draft_slug": "how-to-catch-a-thief",
+    "draft_file": "2025-03-08-how-to-catch-a-thief.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/",
+    "images": [
+      {
+        "archive_filename": "shibuya-station.jpg",
+        "filename": "death-note-light-and-l.jpg",
+        "width": 1000,
+        "height": 1500,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-l.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c68279bf-4d43-4c27-828a-b8cfd8d1d707_1000x1500.jpeg"
+      },
+      {
+        "archive_filename": "death-note.jpg",
+        "filename": "death-note-light-and-ryuk.jpg",
+        "width": 334,
+        "height": 500,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-ryuk.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c29ca362-26c0-44a3-b39a-7e211eefbced_334x500.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "67": {
     "file_number": 67,
@@ -114,7 +138,23 @@
     "substack_url": "https://shayanarman.substack.com/p/who-is-satoshi",
     "images_added_locally": true,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "the Filter",
+    "published_at": "2025-03-09T21:00:35.456Z",
+    "draft_slug": "who-is-satoshi",
+    "draft_file": "2025-03-09-who-is-satoshi.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-satoshi/",
+    "images": [
+      {
+        "archive_filename": "who-is-satoshi.jpg",
+        "filename": "who-is-satoshi.jpg",
+        "width": 678,
+        "height": 452,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-satoshi/who-is-satoshi.jpg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5f1137a-26b8-4864-b64c-da03d87d7eff_678x452.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "68": {
     "file_number": 68,

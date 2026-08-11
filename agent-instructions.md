@@ -146,25 +146,29 @@ visible-link, hashtag, footer, image-order, and caption-placement validation.
 The `substack/41-60/posts-list.json` ledger is authoritative for titles,
 publication timestamps, source URLs, final filenames, image mappings, and
 verification state. Do not redo posts 41–60 unless Shayan asks for revisions.
-The next unconverted range starts at post 66.
+The next unconverted range starts at post 68.
 
-## Current Completed State: Posts 61–65
+## Current Completed State: Posts 61–67
 
-Posts 61–65 have been converted into validated, publishable MDX in the local
+Posts 61–66 have been converted into validated, publishable MDX in the local
 Shayan Arman `site/live-posts/shayan-arman-blog/writings/` directory and
-uploaded to the canonical writings-post S3 prefix.
+uploaded to the canonical writings-post S3 prefix. At Shayan's request, post
+67 was generated and validated in temporary storage, uploaded directly to S3,
+and was not added to `site/live-posts/`.
 
-Posts 62 and 64 are the two image-bearing posts in this batch. Their three
+Posts 62, 64, 66, and 67 are the four image-bearing posts in this batch. Their six
 original full-quality `substack-post-media.s3.amazonaws.com` objects were
 verified byte-for-byte against the archive files before upload. Post 62's
 `factory.jpg` archive file contains WebP data, so its final S3 filename and
-MDX reference correctly use `factory.webp`. All three image objects and all
-five MDX objects were verified against their exact S3 keys, local byte sizes,
-and MD5 ETags on 2026-08-11.
+MDX reference correctly use `factory.webp`. Post 66's misleading
+`shibuya-station.jpg` archive filename was replaced with the descriptive final
+filename `death-note-light-and-l.jpg`. All six image objects and all seven MDX
+objects were verified against their exact S3 keys, local byte sizes, and MD5
+ETags on 2026-08-11.
 
-The `substack/61-80/posts-list.json` ledger is authoritative for the five
+The `substack/61-80/posts-list.json` ledger is authoritative for the seven
 titles, publication timestamps, source URLs, filenames, image mappings, and
-verification state. Do not redo posts 61–65 unless Shayan asks for revisions.
+verification state. Do not redo posts 61–67 unless Shayan asks for revisions.
 
 ## Completed Live-Post Pattern Upgrade: Posts 1–40
 
@@ -195,9 +199,9 @@ captioned images. MDX compilation, TypeScript, ESLint, the site contract, and
 whitespace checks passed. No updated MDX files were uploaded to S3 as part of
 this local live-post upgrade.
 
-## Next Migration State: Posts 66–100
+## Next Migration State: Posts 68–100
 
-Posts 1–65 are complete and uploaded. The next unconverted posts are 66–80
+Posts 1–67 are complete and uploaded. The next unconverted posts are 68–80
 within `substack/61-80/`, followed by `substack/81-100/`.
 
 This records the intended sequence only. Do not convert or upload either range

@@ -392,7 +392,47 @@
     "substack_url": "https://shayanarman.substack.com/p/tariff-wars-and-email-inboxes",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "What I learned about Tariffs running a Startup",
+    "published_at": "2025-04-20T16:54:47.817Z",
+    "draft_slug": "tariff-wars-and-email-inboxes",
+    "draft_file": "2025-04-20-tariff-wars-and-email-inboxes.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailmanager",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "notorious-big-crown.jpeg",
+        "width": 250,
+        "height": 306,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/notorious-big-crown.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5f31fb50-5af1-4a75-a8df-d416553af5cd_250x306.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "brooklyn-bridge-new-york.jpeg",
+        "width": 1200,
+        "height": 800,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/brooklyn-bridge-new-york.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a5a906ef-fdc3-439c-b57e-664f45b647cb_1200x800.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "golden-gate-bridge.avif",
+        "width": 3840,
+        "height": 1920,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/golden-gate-bridge.avif",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/decf36c8-71c2-43dd-9f1e-2baccd1d9d4c_3840x1920.avif"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "79": {
     "file_number": 79,
@@ -400,7 +440,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-illusion-of-choice",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-04-27T22:23:08.306Z",
+    "draft_slug": "the-illusion-of-choice",
+    "draft_file": "2025-04-27-the-illusion-of-choice.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "80": {
     "file_number": 80,
@@ -408,6 +455,35 @@
     "substack_url": "https://shayanarman.substack.com/p/warren-buffett",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and Parabolic Wisdom",
+    "published_at": "2025-05-04T12:42:10.943Z",
+    "draft_slug": "warren-buffett",
+    "draft_file": "2025-05-04-warren-buffett.mdx",
+    "hashtags": [
+      "#warren",
+      "#buffett",
+      "#berkshire",
+      "#investing",
+      "#wisdom",
+      "#1000x",
+      "#zeroinbox",
+      "#inboxzero",
+      "#aicleaner",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/warren-buffett/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "warren-buffett-portrait.png",
+        "width": 1204,
+        "height": 796,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/warren-buffett/warren-buffett-portrait.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fccf5d51-8fde-4d2d-977e-f26a79654a3d_1204x796.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

@@ -5,7 +5,30 @@
     "substack_url": "https://shayanarman.substack.com/p/invest-in-yourself",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "Get to Inbox Zero with ZeroInbox.ai",
+    "published_at": "2025-05-05T05:48:53.511Z",
+    "draft_slug": "invest-in-yourself",
+    "draft_file": "2025-05-05-invest-in-yourself.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/invest-in-yourself/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "bearded-philosopher-portrait.webp",
+        "width": 312,
+        "height": 312,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/invest-in-yourself/bearded-philosopher-portrait.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46481fbe-a2c6-4d60-baab-fcb5bc8be134_312x312.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "82": {
     "file_number": 82,
@@ -13,7 +36,38 @@
     "substack_url": "https://shayanarman.substack.com/p/given",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-08T11:38:14.524Z",
+    "draft_slug": "given",
+    "draft_file": "2025-05-08-given.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "marcus-aurelius-bust.jpeg",
+        "width": 1200,
+        "height": 1600,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/marcus-aurelius-bust.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fc59046-2da0-43ab-b782-cf599026501d_1200x1600.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "stoic-emperor-statue.jpeg",
+        "width": 300,
+        "height": 168,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/stoic-emperor-statue.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8635ea10-98c3-44bc-adf5-90edc935e7f2_300x168.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "83": {
     "file_number": 83,
@@ -21,7 +75,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-bottle-of-wine-for-the-table",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-11T00:57:30.432Z",
+    "draft_slug": "a-bottle-of-wine-for-the-table",
+    "draft_file": "2025-05-11-a-bottle-of-wine-for-the-table.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "84": {
     "file_number": 84,
@@ -29,7 +90,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-latte-please",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-11T01:30:15.532Z",
+    "draft_slug": "a-latte-please",
+    "draft_file": "2025-05-11-a-latte-please.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "85": {
     "file_number": 85,
@@ -37,7 +105,14 @@
     "substack_url": "https://shayanarman.substack.com/p/very-truly-what-is-the-problem",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-13T15:25:33.706Z",
+    "draft_slug": "very-truly-what-is-the-problem",
+    "draft_file": "2025-05-13-very-truly-what-is-the-problem.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "86": {
     "file_number": 86,
@@ -45,7 +120,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-thinking",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-14T00:32:34.172Z",
+    "draft_slug": "on-thinking",
+    "draft_file": "2025-05-14-on-thinking.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "87": {
     "file_number": 87,
@@ -53,7 +135,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-listening",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-14T14:03:03.795Z",
+    "draft_slug": "on-listening",
+    "draft_file": "2025-05-14-on-listening.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "88": {
     "file_number": 88,
@@ -61,7 +150,14 @@
     "substack_url": "https://shayanarman.substack.com/p/listening-part-2",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-16T02:12:40.979Z",
+    "draft_slug": "listening-part-2",
+    "draft_file": "2025-05-16-listening-part-2.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "89": {
     "file_number": 89,
@@ -69,7 +165,14 @@
     "substack_url": "https://shayanarman.substack.com/p/ontological-man",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "A verse through the Universe",
+    "published_at": "2025-05-21T15:05:47.972Z",
+    "draft_slug": "ontological-man",
+    "draft_file": "2025-05-21-ontological-man.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "90": {
     "file_number": 90,
@@ -77,7 +180,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-beginning",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-21T17:21:08.143Z",
+    "draft_slug": "the-beginning",
+    "draft_file": "2025-05-21-the-beginning.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "91": {
     "file_number": 91,
@@ -85,7 +195,21 @@
     "substack_url": "https://shayanarman.substack.com/p/little-by-little",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-05-25T19:55:24.128Z",
+    "draft_slug": "little-by-little",
+    "draft_file": "2025-05-25-little-by-little.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "92": {
     "file_number": 92,
@@ -93,7 +217,14 @@
     "substack_url": "https://shayanarman.substack.com/p/give-give-give",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-01T13:10:21.913Z",
+    "draft_slug": "give-give-give",
+    "draft_file": "2025-06-01-give-give-give.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "93": {
     "file_number": 93,
@@ -101,7 +232,14 @@
     "substack_url": "https://shayanarman.substack.com/p/tell-me-one-thing-to-rule-your-life",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-02T17:52:16.456Z",
+    "draft_slug": "tell-me-one-thing-to-rule-your-life",
+    "draft_file": "2025-06-02-tell-me-one-thing-to-rule-your-life.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "94": {
     "file_number": 94,
@@ -109,7 +247,22 @@
     "substack_url": "https://shayanarman.substack.com/p/czech-pilsner",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "Broken Promises",
+    "published_at": "2025-06-03T15:21:57.602Z",
+    "draft_slug": "czech-pilsner",
+    "draft_file": "2025-06-03-czech-pilsner.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#apple"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "95": {
     "file_number": 95,
@@ -117,7 +270,14 @@
     "substack_url": "https://shayanarman.substack.com/p/tell-me-again",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "what you Love about me",
+    "published_at": "2025-06-06T16:53:06.355Z",
+    "draft_slug": "tell-me-again",
+    "draft_file": "2025-06-06-tell-me-again.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "96": {
     "file_number": 96,
@@ -125,7 +285,30 @@
     "substack_url": "https://shayanarman.substack.com/p/on-sickness",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-07T14:45:53.917Z",
+    "draft_slug": "on-sickness",
+    "draft_file": "2025-06-07-on-sickness.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sickness/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hippocrates-engraving.jpeg",
+        "width": 483,
+        "height": 710,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sickness/hippocrates-engraving.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/796a4ddb-3904-413a-9972-df964ac7e1b5_483x710.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "97": {
     "file_number": 97,
@@ -133,7 +316,23 @@
     "substack_url": "https://shayanarman.substack.com/p/the-apple-of-my-eye",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and further discussions on Virtue",
+    "published_at": "2025-06-07T15:00:14.879Z",
+    "draft_slug": "the-apple-of-my-eye",
+    "draft_file": "2025-06-07-the-apple-of-my-eye.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-apple-of-my-eye/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "creation-of-adam-hands.jpeg",
+        "width": 275,
+        "height": 183,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-apple-of-my-eye/creation-of-adam-hands.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/375a4f24-493c-4c11-a862-1a1d9a37d224_275x183.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "98": {
     "file_number": 98,
@@ -141,7 +340,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-ugly-duckling",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-08T14:18:09.576Z",
+    "draft_slug": "the-ugly-duckling",
+    "draft_file": "2025-06-08-the-ugly-duckling.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "99": {
     "file_number": 99,
@@ -149,7 +355,33 @@
     "substack_url": "https://shayanarman.substack.com/p/who-is-the-father-of-silicon-valley",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-08T15:28:20.061Z",
+    "draft_slug": "who-is-the-father-of-silicon-valley",
+    "draft_file": "2025-06-08-who-is-the-father-of-silicon-valley.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#stevejobs",
+      "#apple",
+      "#applepark"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-the-father-of-silicon-valley/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "dave-muffly-apple-arborist.webp",
+        "width": 1685,
+        "height": 1123,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-the-father-of-silicon-valley/dave-muffly-apple-arborist.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e33d7972-0dd8-46fe-84cd-b5b7f35d57e4_1685x1123.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "100": {
     "file_number": 100,
@@ -157,6 +389,20 @@
     "substack_url": "https://shayanarman.substack.com/p/lost-in-translation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "Time-wise Context Destruction",
+    "published_at": "2025-06-09T19:13:42.255Z",
+    "draft_slug": "lost-in-translation",
+    "draft_file": "2025-06-09-lost-in-translation.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

@@ -5,7 +5,24 @@
     "substack_url": "https://shayanarman.substack.com/p/on-awakening",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-26T16:37:00.443Z",
+    "draft_slug": "on-awakening",
+    "draft_file": "2025-06-26-on-awakening.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-awakening/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "planets-orbiting-a-star.webp",
+        "width": 960,
+        "height": 540,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-awakening/planets-orbiting-a-star.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d721592-aa84-4115-b693-cd4b7f4f11c0_960x540.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "122": {
     "file_number": 122,
@@ -13,7 +30,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-philosophy",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-27T01:48:27.958Z",
+    "draft_slug": "on-philosophy",
+    "draft_file": "2025-06-27-on-philosophy.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "123": {
     "file_number": 123,
@@ -21,7 +45,14 @@
     "substack_url": "https://shayanarman.substack.com/p/now-is-as-good-a-time-as",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-27T02:17:25.782Z",
+    "draft_slug": "now-is-as-good-a-time-as",
+    "draft_file": "2025-06-27-now-is-as-good-a-time-as.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "124": {
     "file_number": 124,
@@ -29,7 +60,31 @@
     "substack_url": "https://shayanarman.substack.com/p/courage-to-venture",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-27T18:39:19.886Z",
+    "draft_slug": "courage-to-venture",
+    "draft_file": "2025-06-27-courage-to-venture.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/courage-to-venture/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-death-of-socrates.jpeg",
+        "width": 3896,
+        "height": 2559,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/courage-to-venture/the-death-of-socrates.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac84ded6-ce40-4a38-aaf6-df307f46a4e1_3896x2559.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "125": {
     "file_number": 125,
@@ -37,7 +92,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-desire",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-06-28T03:55:38.195Z",
+    "draft_slug": "on-desire",
+    "draft_file": "2025-06-28-on-desire.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "126": {
     "file_number": 126,
@@ -45,15 +107,39 @@
     "substack_url": "https://shayanarman.substack.com/p/an-even-further-discussion-on-virtue",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and differentiation",
+    "published_at": "2025-06-30T15:05:26.412Z",
+    "draft_slug": "an-even-further-discussion-on-virtue",
+    "draft_file": "2025-06-30-an-even-further-discussion-on-virtue.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "127": {
     "file_number": 127,
     "title": "El Vicco",
     "substack_url": "https://shayanarman.substack.com/p/el-vicco",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "The Sin Sucker",
+    "published_at": "2025-07-01T19:24:56.915Z",
+    "draft_slug": "el-vicco",
+    "draft_file": "2025-07-01-el-vicco.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/el-vicco/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-at-cavo-paradiso-mykonos.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/el-vicco/man-at-cavo-paradiso-mykonos.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ecc00057-f17b-4281-be86-aebdbccd9b0c_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "128": {
     "file_number": 128,
@@ -61,31 +147,97 @@
     "substack_url": "https://shayanarman.substack.com/p/the-champ",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-02T15:37:01.964Z",
+    "draft_slug": "the-champ",
+    "draft_file": "2025-07-02-the-champ.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#email",
+      "#manager",
+      "#organizer"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "129": {
     "file_number": 129,
     "title": "My Cousin",
     "substack_url": "https://shayanarman.substack.com/p/my-cousin",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-03T16:45:12.050Z",
+    "draft_slug": "my-cousin",
+    "draft_file": "2025-07-03-my-cousin.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-cousin/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-cousin/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9aed640-713b-4f7f-b999-1d02848db8e2_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "130": {
     "file_number": 130,
     "title": "Wisdom",
     "substack_url": "https://shayanarman.substack.com/p/wisdom",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-05T17:46:41.358Z",
+    "draft_slug": "wisdom",
+    "draft_file": "2025-07-05-wisdom.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/wisdom/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/wisdom/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6ea23-5be9-4866-9182-0e413a07d141_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "131": {
     "file_number": 131,
     "title": "The Most Gracious",
     "substack_url": "https://shayanarman.substack.com/p/the-most-gracious",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-05T17:52:27.719Z",
+    "draft_slug": "the-most-gracious",
+    "draft_file": "2025-07-05-the-most-gracious.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-gracious/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-gracious/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46ffc03a-a73c-4b86-ba5d-678db7a90383_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "132": {
     "file_number": 132,
@@ -93,7 +245,14 @@
     "substack_url": "https://shayanarman.substack.com/p/aphorisms",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-05T21:27:56.307Z",
+    "draft_slug": "aphorisms",
+    "draft_file": "2025-07-05-aphorisms.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "133": {
     "file_number": 133,
@@ -101,7 +260,24 @@
     "substack_url": "https://shayanarman.substack.com/p/on-folding-sheets",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-06T07:47:59.575Z",
+    "draft_slug": "on-folding-sheets",
+    "draft_file": "2025-07-06-on-folding-sheets.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-folding-sheets/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "red-ferrari-testarossa.jpeg",
+        "width": 275,
+        "height": 183,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-folding-sheets/red-ferrari-testarossa.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ff6b9ecd-e0e5-42ea-9eee-da7451903081_275x183.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "134": {
     "file_number": 134,
@@ -109,7 +285,18 @@
     "substack_url": "https://shayanarman.substack.com/p/friendly-magician",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-07T04:21:52.661Z",
+    "draft_slug": "friendly-magician",
+    "draft_file": "2025-07-07-friendly-magician.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "135": {
     "file_number": 135,
@@ -117,7 +304,14 @@
     "substack_url": "https://shayanarman.substack.com/p/abra-cadabra-bitches",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-07T04:50:50.698Z",
+    "draft_slug": "abra-cadabra-bitches",
+    "draft_file": "2025-07-07-abra-cadabra-bitches.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "136": {
     "file_number": 136,
@@ -125,7 +319,14 @@
     "substack_url": "https://shayanarman.substack.com/p/inflation",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-07T05:35:39.376Z",
+    "draft_slug": "inflation",
+    "draft_file": "2025-07-07-inflation.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "137": {
     "file_number": 137,
@@ -133,23 +334,64 @@
     "substack_url": "https://shayanarman.substack.com/p/the-shape-of-things",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-07T06:26:20.805Z",
+    "draft_slug": "the-shape-of-things",
+    "draft_file": "2025-07-07-the-shape-of-things.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "138": {
     "file_number": 138,
     "title": "An Athlete of Life",
     "substack_url": "https://shayanarman.substack.com/p/an-athlete-of-life",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-07T17:27:00.748Z",
+    "draft_slug": "an-athlete-of-life",
+    "draft_file": "2025-07-07-an-athlete-of-life.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/an-athlete-of-life/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/an-athlete-of-life/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8394f508-9daa-4559-9681-8f4938bedd9f_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "139": {
     "file_number": 139,
     "title": "The Drinker",
     "substack_url": "https://shayanarman.substack.com/p/the-drinker",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "And Circular Dependencies",
+    "published_at": "2025-07-08T03:05:56.410Z",
+    "draft_slug": "the-drinker",
+    "draft_file": "2025-07-08-the-drinker.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-drinker/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-drinker/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d201436e-903d-484d-af43-ccdaffbf01be_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "140": {
     "file_number": 140,
@@ -157,6 +399,24 @@
     "substack_url": "https://shayanarman.substack.com/p/on-me",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "And the Value of Hard Work",
+    "published_at": "2025-07-08T17:41:21.537Z",
+    "draft_slug": "on-me",
+    "draft_file": "2025-07-08-on-me.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-me/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "couple-by-pink-flowers.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "caption": "caption the image",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-me/couple-by-pink-flowers.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2027618a-2e86-4776-9bd4-ba69af858fd4_3024x4032.heic"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

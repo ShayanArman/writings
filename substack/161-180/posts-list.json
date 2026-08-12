@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/knowledge-and-prediction",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-09T22:46:44.944Z",
+    "draft_slug": "knowledge-and-prediction",
+    "draft_file": "2025-08-09-knowledge-and-prediction.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "162": {
     "file_number": 162,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/curses",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-09T23:05:28.544Z",
+    "draft_slug": "curses",
+    "draft_file": "2025-08-09-curses.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "163": {
     "file_number": 163,
@@ -21,7 +35,14 @@
     "substack_url": "https://shayanarman.substack.com/p/core-things",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-10T09:38:41.379Z",
+    "draft_slug": "core-things",
+    "draft_file": "2025-08-10-core-things.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "164": {
     "file_number": 164,
@@ -29,7 +50,14 @@
     "substack_url": "https://shayanarman.substack.com/p/blame-games",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-10T10:01:47.171Z",
+    "draft_slug": "blame-games",
+    "draft_file": "2025-08-10-blame-games.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "165": {
     "file_number": 165,
@@ -37,15 +65,39 @@
     "substack_url": "https://shayanarman.substack.com/p/habitual",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-10T12:25:21.297Z",
+    "draft_slug": "habitual",
+    "draft_file": "2025-08-10-habitual.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "166": {
     "file_number": 166,
     "title": "Business Class Blues",
     "substack_url": "https://shayanarman.substack.com/p/business-class-blues",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "Don't ask, don't tell",
+    "published_at": "2025-08-13T14:02:18.850Z",
+    "draft_slug": "business-class-blues",
+    "draft_file": "2025-08-13-business-class-blues.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/business-class-blues/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "business-class-blues.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/business-class-blues/business-class-blues.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1032a775-d019-4eb7-addd-48eb1ea69258_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "167": {
     "file_number": 167,
@@ -53,39 +105,124 @@
     "substack_url": "https://shayanarman.substack.com/p/on-sleep",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-13T14:09:57.137Z",
+    "draft_slug": "on-sleep",
+    "draft_file": "2025-08-13-on-sleep.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sleep/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "sleeping-bear-cartoon.webp",
+        "width": 1215,
+        "height": 821,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sleep/sleeping-bear-cartoon.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d57bc93a-91b2-4798-8ec8-4ae98e2e0e3b_1215x821.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "168": {
     "file_number": 168,
     "title": "Andrew Tate",
     "substack_url": "https://shayanarman.substack.com/p/andrew-tate",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "On Infamy",
+    "published_at": "2025-08-14T14:31:59.588Z",
+    "draft_slug": "andrew-tate",
+    "draft_file": "2025-08-14-andrew-tate.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "andrew-tate.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate/andrew-tate.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d51901c6-9a46-4b6b-b4eb-1b3202e78d0a_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "169": {
     "file_number": 169,
     "title": "To take a Stand",
     "substack_url": "https://shayanarman.substack.com/p/to-take-a-stand",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "On the Human Spirit",
+    "published_at": "2025-08-14T14:39:13.479Z",
+    "draft_slug": "to-take-a-stand",
+    "draft_file": "2025-08-14-to-take-a-stand.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-take-a-stand/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "to-take-a-stand.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-take-a-stand/to-take-a-stand.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe21c6ad-d2bb-44c5-9047-c014b58da3ca_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "170": {
     "file_number": 170,
     "title": "Andrew Tate and Exceptionalism",
     "substack_url": "https://shayanarman.substack.com/p/andrew-tate-and-exceptionalism",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "The Bell Curve of Life",
+    "published_at": "2025-08-14T17:24:08.883Z",
+    "draft_slug": "andrew-tate-and-exceptionalism",
+    "draft_file": "2025-08-14-andrew-tate-and-exceptionalism.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate-and-exceptionalism/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "andrew-tate-and-exceptionalism.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate-and-exceptionalism/andrew-tate-and-exceptionalism.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bf045f12-3e8b-4c12-8ffe-539c904cb0de_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "171": {
     "file_number": 171,
     "title": "Heights Unseen",
     "substack_url": "https://shayanarman.substack.com/p/heights-unseen",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Friendship",
+    "published_at": "2025-08-15T22:37:25.207Z",
+    "draft_slug": "heights-unseen",
+    "draft_file": "2025-08-15-heights-unseen.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/heights-unseen/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "heights-unseen.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/heights-unseen/heights-unseen.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7b839916-67f8-4908-919c-2e5bf4737b6a_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "172": {
     "file_number": 172,
@@ -93,7 +230,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-conceptual-proof-of-the-soul-and",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-16T05:39:24.163Z",
+    "draft_slug": "a-conceptual-proof-of-the-soul-and",
+    "draft_file": "2025-08-16-a-conceptual-proof-of-the-soul-and.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "173": {
     "file_number": 173,

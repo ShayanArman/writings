@@ -61,33 +61,35 @@
   },
   "121-140": {
     "posts_list": "121-140/posts-list.json",
-    "status": "needs_image_review",
+    "status": "complete",
     "imported_count": 20,
-    "remaining": [
-      "Recover original images and convert and publish posts 121-140."
-    ],
-    "publication_status": "not_started",
-    "published_mdx_count": 0,
-    "published_image_count": 0,
-    "last_updated": "2026-06-12"
+    "remaining": [],
+    "publication_status": "published",
+    "published_mdx_count": 20,
+    "published_image_count": 10,
+    "last_updated": "2026-08-11"
   },
   "141-160": {
     "posts_list": "141-160/posts-list.json",
-    "status": "needs_image_review",
+    "status": "complete",
     "imported_count": 20,
-    "remaining": [
-      "Add deferred/manual images for posts 141, 153, 160."
-    ],
-    "last_updated": "2026-06-12"
+    "remaining": [],
+    "publication_status": "published",
+    "published_mdx_count": 20,
+    "published_image_count": 13,
+    "last_updated": "2026-08-11"
   },
   "161-180": {
     "posts_list": "161-180/posts-list.json",
     "status": "needs_image_review",
     "imported_count": 20,
     "remaining": [
-      "Add deferred/manual images for posts 167."
+      "Recover original images and convert and publish posts 173-180."
     ],
-    "last_updated": "2026-06-12"
+    "publication_status": "in_progress",
+    "published_mdx_count": 12,
+    "published_image_count": 6,
+    "last_updated": "2026-08-12"
   },
   "181-200": {
     "posts_list": "181-200/posts-list.json",

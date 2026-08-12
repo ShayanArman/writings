@@ -30,7 +30,7 @@ s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Next-Agent Handoff: Resume At Post 121
+## Next-Agent Handoff: Resume At Post 172
 
 Shayan has explicitly authorized direct publication of every remaining post in
 the active batch through post 401, to the authorized Shayan Arman S3
@@ -41,12 +41,12 @@ Before beginning work, the next agent must read `agent.md`,
 `agent-instructions.md`, and this file completely, then confirm this exact
 durable state:
 
-- post 120, “All is Observance,” is fully published, checksum-verified,
+- post 171, “Heights Unseen,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 120 and `Next post` is 121;
-- post 121 has not started and `/private/tmp/shayan-post-121/` does not exist;
-- work must begin with post 121 and continue through post 401 strictly one post
+- `Last completed post` is 171 and `Next post` is 172;
+- post 172 has not started and `/private/tmp/shayan-post-172/` does not exist;
+- work must begin with post 172 and continue through post 401 strictly one post
   at a time, following every stage in this file before advancing a checkpoint.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
@@ -310,9 +310,9 @@ steps before advancing.
 
 - Target: posts 93–401 inclusive (continuation of the completed 78–92 batch)
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 120
-- Next post: 121
-- Last updated: 2026-08-11
+- Last completed post: 171
+- Next post: 172
+- Last updated: 2026-08-12
 
 ## Completed Checkpoints
 
@@ -362,6 +362,57 @@ steps before advancing.
 | 118 | On Wealth | `sites/shayan-arman-blog/posts/writings/2025-06-24-on-wealth.mdx` | 1 | 2026-08-11 |
 | 119 | The Funniest Shit | `sites/shayan-arman-blog/posts/writings/2025-06-24-the-funniest-shit.mdx` | 1 | 2026-08-11 |
 | 120 | All is Observance | `sites/shayan-arman-blog/posts/writings/2025-06-25-all-is-observance.mdx` | 1 | 2026-08-11 |
+| 121 | On Awakening | `sites/shayan-arman-blog/posts/writings/2025-06-26-on-awakening.mdx` | 1 | 2026-08-11 |
+| 122 | On Philosophy | `sites/shayan-arman-blog/posts/writings/2025-06-27-on-philosophy.mdx` | 0 | 2026-08-11 |
+| 123 | Now is as good a time as … | `sites/shayan-arman-blog/posts/writings/2025-06-27-now-is-as-good-a-time-as.mdx` | 0 | 2026-08-11 |
+| 124 | Courage to Venture | `sites/shayan-arman-blog/posts/writings/2025-06-27-courage-to-venture.mdx` | 1 | 2026-08-11 |
+| 125 | On Desire | `sites/shayan-arman-blog/posts/writings/2025-06-28-on-desire.mdx` | 0 | 2026-08-11 |
+| 126 | an Even further discussion on Virtue | `sites/shayan-arman-blog/posts/writings/2025-06-30-an-even-further-discussion-on-virtue.mdx` | 0 | 2026-08-11 |
+| 127 | El Vicco | `sites/shayan-arman-blog/posts/writings/2025-07-01-el-vicco.mdx` | 1 | 2026-08-11 |
+| 128 | The Champ | `sites/shayan-arman-blog/posts/writings/2025-07-02-the-champ.mdx` | 0 | 2026-08-11 |
+| 129 | My Cousin | `sites/shayan-arman-blog/posts/writings/2025-07-03-my-cousin.mdx` | 1 | 2026-08-11 |
+| 130 | Wisdom | `sites/shayan-arman-blog/posts/writings/2025-07-05-wisdom.mdx` | 1 | 2026-08-11 |
+| 131 | The Most Gracious | `sites/shayan-arman-blog/posts/writings/2025-07-05-the-most-gracious.mdx` | 1 | 2026-08-11 |
+| 132 | Aphorisms | `sites/shayan-arman-blog/posts/writings/2025-07-05-aphorisms.mdx` | 0 | 2026-08-11 |
+| 133 | On Folding Sheets | `sites/shayan-arman-blog/posts/writings/2025-07-06-on-folding-sheets.mdx` | 1 | 2026-08-11 |
+| 134 | Friendly Magician | `sites/shayan-arman-blog/posts/writings/2025-07-07-friendly-magician.mdx` | 0 | 2026-08-11 |
+| 135 | Abra Cadabra bitches! | `sites/shayan-arman-blog/posts/writings/2025-07-07-abra-cadabra-bitches.mdx` | 0 | 2026-08-11 |
+| 136 | Inflation | `sites/shayan-arman-blog/posts/writings/2025-07-07-inflation.mdx` | 0 | 2026-08-11 |
+| 137 | The shape of things | `sites/shayan-arman-blog/posts/writings/2025-07-07-the-shape-of-things.mdx` | 0 | 2026-08-11 |
+| 138 | An Athlete of Life | `sites/shayan-arman-blog/posts/writings/2025-07-07-an-athlete-of-life.mdx` | 1 | 2026-08-11 |
+| 139 | The Drinker | `sites/shayan-arman-blog/posts/writings/2025-07-08-the-drinker.mdx` | 1 | 2026-08-11 |
+| 140 | On Me | `sites/shayan-arman-blog/posts/writings/2025-07-08-on-me.mdx` | 1 | 2026-08-11 |
+| 141 | On Equality | `sites/shayan-arman-blog/posts/writings/2025-07-09-on-equality.mdx` | 1 | 2026-08-11 |
+| 142 | Rule Breakers | `sites/shayan-arman-blog/posts/writings/2025-07-15-rule-breakers.mdx` | 1 | 2026-08-11 |
+| 143 | Twisted Thinking | `sites/shayan-arman-blog/posts/writings/2025-07-15-twisted-thinking.mdx` | 0 | 2026-08-11 |
+| 144 | The Don | `sites/shayan-arman-blog/posts/writings/2025-07-20-the-don.mdx` | 0 | 2026-08-11 |
+| 145 | On Suffering | `sites/shayan-arman-blog/posts/writings/2025-07-20-on-suffering-c06.mdx` | 1 | 2026-08-11 |
+| 146 | Dreaming with God | `sites/shayan-arman-blog/posts/writings/2025-07-20-dreaming-with-god.mdx` | 0 | 2026-08-11 |
+| 147 | Belief Systems | `sites/shayan-arman-blog/posts/writings/2025-07-21-belief-systems.mdx` | 1 | 2026-08-11 |
+| 148 | The Rise of Boogeymen | `sites/shayan-arman-blog/posts/writings/2025-07-21-the-rise-of-boogeymen.mdx` | 0 | 2026-08-11 |
+| 149 | On Marx | `sites/shayan-arman-blog/posts/writings/2025-07-23-on-marx.mdx` | 0 | 2026-08-11 |
+| 150 | Dying Twice | `sites/shayan-arman-blog/posts/writings/2025-07-23-dying-twice.mdx` | 1 | 2026-08-11 |
+| 151 | The Most Beautiful | `sites/shayan-arman-blog/posts/writings/2025-07-23-the-most-beautiful.mdx` | 1 | 2026-08-11 |
+| 152 | Why not me? | `sites/shayan-arman-blog/posts/writings/2025-07-24-why-not-me.mdx` | 1 | 2026-08-11 |
+| 153 | The Train of Philosophy | `sites/shayan-arman-blog/posts/writings/2025-07-24-the-train-of-philosophy.mdx` | 1 | 2026-08-11 |
+| 154 | Environmentalism | `sites/shayan-arman-blog/posts/writings/2025-07-25-environmentalism.mdx` | 1 | 2026-08-11 |
+| 155 | You scratched it! | `sites/shayan-arman-blog/posts/writings/2025-07-25-you-scratched-it.mdx` | 1 | 2026-08-11 |
+| 156 | Conservative Closed Minded | `sites/shayan-arman-blog/posts/writings/2025-07-29-conservative-closed-minded.mdx` | 0 | 2026-08-11 |
+| 157 | True Friend | `sites/shayan-arman-blog/posts/writings/2025-08-03-true-friend.mdx` | 1 | 2026-08-11 |
+| 158 | On Cleaning | `sites/shayan-arman-blog/posts/writings/2025-08-06-on-cleaning.mdx` | 0 | 2026-08-11 |
+| 159 | Question Master | `sites/shayan-arman-blog/posts/writings/2025-08-06-question-master.mdx` | 1 | 2026-08-11 |
+| 160 | On Miracles | `sites/shayan-arman-blog/posts/writings/2025-08-08-on-miracles.mdx` | 1 | 2026-08-11 |
+| 161 | Knowledge and Prediction | `sites/shayan-arman-blog/posts/writings/2025-08-09-knowledge-and-prediction.mdx` | 0 | 2026-08-11 |
+| 162 | Curses | `sites/shayan-arman-blog/posts/writings/2025-08-09-curses.mdx` | 0 | 2026-08-11 |
+| 163 | Core Things | `sites/shayan-arman-blog/posts/writings/2025-08-10-core-things.mdx` | 0 | 2026-08-11 |
+| 164 | Blame Games | `sites/shayan-arman-blog/posts/writings/2025-08-10-blame-games.mdx` | 0 | 2026-08-11 |
+| 165 | Habitual | `sites/shayan-arman-blog/posts/writings/2025-08-10-habitual.mdx` | 0 | 2026-08-11 |
+| 166 | Business Class Blues | `sites/shayan-arman-blog/posts/writings/2025-08-13-business-class-blues.mdx` | 1 | 2026-08-11 |
+| 167 | On Sleep | `sites/shayan-arman-blog/posts/writings/2025-08-13-on-sleep.mdx` | 1 | 2026-08-11 |
+| 168 | Andrew Tate | `sites/shayan-arman-blog/posts/writings/2025-08-14-andrew-tate.mdx` | 1 | 2026-08-11 |
+| 169 | To take a Stand | `sites/shayan-arman-blog/posts/writings/2025-08-14-to-take-a-stand.mdx` | 1 | 2026-08-11 |
+| 170 | Andrew Tate and Exceptionalism | `sites/shayan-arman-blog/posts/writings/2025-08-14-andrew-tate-and-exceptionalism.mdx` | 1 | 2026-08-12 |
+| 171 | Heights Unseen | `sites/shayan-arman-blog/posts/writings/2025-08-15-heights-unseen.mdx` | 1 | 2026-08-12 |
 
 ## Resume Rule
 
@@ -378,5 +429,7 @@ the top of this file.
 - Posts 61–80: done
 - Posts 81–100: done
 - Posts 101–120: done
-- Posts 121–140: in progress — post 121 next
-- Posts 141–401: not started in the active batch
+- Posts 121–140: done
+- Posts 141–160: done
+- Posts 161–180: in progress — posts 161–171 done; post 172 next
+- Posts 181–401: not started in the active batch

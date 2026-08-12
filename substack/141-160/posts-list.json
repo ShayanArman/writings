@@ -5,15 +5,49 @@
     "substack_url": "https://shayanarman.substack.com/p/on-equality",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and Money Laundering",
+    "published_at": "2025-07-09T15:06:53.780Z",
+    "draft_slug": "on-equality",
+    "draft_file": "2025-07-09-on-equality.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-equality/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-entering-japanese-bar.jpeg",
+        "width": 5712,
+        "height": 4284,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-equality/man-entering-japanese-bar.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/18a3567c-973a-4733-998f-050f7386afe7_5712x4284.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "142": {
     "file_number": 142,
     "title": "Rule Breakers",
     "substack_url": "https://shayanarman.substack.com/p/rule-breakers",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "Drive over the Sidewalk once in a While.",
+    "published_at": "2025-07-15T13:24:58.785Z",
+    "draft_slug": "rule-breakers",
+    "draft_file": "2025-07-15-rule-breakers.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/rule-breakers/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/rule-breakers/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4817090b-9c8a-4588-9ce1-25d86952a9d8_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "143": {
     "file_number": 143,
@@ -21,7 +55,14 @@
     "substack_url": "https://shayanarman.substack.com/p/twisted-thinking",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-15T15:17:54.258Z",
+    "draft_slug": "twisted-thinking",
+    "draft_file": "2025-07-15-twisted-thinking.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "144": {
     "file_number": 144,
@@ -29,15 +70,39 @@
     "substack_url": "https://shayanarman.substack.com/p/the-don",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-20T14:16:53.082Z",
+    "draft_slug": "the-don",
+    "draft_file": "2025-07-20-the-don.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "145": {
     "file_number": 145,
     "title": "On Suffering",
     "substack_url": "https://shayanarman.substack.com/p/on-suffering-c06",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-20T14:23:53.977Z",
+    "draft_slug": "on-suffering-c06",
+    "draft_file": "2025-07-20-on-suffering-c06.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-suffering-c06/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-suffering-c06/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/83b1f1bb-c38f-4489-a344-ef9b1edd9404_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "146": {
     "file_number": 146,
@@ -45,15 +110,40 @@
     "substack_url": "https://shayanarman.substack.com/p/dreaming-with-god",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "Further Dialogues on Belief Systems",
+    "published_at": "2025-07-20T14:32:35.575Z",
+    "draft_slug": "dreaming-with-god",
+    "draft_file": "2025-07-20-dreaming-with-god.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "147": {
     "file_number": 147,
     "title": "Belief Systems",
     "substack_url": "https://shayanarman.substack.com/p/belief-systems",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "First Definition of Spiritual Conceptual Beings.",
+    "published_at": "2025-07-21T09:03:00.390Z",
+    "draft_slug": "belief-systems",
+    "draft_file": "2025-07-21-belief-systems.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/belief-systems/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "self-portrait-against-wood-wall.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/belief-systems/self-portrait-against-wood-wall.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6389b-b37d-4a68-b3e3-3910b54ba810_2316x3088.heic"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "148": {
     "file_number": 148,
@@ -61,7 +151,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-rise-of-boogeymen",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-21T09:05:51.784Z",
+    "draft_slug": "the-rise-of-boogeymen",
+    "draft_file": "2025-07-21-the-rise-of-boogeymen.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "149": {
     "file_number": 149,
@@ -69,31 +166,98 @@
     "substack_url": "https://shayanarman.substack.com/p/on-marx",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-23T08:56:54.728Z",
+    "draft_slug": "on-marx",
+    "draft_file": "2025-07-23-on-marx.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "150": {
     "file_number": 150,
     "title": "Dying Twice",
     "substack_url": "https://shayanarman.substack.com/p/dying-twice",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-23T09:02:23.506Z",
+    "draft_slug": "dying-twice",
+    "draft_file": "2025-07-23-dying-twice.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/dying-twice/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "coastal-cliffs-and-sea.jpeg",
+        "width": 1620,
+        "height": 2025,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/dying-twice/coastal-cliffs-and-sea.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f933e65f-7526-4b0b-adca-96ed940ebe77_1620x2025.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "151": {
     "file_number": 151,
     "title": "The Most Beautiful",
     "substack_url": "https://shayanarman.substack.com/p/the-most-beautiful",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-23T09:09:39.190Z",
+    "draft_slug": "the-most-beautiful",
+    "draft_file": "2025-07-23-the-most-beautiful.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-beautiful/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-beautiful/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9438aba7-73a5-417c-a1ba-f7defe2e7534_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "152": {
     "file_number": 152,
     "title": "Why not me?",
     "substack_url": "https://shayanarman.substack.com/p/why-not-me",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-24T08:33:11.352Z",
+    "draft_slug": "why-not-me",
+    "draft_file": "2025-07-24-why-not-me.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#ai",
+      "#cleaner",
+      "#organizer",
+      "#manager",
+      "#zeroinbox"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-not-me/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "santorini-at-night.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-not-me/santorini-at-night.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4752c2a-c6bd-421c-ad45-b74069e7602f_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "153": {
     "file_number": 153,
@@ -101,23 +265,74 @@
     "substack_url": "https://shayanarman.substack.com/p/the-train-of-philosophy",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-24T08:45:42.752Z",
+    "draft_slug": "the-train-of-philosophy",
+    "draft_file": "2025-07-24-the-train-of-philosophy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-train-of-philosophy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "marble-bust-of-aristotle.webp",
+        "width": 1276,
+        "height": 1600,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-train-of-philosophy/marble-bust-of-aristotle.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3a74b963-45d2-4cb8-9c2f-5e1bc4cc4dce_1276x1600.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "154": {
     "file_number": 154,
     "title": "Environmentalism",
     "substack_url": "https://shayanarman.substack.com/p/environmentalism",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": "And futureism",
+    "published_at": "2025-07-25T09:16:19.802Z",
+    "draft_slug": "environmentalism",
+    "draft_file": "2025-07-25-environmentalism.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/environmentalism/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/environmentalism/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5b0aba9-8013-4554-b9d3-c3773cb32842_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "155": {
     "file_number": 155,
     "title": "You scratched it!",
     "substack_url": "https://shayanarman.substack.com/p/you-scratched-it",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-07-25T13:12:00.313Z",
+    "draft_slug": "you-scratched-it",
+    "draft_file": "2025-07-25-you-scratched-it.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/you-scratched-it/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/you-scratched-it/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/38b3d8ee-3ba0-40d9-891c-89cca87e392e_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "156": {
     "file_number": 156,
@@ -125,15 +340,39 @@
     "substack_url": "https://shayanarman.substack.com/p/conservative-closed-minded",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "No good.",
+    "published_at": "2025-07-29T07:04:54.372Z",
+    "draft_slug": "conservative-closed-minded",
+    "draft_file": "2025-07-29-conservative-closed-minded.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "157": {
     "file_number": 157,
     "title": "True Friend",
     "substack_url": "https://shayanarman.substack.com/p/true-friend",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-03T21:58:17.260Z",
+    "draft_slug": "true-friend",
+    "draft_file": "2025-08-03-true-friend.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/true-friend/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "island-sunset-over-bay.jpeg",
+        "width": 5712,
+        "height": 4284,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/true-friend/island-sunset-over-bay.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/147e65f5-c26f-42f9-bab0-6d7cf3897bcb_5712x4284.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "158": {
     "file_number": 158,
@@ -141,15 +380,39 @@
     "substack_url": "https://shayanarman.substack.com/p/on-cleaning",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": "and hatred",
+    "published_at": "2025-08-06T06:59:12.624Z",
+    "draft_slug": "on-cleaning",
+    "draft_file": "2025-08-06-on-cleaning.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "159": {
     "file_number": 159,
     "title": "Question Master",
     "substack_url": "https://shayanarman.substack.com/p/question-master",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-06T07:07:58.565Z",
+    "draft_slug": "question-master",
+    "draft_file": "2025-08-06-question-master.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/question-master/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-passing-a-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/question-master/hands-passing-a-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/41f325ed-eb55-4822-88ec-6c35e36f3025_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "160": {
     "file_number": 160,
@@ -157,6 +420,23 @@
     "substack_url": "https://shayanarman.substack.com/p/on-miracles",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-11",
+    "subtitle": null,
+    "published_at": "2025-08-08T11:00:24.501Z",
+    "draft_slug": "on-miracles",
+    "draft_file": "2025-08-08-on-miracles.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hallgrimskirkja-and-leif-erikson-statue.jpeg",
+        "width": 4284,
+        "height": 5712,
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9cf39d2-7df5-441a-aed9-489b7d408d2f_5712x4284.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

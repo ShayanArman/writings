@@ -30,10 +30,10 @@ s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Migration Complete Through Post 401
+## Migration Complete Through Post 408
 
 Shayan has explicitly authorized direct publication of every remaining post in
-the active batch through post 401, to the authorized Shayan Arman S3
+the active batch through post 408, to the authorized Shayan Arman S3
 prefix. Do not request approval between posts. Continue automatically after
 each successful checkpoint unless a genuine unrecoverable blocker occurs.
 
@@ -44,10 +44,10 @@ durable state:
 - post 304, “The Startup Algorithm,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 401 and `Next post` is none;
-- post 401 is fully published and `/private/tmp/shayan-post-401/` does not
+- `Last completed post` is 408 and `Next post` is none;
+- post 408 is fully published and `/private/tmp/shayan-post-408/` does not
   exist;
-- the authorized migration through post 401 is complete.
+- the authorized migration through post 408 is complete.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
 copies in `site/draft-post/` or `site/live-posts/`. Temporary post files belong
@@ -92,7 +92,7 @@ On 2026-08-11, immediately before the post-120 handoff:
   not create a route.
 
 This audit describes the handoff state only. It does not replace either of the
-two mandatory per-post uniqueness preflights for posts 120–401.
+two mandatory per-post uniqueness preflights for posts 120–408.
 
 ### How To Check Every New Post Slug
 
@@ -132,7 +132,7 @@ For every new post, use this exact procedure:
 
 1. Read `agent.md`, `agent-instructions.md`, this file, the current range's
    `posts-list.json`, and `substack/dashboard.json`.
-   For the active posts 78–401 direct-publication batch, this file and
+   For the active posts 78–408 direct-publication batch, this file and
    `agent-instructions.md` override any conflicting older archive-import or
    review-draft guidance in `agent.md`. Do not ask for per-post approval, do
    not use a batch importer, do not create a local `draft-post` or
@@ -308,11 +308,12 @@ steps before advancing.
 
 ## Active Batch
 
-- Target: posts 93–401 inclusive (continuation of the completed 78–92 batch)
+- Target: posts 402–408 inclusive (continuation of the completed migration
+  through post 401)
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 401
+- Last completed post: 408
 - Next post: none
-- Last updated: 2026-08-12
+- Last updated: 2026-08-13
 
 ## Completed Checkpoints
 
@@ -643,6 +644,13 @@ steps before advancing.
 | 399 | Why Siri Failed - an honest take | `sites/shayan-arman-blog/posts/writings/2026-06-11-why-siri-failed-an-honest-take.mdx` | 1 | 2026-08-12 |
 | 400 | Homeless Man | `sites/shayan-arman-blog/posts/writings/2026-06-11-homeless-man.mdx` | 0 | 2026-08-12 |
 | 401 | Pages | `sites/shayan-arman-blog/posts/writings/2026-06-12-pages.mdx` | 0 | 2026-08-12 |
+| 402 | Capitalism on Neptune | `sites/shayan-arman-blog/posts/writings/2026-06-14-capitalism-on-neptune.mdx` | 1 | 2026-08-13 |
+| 403 | Half Eaten | `sites/shayan-arman-blog/posts/writings/2026-07-09-half-eaten.mdx` | 1 | 2026-08-13 |
+| 404 | On Depression | `sites/shayan-arman-blog/posts/writings/2026-07-17-on-depression.mdx` | 0 | 2026-08-13 |
+| 405 | War | `sites/shayan-arman-blog/posts/writings/2026-07-18-war.mdx` | 0 | 2026-08-13 |
+| 406 | Sharnification | `sites/shayan-arman-blog/posts/writings/2026-08-07-sharnification.mdx` | 0 | 2026-08-13 |
+| 407 | Arnold on the Value of Hard Work | `sites/shayan-arman-blog/posts/writings/2026-08-10-arnold-on-the-value-of-hard-work.mdx` | 0 | 2026-08-13 |
+| 408 | A New Mind | `sites/shayan-arman-blog/posts/writings/2026-08-11-a-new-mind.mdx` | 0 | 2026-08-13 |
 
 ## Resume Rule
 
@@ -673,4 +681,4 @@ the top of this file.
 - Posts 341–360: done
 - Posts 361–380: done
 - Posts 381–400: done
-- Post 401: done
+- Posts 401–408: done

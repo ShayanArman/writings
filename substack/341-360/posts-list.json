@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/narcos-35d",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-22T19:18:24.672Z",
+    "draft_slug": "narcos-35d",
+    "draft_file": "2026-04-22-narcos-35d.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "342": {
     "file_number": 342,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/stars-misaligned",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-23T05:20:47.397Z",
+    "draft_slug": "stars-misaligned",
+    "draft_file": "2026-04-23-stars-misaligned.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "343": {
     "file_number": 343,
@@ -21,7 +35,33 @@
     "substack_url": "https://shayanarman.substack.com/p/esha-bhatti",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Helper of Zero Inbox AI Email Cleaner and Organizer",
+    "published_at": "2026-04-23T17:22:30.916Z",
+    "draft_slug": "esha-bhatti",
+    "draft_file": "2026-04-23-esha-bhatti.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/esha-bhatti/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "esha-bhatti.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/esha-bhatti/esha-bhatti.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed36ab02-aa4b-444a-b373-8d17754055ec_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "344": {
     "file_number": 344,
@@ -29,7 +69,36 @@
     "substack_url": "https://shayanarman.substack.com/p/psycholo-g",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "An artist of Life",
+    "published_at": "2026-04-23T17:42:41.033Z",
+    "draft_slug": "psycholo-g",
+    "draft_file": "2026-04-23-psycholo-g.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-in-blue-shirt-portrait.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-in-blue-shirt-portrait.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/42be3ed0-59ae-4017-87ec-76dfd144b925_2316x3088.heic",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
+      },
+      {
+        "archive_filename": null,
+        "filename": "man-relaxing-in-pink-hammock.jpeg",
+        "width": 1170,
+        "height": 2080,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-relaxing-in-pink-hammock.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8d53083e-8a65-432f-9fac-a9e4d5055142_1170x2080.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "345": {
     "file_number": 345,
@@ -37,7 +106,14 @@
     "substack_url": "https://shayanarman.substack.com/p/justin-bieber-part-1",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T03:42:37.050Z",
+    "draft_slug": "justin-bieber-part-1",
+    "draft_file": "2026-04-24-justin-bieber-part-1.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "346": {
     "file_number": 346,
@@ -45,15 +121,29 @@
     "substack_url": "https://shayanarman.substack.com/p/true-diversity",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T19:28:27.017Z",
+    "draft_slug": "true-diversity",
+    "draft_file": "2026-04-24-true-diversity.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "347": {
     "file_number": 347,
-    "title": "Best Friends",
+    "title": "Best Friends ",
     "substack_url": "https://shayanarman.substack.com/p/best-friends",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T20:25:37.139Z",
+    "draft_slug": "best-friends",
+    "draft_file": "2026-04-24-best-friends.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "348": {
     "file_number": 348,
@@ -61,7 +151,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-night-sky",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T20:36:39.128Z",
+    "draft_slug": "the-night-sky",
+    "draft_file": "2026-04-24-the-night-sky.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "349": {
     "file_number": 349,
@@ -69,7 +166,14 @@
     "substack_url": "https://shayanarman.substack.com/p/acronyms",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T20:42:47.176Z",
+    "draft_slug": "acronyms",
+    "draft_file": "2026-04-24-acronyms.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "350": {
     "file_number": 350,
@@ -77,7 +181,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-new-boxing-gym",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T21:18:12.247Z",
+    "draft_slug": "the-new-boxing-gym",
+    "draft_file": "2026-04-24-the-new-boxing-gym.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "351": {
     "file_number": 351,
@@ -85,7 +204,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-crow",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-24T21:25:28.007Z",
+    "draft_slug": "the-crow",
+    "draft_file": "2026-04-24-the-crow.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "352": {
     "file_number": 352,
@@ -93,7 +219,22 @@
     "substack_url": "https://shayanarman.substack.com/p/7-day-girlfriends",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-26T06:25:12.333Z",
+    "draft_slug": "7-day-girlfriends",
+    "draft_file": "2026-04-26-7-day-girlfriends.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "353": {
     "file_number": 353,
@@ -101,7 +242,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-mind",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-27T05:16:43.098Z",
+    "draft_slug": "the-mind",
+    "draft_file": "2026-04-27-the-mind.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "354": {
     "file_number": 354,
@@ -109,7 +265,14 @@
     "substack_url": "https://shayanarman.substack.com/p/winged-words",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-27T06:17:00.220Z",
+    "draft_slug": "winged-words",
+    "draft_file": "2026-04-27-winged-words.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "355": {
     "file_number": 355,
@@ -117,7 +280,14 @@
     "substack_url": "https://shayanarman.substack.com/p/ontological-victimhood",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "its definition monday",
+    "published_at": "2026-04-27T17:25:54.163Z",
+    "draft_slug": "ontological-victimhood",
+    "draft_file": "2026-04-27-ontological-victimhood.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "356": {
     "file_number": 356,
@@ -125,7 +295,14 @@
     "substack_url": "https://shayanarman.substack.com/p/reverse-inference",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-28T05:19:20.569Z",
+    "draft_slug": "reverse-inference",
+    "draft_file": "2026-04-28-reverse-inference.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "357": {
     "file_number": 357,
@@ -133,7 +310,14 @@
     "substack_url": "https://shayanarman.substack.com/p/conservatives",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and 18$ lattes",
+    "published_at": "2026-04-28T20:49:05.949Z",
+    "draft_slug": "conservatives",
+    "draft_file": "2026-04-28-conservatives.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "358": {
     "file_number": 358,
@@ -141,7 +325,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-structure-of-the-universe",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-29T06:14:14.783Z",
+    "draft_slug": "the-structure-of-the-universe",
+    "draft_file": "2026-04-29-the-structure-of-the-universe.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "359": {
     "file_number": 359,
@@ -149,7 +348,14 @@
     "substack_url": "https://shayanarman.substack.com/p/advices",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-29T17:58:30.391Z",
+    "draft_slug": "advices",
+    "draft_file": "2026-04-29-advices.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "360": {
     "file_number": 360,
@@ -157,6 +363,21 @@
     "substack_url": "https://shayanarman.substack.com/p/the-goose",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-29T19:05:33.001Z",
+    "draft_slug": "the-goose",
+    "draft_file": "2026-04-29-the-goose.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

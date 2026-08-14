@@ -243,9 +243,32 @@
     "file_number": 173,
     "title": "Summative",
     "substack_url": "https://shayanarman.substack.com/p/summative",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Growing Without Withdrawals",
+    "published_at": "2025-08-16T14:54:47.548Z",
+    "draft_slug": "summative",
+    "draft_file": "2025-08-16-summative.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/summative/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "summative.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/summative/summative.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d881f28-6031-4e13-9cba-55c465372e2c_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "174": {
     "file_number": 174,
@@ -253,15 +276,39 @@
     "substack_url": "https://shayanarman.substack.com/p/vibe-coding",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A Conceptual Understanding",
+    "published_at": "2025-08-16T16:22:54.576Z",
+    "draft_slug": "vibe-coding",
+    "draft_file": "2025-08-16-vibe-coding.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "175": {
     "file_number": 175,
     "title": "Exceptionalism",
     "substack_url": "https://shayanarman.substack.com/p/exceptionalism",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "And Economic Spaces",
+    "published_at": "2025-08-16T18:00:48.564Z",
+    "draft_slug": "exceptionalism",
+    "draft_file": "2025-08-16-exceptionalism.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/exceptionalism/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "exceptionalism.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/exceptionalism/exceptionalism.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4161bdc-3e5c-4e41-87d1-1c723929150f_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "176": {
     "file_number": 176,
@@ -269,7 +316,14 @@
     "substack_url": "https://shayanarman.substack.com/p/economic-spaces",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-17T06:52:41.830Z",
+    "draft_slug": "economic-spaces",
+    "draft_file": "2025-08-17-economic-spaces.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "177": {
     "file_number": 177,
@@ -277,7 +331,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-conductor",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-17T10:54:59.009Z",
+    "draft_slug": "the-conductor",
+    "draft_file": "2025-08-17-the-conductor.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "178": {
     "file_number": 178,
@@ -285,7 +346,14 @@
     "substack_url": "https://shayanarman.substack.com/p/perceptions",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-17T11:12:48.749Z",
+    "draft_slug": "perceptions",
+    "draft_file": "2025-08-17-perceptions.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "179": {
     "file_number": 179,
@@ -293,7 +361,14 @@
     "substack_url": "https://shayanarman.substack.com/p/ontology",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-17T11:13:53.070Z",
+    "draft_slug": "ontology",
+    "draft_file": "2025-08-17-ontology.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "180": {
     "file_number": 180,
@@ -301,6 +376,13 @@
     "substack_url": "https://shayanarman.substack.com/p/end-theory",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-17T16:56:31.641Z",
+    "draft_slug": "end-theory",
+    "draft_file": "2025-08-17-end-theory.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

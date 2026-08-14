@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-jumper",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "And other tales on the Bridge to the other Side of Suicide",
+    "published_at": "2025-09-17T20:24:46.825Z",
+    "draft_slug": "the-jumper",
+    "draft_file": "2025-09-17-the-jumper.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "222": {
     "file_number": 222,
@@ -13,7 +20,21 @@
     "substack_url": "https://shayanarman.substack.com/p/loopy-thinkiiiiingggg",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "WEEEOOOOOOOOOWWWW",
+    "published_at": "2025-09-17T21:10:00.479Z",
+    "draft_slug": "loopy-thinkiiiiingggg",
+    "draft_file": "2025-09-17-loopy-thinkiiiiingggg.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "223": {
     "file_number": 223,
@@ -21,7 +42,38 @@
     "substack_url": "https://shayanarman.substack.com/p/we-all-want-to-be-goku",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A 7 Year Old Dreams of Greatness",
+    "published_at": "2025-09-17T23:46:47.987Z",
+    "draft_slug": "we-all-want-to-be-goku",
+    "draft_file": "2025-09-17-we-all-want-to-be-goku.mdx",
+    "hashtags": [
+      "#productivity",
+      "#remove",
+      "#email",
+      "#stress",
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#emailcleaner",
+      "#organizer",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/we-all-want-to-be-goku/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "goku-super-saiyan.webp",
+        "width": 1200,
+        "height": 675,
+        "usage": "thumbnail and body",
+        "caption": "Man this was Crack Cocaine to my 7 year old Brain… Oh the 2000s",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/we-all-want-to-be-goku/goku-super-saiyan.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8da30212-a917-4737-84f7-232f94f3ee10_1200x675.webp"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "224": {
     "file_number": 224,
@@ -29,7 +81,25 @@
     "substack_url": "https://shayanarman.substack.com/p/on-production",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "of Thoughts",
+    "published_at": "2025-09-18T15:54:25.267Z",
+    "draft_slug": "on-production",
+    "draft_file": "2025-09-18-on-production.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-production/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "forest-river-landscape.jpeg",
+        "width": 1200,
+        "height": 630,
+        "usage": "thumbnail and body",
+        "caption": "Nature does all this without interest rates…",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-production/forest-river-landscape.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/984067eb-1915-4db1-90ed-911196e384f8_1200x630.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "225": {
     "file_number": 225,
@@ -37,7 +107,25 @@
     "substack_url": "https://shayanarman.substack.com/p/ask-god-not",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "for your Measly Dreams",
+    "published_at": "2025-09-18T16:13:43.605Z",
+    "draft_slug": "ask-god-not",
+    "draft_file": "2025-09-18-ask-god-not.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ask-god-not/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "empire-state-building-fifth-avenue.jpeg",
+        "width": 2048,
+        "height": 1365,
+        "usage": "thumbnail and body",
+        "caption": "How could I have known, the life I’d live?",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ask-god-not/empire-state-building-fifth-avenue.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3662884b-5b8d-4f63-a146-890947a0c3dc_2048x1365.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "226": {
     "file_number": 226,
@@ -45,7 +133,25 @@
     "substack_url": "https://shayanarman.substack.com/p/the-don-15b",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "dreaming of Mykonos",
+    "published_at": "2025-09-18T16:33:43.811Z",
+    "draft_slug": "the-don-15b",
+    "draft_file": "2025-09-18-the-don-15b.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-don-15b/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "coastal-town-and-sea-stacks.avif",
+        "width": 3072,
+        "height": 1536,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-don-15b/coastal-town-and-sea-stacks.avif",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d3cb6dd-46bd-44f1-866a-96ddf420bf48_3072x1536.avif"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "227": {
     "file_number": 227,
@@ -53,7 +159,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-death",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-19T21:58:13.228Z",
+    "draft_slug": "on-death",
+    "draft_file": "2025-09-19-on-death.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "228": {
     "file_number": 228,
@@ -61,7 +174,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-business",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-19T21:59:58.245Z",
+    "draft_slug": "on-business",
+    "draft_file": "2025-09-19-on-business.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "229": {
     "file_number": 229,
@@ -69,15 +189,46 @@
     "substack_url": "https://shayanarman.substack.com/p/summative-action",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-19T22:07:43.706Z",
+    "draft_slug": "summative-action",
+    "draft_file": "2025-09-19-summative-action.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "230": {
     "file_number": 230,
     "title": "Billion Dollar Baby",
     "substack_url": "https://shayanarman.substack.com/p/billion-dollar-baby",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-21T18:40:50.118Z",
+    "draft_slug": "billion-dollar-baby",
+    "draft_file": "2025-09-21-billion-dollar-baby.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/billion-dollar-baby/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "empire-state-building-fifth-avenue.jpeg",
+        "width": 2048,
+        "height": 1365,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/billion-dollar-baby/empire-state-building-fifth-avenue.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2599ddf5-405d-4448-8a89-2454f42ad428_2048x1365.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "231": {
     "file_number": 231,
@@ -85,7 +236,14 @@
     "substack_url": "https://shayanarman.substack.com/p/2-ways-north",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-22T03:56:27.923Z",
+    "draft_slug": "2-ways-north",
+    "draft_file": "2025-09-22-2-ways-north.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "232": {
     "file_number": 232,
@@ -93,7 +251,25 @@
     "substack_url": "https://shayanarman.substack.com/p/on-famy",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and Infamy",
+    "published_at": "2025-09-23T00:10:09.672Z",
+    "draft_slug": "on-famy",
+    "draft_file": "2025-09-23-on-famy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-famy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "couple-on-mykonos-street.jpeg",
+        "width": 1170,
+        "height": 1560,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-famy/couple-on-mykonos-street.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/99172d3e-a2e5-44ef-8f99-3751029d05d0_1170x1560.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "233": {
     "file_number": 233,
@@ -101,7 +277,25 @@
     "substack_url": "https://shayanarman.substack.com/p/economy-in-five",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "4 3 2 1",
+    "published_at": "2025-09-25T16:32:30.613Z",
+    "draft_slug": "economy-in-five",
+    "draft_file": "2025-09-25-economy-in-five.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/economy-in-five/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "empire-state-building-fifth-avenue.jpeg",
+        "width": 2048,
+        "height": 1365,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/economy-in-five/empire-state-building-fifth-avenue.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad4442c5-74aa-4613-86ad-619ccbca6e63_2048x1365.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "234": {
     "file_number": 234,
@@ -109,15 +303,39 @@
     "substack_url": "https://shayanarman.substack.com/p/been-a-while",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-29T04:47:00.878Z",
+    "draft_slug": "been-a-while",
+    "draft_file": "2025-09-29-been-a-while.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "235": {
     "file_number": 235,
     "title": "The Red Purse",
     "substack_url": "https://shayanarman.substack.com/p/the-red-purse",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-30T20:27:30.509Z",
+    "draft_slug": "the-red-purse",
+    "draft_file": "2025-09-30-the-red-purse.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-red-purse/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hands-exchanging-red-cup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-red-purse/hands-exchanging-red-cup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/098b22b6-69f2-4daa-b548-ae35288383a1_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "236": {
     "file_number": 236,
@@ -125,7 +343,32 @@
     "substack_url": "https://shayanarman.substack.com/p/the-global-religion",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "I DID THE MATH WRONG",
+    "published_at": "2025-10-03T20:07:14.192Z",
+    "draft_slug": "the-global-religion",
+    "draft_file": "2025-10-03-the-global-religion.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-global-religion/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "nightclub-selfie-sunglasses.jpeg",
+        "width": 1440,
+        "height": 1920,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-global-religion/nightclub-selfie-sunglasses.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f7913e55-d2e8-4589-9047-6a5bf40202fd_1440x1920.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "237": {
     "file_number": 237,
@@ -133,7 +376,14 @@
     "substack_url": "https://shayanarman.substack.com/p/super-super-embarassing",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "mistake in math in the last post called the Global Religion",
+    "published_at": "2025-10-03T21:30:19.506Z",
+    "draft_slug": "super-super-embarassing",
+    "draft_file": "2025-10-03-super-super-embarassing.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "238": {
     "file_number": 238,
@@ -141,7 +391,32 @@
     "substack_url": "https://shayanarman.substack.com/p/opposing-reactions",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and Substitute Teachers",
+    "published_at": "2025-10-04T19:37:45.971Z",
+    "draft_slug": "opposing-reactions",
+    "draft_file": "2025-10-04-opposing-reactions.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/opposing-reactions/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "nightclub-selfie-sunglasses.jpeg",
+        "width": 1440,
+        "height": 1920,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/opposing-reactions/nightclub-selfie-sunglasses.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/72d0c33d-a1e6-421f-a15a-1755cebb328f_1440x1920.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "239": {
     "file_number": 239,
@@ -149,7 +424,21 @@
     "substack_url": "https://shayanarman.substack.com/p/internet-personalities-and-trust",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-04T20:53:27.941Z",
+    "draft_slug": "internet-personalities-and-trust",
+    "draft_file": "2025-10-04-internet-personalities-and-trust.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "240": {
     "file_number": 240,
@@ -157,6 +446,20 @@
     "substack_url": "https://shayanarman.substack.com/p/effects",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "my genius is little cared for or noticed",
+    "published_at": "2025-10-04T21:06:35.934Z",
+    "draft_slug": "effects",
+    "draft_file": "2025-10-04-effects.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

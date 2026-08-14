@@ -3,9 +3,27 @@
     "file_number": 281,
     "title": "On Youth",
     "substack_url": "https://shayanarman.substack.com/p/on-youth",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Power therein",
+    "published_at": "2025-11-24T00:31:59.608Z",
+    "draft_slug": "on-youth",
+    "draft_file": "2025-11-24-on-youth.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-youth/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "sicilian-coast-and-rock-formations.avif",
+        "width": 3072,
+        "height": 1536,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-youth/sicilian-coast-and-rock-formations.avif",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8fcfbf90-1aea-4938-af91-b06395dbfe7b_3072x1536.avif"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "282": {
     "file_number": 282,
@@ -13,31 +31,70 @@
     "substack_url": "https://shayanarman.substack.com/p/on-sand",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-24T01:11:49.118Z",
+    "draft_slug": "on-sand",
+    "draft_file": "2025-11-24-on-sand.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sand/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "paypal-low-balance-notification.png",
+        "width": 1179,
+        "height": 2556,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sand/paypal-low-balance-notification.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f446a2e6-bb2d-40fe-88ec-837aa7fef0b9_1179x2556.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "283": {
     "file_number": 283,
     "title": "On Suffering",
     "substack_url": "https://shayanarman.substack.com/p/on-suffering-ad7",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-25T05:48:53.964Z",
+    "draft_slug": "on-suffering-ad7",
+    "draft_file": "2025-11-25-on-suffering-ad7.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "284": {
     "file_number": 284,
     "title": "Take a Look",
     "substack_url": "https://shayanarman.substack.com/p/take-a-look",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-28T16:03:26.863Z",
+    "draft_slug": "take-a-look",
+    "draft_file": "2025-11-28-take-a-look.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "285": {
     "file_number": 285,
     "title": "Inverted Living",
     "substack_url": "https://shayanarman.substack.com/p/inverted-living",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-30T04:53:27.159Z",
+    "draft_slug": "inverted-living",
+    "draft_file": "2025-11-30-inverted-living.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "286": {
     "file_number": 286,
@@ -45,7 +102,25 @@
     "substack_url": "https://shayanarman.substack.com/p/working",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "for the Man",
+    "published_at": "2025-12-02T23:46:30.249Z",
+    "draft_slug": "working",
+    "draft_file": "2025-12-02-working.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/working/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "ghost-in-the-shell-artwork.jpeg",
+        "width": 210,
+        "height": 240,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/working/ghost-in-the-shell-artwork.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4a64c98b-1b65-4591-ac86-473ac0b8f72f_210x240.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "287": {
     "file_number": 287,
@@ -53,79 +128,218 @@
     "substack_url": "https://shayanarman.substack.com/p/the-mind-and-suicide-and-jesus",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-05T22:04:28.903Z",
+    "draft_slug": "the-mind-and-suicide-and-jesus",
+    "draft_file": "2025-12-05-the-mind-and-suicide-and-jesus.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-suicide-and-jesus/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "jackie-chan-fighting-pose.jpeg",
+        "width": 199,
+        "height": 253,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-suicide-and-jesus/jackie-chan-fighting-pose.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6f84e20-70bb-4b3f-9771-0d83dc99601e_199x253.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "288": {
     "file_number": 288,
     "title": "Et tu, Brute?",
     "substack_url": "https://shayanarman.substack.com/p/et-tu-brute",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "You suffer as well, my friend?",
+    "published_at": "2025-12-06T00:02:30.947Z",
+    "draft_slug": "et-tu-brute",
+    "draft_file": "2025-12-06-et-tu-brute.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "289": {
     "file_number": 289,
     "title": "Moments",
     "substack_url": "https://shayanarman.substack.com/p/moments",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-08T19:18:46.062Z",
+    "draft_slug": "moments",
+    "draft_file": "2025-12-08-moments.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/moments/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-trying-pink-sunglasses.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/moments/man-trying-pink-sunglasses.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/65d77fb7-5db0-4dfe-ae62-ebb87f905efe_2316x3088.heic",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "290": {
     "file_number": 290,
     "title": "Genie in a Bottle",
     "substack_url": "https://shayanarman.substack.com/p/genie-in-a-bottle",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-09T06:24:52.265Z",
+    "draft_slug": "genie-in-a-bottle",
+    "draft_file": "2025-12-09-genie-in-a-bottle.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/genie-in-a-bottle/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "stone-wall-ocean-coast.jpeg",
+        "width": 4000,
+        "height": 2992,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/genie-in-a-bottle/stone-wall-ocean-coast.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5772c6f1-6640-429c-a959-d315cbd17ae0_4000x2992.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "291": {
     "file_number": 291,
     "title": "Manifest Identity",
     "substack_url": "https://shayanarman.substack.com/p/manifest-identity",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-09T23:10:48.225Z",
+    "draft_slug": "manifest-identity",
+    "draft_file": "2025-12-09-manifest-identity.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "292": {
     "file_number": 292,
     "title": "The Axe Man",
     "substack_url": "https://shayanarman.substack.com/p/the-axe-man",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-12T22:30:55.993Z",
+    "draft_slug": "the-axe-man",
+    "draft_file": "2025-12-12-the-axe-man.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "293": {
     "file_number": 293,
     "title": "The One Person Billion Dollar Company",
     "substack_url": "https://shayanarman.substack.com/p/the-one-person-billion-dollar-company",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-14T21:13:37.609Z",
+    "draft_slug": "the-one-person-billion-dollar-company",
+    "draft_file": "2025-12-14-the-one-person-billion-dollar-company.mdx",
+    "hashtags": [
+      "#samaltmanprize",
+      "#samaltman",
+      "#unicorn",
+      "#billiondollarstartup",
+      "#oneemployeecompany",
+      "#onepersonunicorn",
+      "#zeroinbox",
+      "#inboxzero",
+      "#ai",
+      "#emailai",
+      "#cleaner",
+      "#organizer",
+      "#manager"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-one-person-billion-dollar-company/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "sam-altman-portrait.jpeg",
+        "width": 275,
+        "height": 183,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-one-person-billion-dollar-company/sam-altman-portrait.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/05e33744-ddeb-44c3-8aaa-3772b8f1d496_275x183.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "294": {
     "file_number": 294,
     "title": "On the Unknown",
     "substack_url": "https://shayanarman.substack.com/p/on-the-unknown",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-12-19T20:15:20.871Z",
+    "draft_slug": "on-the-unknown",
+    "draft_file": "2025-12-19-on-the-unknown.mdx",
+    "hashtags": [
+      "#philosophy",
+      "#paths",
+      "#allpathsleadtoai",
+      "#samaltmanprize",
+      "#samaltman",
+      "#unicorn",
+      "#onepersonunicorn"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "295": {
     "file_number": 295,
     "title": "A Conversation with Gemini on Job Security",
     "substack_url": "https://shayanarman.substack.com/p/a-conversation-with-gemini-on-job",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-02-04T01:32:58.552Z",
+    "draft_slug": "a-conversation-with-gemini-on-job",
+    "draft_file": "2026-02-04-a-conversation-with-gemini-on-job.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "296": {
     "file_number": 296,
     "title": "A Consensus Algorithm",
     "substack_url": "https://shayanarman.substack.com/p/a-consensus-algorithm",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "for the Masses",
+    "published_at": "2026-02-04T01:37:05.004Z",
+    "draft_slug": "a-consensus-algorithm",
+    "draft_file": "2026-02-04-a-consensus-algorithm.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "297": {
     "file_number": 297,
@@ -133,7 +347,42 @@
     "substack_url": "https://shayanarman.substack.com/p/how-ai-will-replace-us",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Let AI Organize your email inbox and get to Inbox Zero with ZeroInbox.ai",
+    "published_at": "2026-02-24T20:51:40.124Z",
+    "draft_slug": "how-ai-will-replace-us",
+    "draft_file": "2026-02-24-how-ai-will-replace-us.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "ghost-in-the-shell-artwork.jpeg",
+        "width": 210,
+        "height": 240,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/ghost-in-the-shell-artwork.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b16e758b-29d5-404c-9cc6-42efd429f2da_210x240.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "man-trying-pink-sunglasses.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/man-trying-pink-sunglasses.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/043b69ae-a3e2-4536-b7be-848da580d61a_2316x3088.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "298": {
     "file_number": 298,
@@ -141,15 +390,62 @@
     "substack_url": "https://shayanarman.substack.com/p/a-new-depression",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A study on the behaviors of Man",
+    "published_at": "2026-03-04T21:53:09.843Z",
+    "draft_slug": "a-new-depression",
+    "draft_file": "2026-03-04-a-new-depression.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#organizer",
+      "#cleaner",
+      "#email"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-new-depression/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "david-attenborough-outdoors.jpeg",
+        "width": 945,
+        "height": 630,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-new-depression/david-attenborough-outdoors.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e76a881-dfeb-42bf-8b1a-752acfccee0b_945x630.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "299": {
     "file_number": 299,
     "title": "Thy Unholy Neighbour",
     "substack_url": "https://shayanarman.substack.com/p/thy-unholy-neighbour",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-03-10T01:31:44.683Z",
+    "draft_slug": "thy-unholy-neighbour",
+    "draft_file": "2026-03-10-thy-unholy-neighbour.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#cleaner",
+      "#organizer",
+      "#ai",
+      "#aiemail",
+      "#aiemailmanager",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "300": {
     "file_number": 300,
@@ -157,6 +453,43 @@
     "substack_url": "https://shayanarman.substack.com/p/forms-of-the-mind",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Sam Altman Prize",
+    "published_at": "2026-03-12T18:34:31.433Z",
+    "draft_slug": "forms-of-the-mind",
+    "draft_file": "2026-03-12-forms-of-the-mind.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#organizer",
+      "#cleaner",
+      "#email"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "team-usa-hockey-players-gold-medals.avif",
+        "width": 2560,
+        "height": 1706,
+        "usage": "thumbnail and body",
+        "caption": "Defying the odds, one day at a Time, until the Culminating Day arrives…",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/team-usa-hockey-players-gold-medals.avif",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f6615f87-7407-4a90-a33e-6df5c8804c2a_2560x1706.avif"
+      },
+      {
+        "archive_filename": null,
+        "filename": "kanye-west-grammy-award.jpeg",
+        "width": 289,
+        "height": 450,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/kanye-west-grammy-award.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/db7a6519-fdcb-4b81-bf6b-883806cbb376_289x450.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

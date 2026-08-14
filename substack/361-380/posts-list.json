@@ -5,7 +5,22 @@
     "substack_url": "https://shayanarman.substack.com/p/my-stalker",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Getting to inbox zero with zero inbox ai email cleaner and organizer is easy",
+    "published_at": "2026-04-30T15:21:50.931Z",
+    "draft_slug": "my-stalker",
+    "draft_file": "2026-04-30-my-stalker.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "362": {
     "file_number": 362,
@@ -13,7 +28,22 @@
     "substack_url": "https://shayanarman.substack.com/p/insufferable",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-30T18:27:19.141Z",
+    "draft_slug": "insufferable",
+    "draft_file": "2026-04-30-insufferable.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "363": {
     "file_number": 363,
@@ -21,7 +51,25 @@
     "substack_url": "https://shayanarman.substack.com/p/my-efforts",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-30T18:29:43.556Z",
+    "draft_slug": "my-efforts",
+    "draft_file": "2026-04-30-my-efforts.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-efforts/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-kayaking-near-forest-homes.jpeg",
+        "width": 4032,
+        "height": 3024,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-efforts/man-kayaking-near-forest-homes.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1724b87a-f0ea-45be-a63e-7cd92657b7bc_4032x3024.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "364": {
     "file_number": 364,
@@ -29,7 +77,14 @@
     "substack_url": "https://shayanarman.substack.com/p/perfectionists-part-1",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-30T18:32:21.377Z",
+    "draft_slug": "perfectionists-part-1",
+    "draft_file": "2026-04-30-perfectionists-part-1.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "365": {
     "file_number": 365,
@@ -37,7 +92,14 @@
     "substack_url": "https://shayanarman.substack.com/p/definition-friday",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-01T06:08:53.178Z",
+    "draft_slug": "definition-friday",
+    "draft_file": "2026-05-01-definition-friday.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "366": {
     "file_number": 366,
@@ -45,7 +107,22 @@
     "substack_url": "https://shayanarman.substack.com/p/a-path-laid-for-me",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-01T07:42:28.259Z",
+    "draft_slug": "a-path-laid-for-me",
+    "draft_file": "2026-05-01-a-path-laid-for-me.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "367": {
     "file_number": 367,
@@ -53,7 +130,22 @@
     "substack_url": "https://shayanarman.substack.com/p/shame-scores",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-01T15:06:33.961Z",
+    "draft_slug": "shame-scores",
+    "draft_file": "2026-05-01-shame-scores.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "368": {
     "file_number": 368,
@@ -61,7 +153,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-diplomat",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-01T20:53:01.775Z",
+    "draft_slug": "the-diplomat",
+    "draft_file": "2026-05-01-the-diplomat.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "369": {
     "file_number": 369,
@@ -69,7 +168,14 @@
     "substack_url": "https://shayanarman.substack.com/p/marcus-aurelius",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-02T07:37:34.136Z",
+    "draft_slug": "marcus-aurelius",
+    "draft_file": "2026-05-02-marcus-aurelius.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "370": {
     "file_number": 370,
@@ -77,7 +183,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-calling",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-03T04:14:55.048Z",
+    "draft_slug": "the-calling",
+    "draft_file": "2026-05-03-the-calling.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "371": {
     "file_number": 371,
@@ -85,7 +206,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-wolf",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-03T04:22:25.810Z",
+    "draft_slug": "the-wolf",
+    "draft_file": "2026-05-03-the-wolf.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "372": {
     "file_number": 372,
@@ -93,7 +229,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-fame",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-03T04:29:42.637Z",
+    "draft_slug": "on-fame",
+    "draft_file": "2026-05-03-on-fame.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "373": {
     "file_number": 373,
@@ -101,7 +244,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-don-part-4",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-03T04:43:01.639Z",
+    "draft_slug": "the-don-part-4",
+    "draft_file": "2026-05-03-the-don-part-4.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "374": {
     "file_number": 374,
@@ -109,7 +259,33 @@
     "substack_url": "https://shayanarman.substack.com/p/a-definitive-understanding-of-human",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "an Ontological Perspective",
+    "published_at": "2026-05-05T15:52:07.302Z",
+    "draft_slug": "a-definitive-understanding-of-human",
+    "draft_file": "2026-05-05-a-definitive-understanding-of-human.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-definitive-understanding-of-human/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "watermelons-and-tomatoes-at-market.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-definitive-understanding-of-human/watermelons-and-tomatoes-at-market.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/719d4479-ac4c-4dc3-b053-93aef877825d_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "375": {
     "file_number": 375,
@@ -117,7 +293,14 @@
     "substack_url": "https://shayanarman.substack.com/p/rambling",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-06T04:45:03.743Z",
+    "draft_slug": "rambling",
+    "draft_file": "2026-05-06-rambling.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "376": {
     "file_number": 376,
@@ -125,7 +308,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-life-well-lived",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-06T05:01:59.222Z",
+    "draft_slug": "a-life-well-lived",
+    "draft_file": "2026-05-06-a-life-well-lived.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "377": {
     "file_number": 377,
@@ -133,7 +323,33 @@
     "substack_url": "https://shayanarman.substack.com/p/cafe-coding",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-07T00:57:13.197Z",
+    "draft_slug": "cafe-coding",
+    "draft_file": "2026-05-07-cafe-coding.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/cafe-coding/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-falling-out-of-white-sports-car.jpeg",
+        "width": 1332,
+        "height": 1302,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/cafe-coding/man-falling-out-of-white-sports-car.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/586e1db9-bddd-4fe7-9cc3-96572094a422_1332x1302.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "378": {
     "file_number": 378,
@@ -141,7 +357,26 @@
     "substack_url": "https://shayanarman.substack.com/p/the-happiness-fairy",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "her first tears",
+    "published_at": "2026-05-07T01:55:41.078Z",
+    "draft_slug": "the-happiness-fairy",
+    "draft_file": "2026-05-07-the-happiness-fairy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-happiness-fairy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-and-woman-at-restaurant.jpeg",
+        "width": 4032,
+        "height": 3024,
+        "usage": "thumbnail and body",
+        "caption": "I worked as a server one summer. It was super fun. I honestly don’t know why i was hired. I ended up just chatting with everybody and not fully comprehending why everybody was in such a hurry. Turns out its because… well that’s how youre supposed to work. Didn’t know at the time lol",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-happiness-fairy/man-and-woman-at-restaurant.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd187256-bf62-4e86-9b8c-908f2113d78e_4032x3024.heic",
+        "processing": "Original HEIC converted at full 4032x3024 resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "379": {
     "file_number": 379,
@@ -149,7 +384,34 @@
     "substack_url": "https://shayanarman.substack.com/p/please-stop",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "all this winning...",
+    "published_at": "2026-05-07T17:46:49.912Z",
+    "draft_slug": "please-stop",
+    "draft_file": "2026-05-07-please-stop.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/please-stop/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "friends-at-bar.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/please-stop/friends-at-bar.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b048d776-b36b-4dfc-8cce-ec423ed5ae84_2316x3088.heic",
+        "processing": "Original HEIC converted at full 2316x3088 displayed resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "380": {
     "file_number": 380,
@@ -157,6 +419,13 @@
     "substack_url": "https://shayanarman.substack.com/p/why-universities-are-good-part-1",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-12T06:51:31.943Z",
+    "draft_slug": "why-universities-are-good-part-1",
+    "draft_file": "2026-05-12-why-universities-are-good-part-1.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

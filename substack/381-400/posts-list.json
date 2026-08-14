@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-martian-child",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-12T07:27:16.842Z",
+    "draft_slug": "the-martian-child",
+    "draft_file": "2026-05-12-the-martian-child.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "382": {
     "file_number": 382,
@@ -13,7 +20,25 @@
     "substack_url": "https://shayanarman.substack.com/p/on-business-5ad",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "the Early Stages",
+    "published_at": "2026-05-15T01:09:19.582Z",
+    "draft_slug": "on-business-5ad",
+    "draft_file": "2026-05-15-on-business-5ad.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-business-5ad/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-falling-out-of-white-sports-car.jpeg",
+        "width": 1332,
+        "height": 1302,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-business-5ad/man-falling-out-of-white-sports-car.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/32174384-f07f-4685-bd4b-d128156eba6e_1332x1302.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "383": {
     "file_number": 383,
@@ -21,7 +46,14 @@
     "substack_url": "https://shayanarman.substack.com/p/outside",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-15T04:46:43.791Z",
+    "draft_slug": "outside",
+    "draft_file": "2026-05-15-outside.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "384": {
     "file_number": 384,
@@ -29,7 +61,22 @@
     "substack_url": "https://shayanarman.substack.com/p/pause-part-1-308",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-21T16:33:29.497Z",
+    "draft_slug": "pause-part-1-308",
+    "draft_file": "2026-05-21-pause-part-1-308.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "385": {
     "file_number": 385,
@@ -37,7 +84,34 @@
     "substack_url": "https://shayanarman.substack.com/p/at-the-pool",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "They call me the Don…",
+    "published_at": "2026-05-22T05:44:46.668Z",
+    "draft_slug": "at-the-pool",
+    "draft_file": "2026-05-22-at-the-pool.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "group-mirror-selfie.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "The Don",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/group-mirror-selfie.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/522ee8d4-fdc1-4cc0-b442-8709d60d9258_4032x3024.jpeg",
+        "processing": "Original JPEG bytes preserved. Encoded raster is 4032x3024 with EXIF orientation; displayed native dimensions are 3024x4032."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "386": {
     "file_number": 386,
@@ -45,7 +119,22 @@
     "substack_url": "https://shayanarman.substack.com/p/turns-593",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Of the Seasons",
+    "published_at": "2026-05-26T04:01:02.572Z",
+    "draft_slug": "turns-593",
+    "draft_file": "2026-05-26-turns-593.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "387": {
     "file_number": 387,
@@ -53,7 +142,22 @@
     "substack_url": "https://shayanarman.substack.com/p/the-new-new-testament",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Bank Holidays",
+    "published_at": "2026-05-26T04:50:00.632Z",
+    "draft_slug": "the-new-new-testament",
+    "draft_file": "2026-05-26-the-new-new-testament.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "388": {
     "file_number": 388,
@@ -61,7 +165,22 @@
     "substack_url": "https://shayanarman.substack.com/p/drinking-in-japan",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "What a nice Mother you have",
+    "published_at": "2026-05-26T17:44:40.210Z",
+    "draft_slug": "drinking-in-japan",
+    "draft_file": "2026-05-26-drinking-in-japan.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "389": {
     "file_number": 389,
@@ -69,7 +188,25 @@
     "substack_url": "https://shayanarman.substack.com/p/virality",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Spikes of Ignorance",
+    "published_at": "2026-05-27T05:53:45.466Z",
+    "draft_slug": "virality",
+    "draft_file": "2026-05-27-virality.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/virality/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "blue-ferrari-sports-car.jpeg",
+        "width": 1200,
+        "height": 675,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/virality/blue-ferrari-sports-car.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1ea389ab-5517-4013-a267-5c2340ad5a02_1200x675.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "390": {
     "file_number": 390,
@@ -77,7 +214,34 @@
     "substack_url": "https://shayanarman.substack.com/p/ew",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "ai in industry, untouchable careers",
+    "published_at": "2026-05-29T19:02:08.856Z",
+    "draft_slug": "ew",
+    "draft_file": "2026-05-29-ew.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ew/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-overlooking-machu-picchu.jpeg",
+        "width": 4032,
+        "height": 3024,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ew/man-overlooking-machu-picchu.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/590ecdf2-b876-4a0c-b041-f2eedd004ed6_4032x3024.heic",
+        "processing": "Original HEIC converted at full 4032x3024 resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "391": {
     "file_number": 391,
@@ -85,7 +249,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-salmon",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "haifa",
+    "published_at": "2026-05-30T18:40:23.589Z",
+    "draft_slug": "the-salmon",
+    "draft_file": "2026-05-30-the-salmon.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "392": {
     "file_number": 392,
@@ -93,7 +264,22 @@
     "substack_url": "https://shayanarman.substack.com/p/three-dimensions",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "The Hunter and his Gimpy Friend",
+    "published_at": "2026-05-30T18:48:51.761Z",
+    "draft_slug": "three-dimensions",
+    "draft_file": "2026-05-30-three-dimensions.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "393": {
     "file_number": 393,
@@ -101,7 +287,14 @@
     "substack_url": "https://shayanarman.substack.com/p/reflexivity",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-05-31T19:15:09.587Z",
+    "draft_slug": "reflexivity",
+    "draft_file": "2026-05-31-reflexivity.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "394": {
     "file_number": 394,
@@ -109,7 +302,25 @@
     "substack_url": "https://shayanarman.substack.com/p/the-end-of-labour-fab",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-06-01T06:04:46.880Z",
+    "draft_slug": "the-end-of-labour-fab",
+    "draft_file": "2026-06-01-the-end-of-labour-fab.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour-fab/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "wsj-no-raise-no-promotion-screenshot.jpeg",
+        "width": 1206,
+        "height": 2436,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour-fab/wsj-no-raise-no-promotion-screenshot.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/762a75de-81d8-4558-bd3c-e9e48daa1d7e_1206x2436.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "395": {
     "file_number": 395,
@@ -117,7 +328,14 @@
     "substack_url": "https://shayanarman.substack.com/p/responsibility",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A True Head Scratcher",
+    "published_at": "2026-06-01T17:55:32.037Z",
+    "draft_slug": "responsibility",
+    "draft_file": "2026-06-01-responsibility.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "396": {
     "file_number": 396,
@@ -125,7 +343,21 @@
     "substack_url": "https://shayanarman.substack.com/p/enterprise-73f",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Double Definition Monday",
+    "published_at": "2026-06-01T18:10:55.255Z",
+    "draft_slug": "enterprise-73f",
+    "draft_file": "2026-06-01-enterprise-73f.mdx",
+    "hashtags": [
+      "#9to5bro",
+      "#responsibility",
+      "#mission",
+      "#focus",
+      "#entrepreneur"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "397": {
     "file_number": 397,
@@ -133,7 +365,14 @@
     "substack_url": "https://shayanarman.substack.com/p/good-fortune",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Need Responsibility a case study",
+    "published_at": "2026-06-06T06:17:27.538Z",
+    "draft_slug": "good-fortune",
+    "draft_file": "2026-06-06-good-fortune.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "398": {
     "file_number": 398,
@@ -141,7 +380,33 @@
     "substack_url": "https://shayanarman.substack.com/p/ai-slop",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and beautiful design",
+    "published_at": "2026-06-06T17:54:30.174Z",
+    "draft_slug": "ai-slop",
+    "draft_file": "2026-06-06-ai-slop.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-slop/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-in-yellow-flower-field.jpeg",
+        "width": 1895,
+        "height": 2048,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-slop/man-in-yellow-flower-field.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f663aae6-d1dc-4822-8468-4a678db16fe4_1895x2048.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "399": {
     "file_number": 399,
@@ -149,7 +414,25 @@
     "substack_url": "https://shayanarman.substack.com/p/why-siri-failed-an-honest-take",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "From a former Apple Engineer",
+    "published_at": "2026-06-11T21:03:21.806Z",
+    "draft_slug": "why-siri-failed-an-honest-take",
+    "draft_file": "2026-06-11-why-siri-failed-an-honest-take.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-siri-failed-an-honest-take/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "machu-picchu-git-commands-meme.png",
+        "width": 1216,
+        "height": 1214,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-siri-failed-an-honest-take/machu-picchu-git-commands-meme.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/19765754-9ae3-449f-beff-c8738cb0a013_1216x1214.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "400": {
     "file_number": 400,
@@ -157,6 +440,21 @@
     "substack_url": "https://shayanarman.substack.com/p/homeless-man",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "stole my pants",
+    "published_at": "2026-06-11T21:13:11.249Z",
+    "draft_slug": "homeless-man",
+    "draft_file": "2026-06-11-homeless-man.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/belief-systems-341",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Don Reawakened",
+    "published_at": "2025-10-05T03:00:47.829Z",
+    "draft_slug": "belief-systems-341",
+    "draft_file": "2025-10-05-belief-systems-341.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "242": {
     "file_number": 242,
@@ -13,7 +20,52 @@
     "substack_url": "https://shayanarman.substack.com/p/ai-subcontext-rule",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "I'm a Gangster of Code, a Man for the Ages, I will be remembered.",
+    "published_at": "2025-10-05T21:58:00.927Z",
+    "draft_slug": "ai-subcontext-rule",
+    "draft_file": "2025-10-05-ai-subcontext-rule.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "cubist-painting-five-women.jpeg",
+        "width": 1456,
+        "height": 2592,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/cubist-painting-five-women.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/884299b6-d17b-4927-80b2-9a968da65f13_1456x2592.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "surreal-painting-statue-glove.jpeg",
+        "width": 1456,
+        "height": 2592,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/surreal-painting-statue-glove.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/234784d6-f7f6-451d-9e8e-0c85773289e7_1456x2592.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "two-men-dim-sum-restaurant.jpeg",
+        "width": 590,
+        "height": 442,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/two-men-dim-sum-restaurant.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cbb08442-4d97-4b64-9ebc-03fd25b6b407_590x442.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "243": {
     "file_number": 243,
@@ -21,7 +73,15 @@
     "substack_url": "https://shayanarman.substack.com/p/lucky-lucky-money-money",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Man from the Far East",
+    "published_at": "2025-10-06T06:37:31.748Z",
+    "draft_slug": "lucky-lucky-money-money",
+    "draft_file": "2025-10-06-lucky-lucky-money-money.mdx",
+    "video_href": "https://www.youtube.com/watch?v=BjXFCoAToxA",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "244": {
     "file_number": 244,
@@ -29,7 +89,22 @@
     "substack_url": "https://shayanarman.substack.com/p/derivative-theory",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-07T04:07:31.180Z",
+    "draft_slug": "derivative-theory",
+    "draft_file": "2025-10-07-derivative-theory.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "video_href": "https://www.youtube.com/watch?v=5v3A37hR0Rc",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "245": {
     "file_number": 245,
@@ -37,7 +112,32 @@
     "substack_url": "https://shayanarman.substack.com/p/golden-words",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "of Paul Graham",
+    "published_at": "2025-10-07T17:10:05.049Z",
+    "draft_slug": "golden-words",
+    "draft_file": "2025-10-07-golden-words.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/golden-words/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-pink-hammock-last-day-apple.jpeg",
+        "width": 1170,
+        "height": 2080,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/golden-words/man-pink-hammock-last-day-apple.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/610834fb-27a7-4cb9-adff-236e8095370e_1170x2080.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "246": {
     "file_number": 246,
@@ -45,7 +145,35 @@
     "substack_url": "https://shayanarman.substack.com/p/3-steps-to-god",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Who cares bro. The winds of time will end us both.",
+    "published_at": "2025-10-09T06:01:19.273Z",
+    "draft_slug": "3-steps-to-god",
+    "draft_file": "2025-10-09-3-steps-to-god.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "head-pool-stars-illustration.png",
+        "width": 734,
+        "height": 1120,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/head-pool-stars-illustration.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6c8ef3e2-58fa-4815-b1ef-0f970aeeeb52_734x1120.png"
+      },
+      {
+        "archive_filename": null,
+        "filename": "sushi-masters-counter.jpeg",
+        "width": 500,
+        "height": 281,
+        "usage": "body",
+        "caption": "Somebody Dreamed of Sushi. That’s why I love Homeless people. And Sushi masters. I believe they’ve both seen GOD.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/sushi-masters-counter.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/23500c82-6ef1-4197-9ba3-8f7bdd76cc2f_500x281.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "247": {
     "file_number": 247,
@@ -53,7 +181,25 @@
     "substack_url": "https://shayanarman.substack.com/p/money",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Knowledge Gaining.",
+    "published_at": "2025-10-09T06:07:34.117Z",
+    "draft_slug": "money",
+    "draft_file": "2025-10-09-money.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "bearded-man-poker-chips.jpeg",
+        "width": 1071,
+        "height": 838,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money/bearded-man-poker-chips.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/843f5ec6-db43-45dc-8e10-385574ee2a61_1071x838.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "248": {
     "file_number": 248,
@@ -61,7 +207,85 @@
     "substack_url": "https://shayanarman.substack.com/p/money-2",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A Post Cursor to Economic Space Theory",
+    "published_at": "2025-10-09T06:17:02.972Z",
+    "draft_slug": "money-2",
+    "draft_file": "2025-10-09-money-2.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "spongebob-pointing.jpeg",
+        "width": 299,
+        "height": 168,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7e42ade6-6a2c-48c5-92b4-7aaa6d610ffd_299x168.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "spongebob-standing.jpeg",
+        "width": 200,
+        "height": 252,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0e2a9bd6-9cce-4907-ab42-6cad6eb5ba24_200x252.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "spongebob-pointing-again.jpeg",
+        "width": 299,
+        "height": 168,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing-again.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3697a92-203c-470c-b149-b813257197f1_299x168.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "spongebob-standing-again.jpeg",
+        "width": 200,
+        "height": 252,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing-again.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4f948a7c-ec03-43cd-afbd-6c30b4a2ea1c_200x252.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "spongebob-dancing-underwater.jpeg",
+        "width": 207,
+        "height": 243,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-dancing-underwater.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d83eca52-04a3-40fd-be19-14a1d93215c7_207x243.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "sandy-cheeks-flexing.jpeg",
+        "width": 225,
+        "height": 225,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/sandy-cheeks-flexing.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a51db382-d2cd-4265-ad66-0724da803d10_225x225.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "man-outdoor-selfie.jpeg",
+        "width": 405,
+        "height": 720,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/man-outdoor-selfie.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b90b0544-ca1f-4462-b84c-ab130dfe5f46_405x720.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "249": {
     "file_number": 249,
@@ -69,7 +293,35 @@
     "substack_url": "https://shayanarman.substack.com/p/startups",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and Salary Recouperation",
+    "published_at": "2025-10-09T17:17:58.854Z",
+    "draft_slug": "startups",
+    "draft_file": "2025-10-09-startups.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "apple-think-different-scientist.webp",
+        "width": 1080,
+        "height": 1673,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-scientist.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd42aaef-6b79-42d6-afdd-9c17c9c44b46_1080x1673.webp"
+      },
+      {
+        "archive_filename": null,
+        "filename": "apple-think-different-woman.jpeg",
+        "width": 320,
+        "height": 388,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-woman.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fe48950-80df-4179-983a-9d247c3bfc20_320x388.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "250": {
     "file_number": 250,
@@ -77,7 +329,14 @@
     "substack_url": "https://shayanarman.substack.com/p/exponential-chain-theory",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "(a favourite)",
+    "published_at": "2025-10-12T00:44:09.511Z",
+    "draft_slug": "exponential-chain-theory",
+    "draft_file": "2025-10-12-exponential-chain-theory.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "251": {
     "file_number": 251,
@@ -85,7 +344,32 @@
     "substack_url": "https://shayanarman.substack.com/p/single-step-theory",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "on Madness",
+    "published_at": "2025-10-15T21:48:38.467Z",
+    "draft_slug": "single-step-theory",
+    "draft_file": "2025-10-15-single-step-theory.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/single-step-theory/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hippocrates-portrait.jpeg",
+        "width": 185,
+        "height": 272,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/single-step-theory/hippocrates-portrait.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0db8c60d-f512-4d17-b1d5-d40f0a596653_185x272.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "252": {
     "file_number": 252,
@@ -93,23 +377,87 @@
     "substack_url": "https://shayanarman.substack.com/p/priced-in",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "on markets",
+    "published_at": "2025-10-17T18:01:23.504Z",
+    "draft_slug": "priced-in",
+    "draft_file": "2025-10-17-priced-in.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "253": {
     "file_number": 253,
     "title": "Onto-logic",
     "substack_url": "https://shayanarman.substack.com/p/onto-logic",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "for everything",
+    "published_at": "2025-10-19T03:59:12.769Z",
+    "draft_slug": "onto-logic",
+    "draft_file": "2025-10-19-onto-logic.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/onto-logic/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "hippocrates-portrait.jpeg",
+        "width": 185,
+        "height": 272,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/onto-logic/hippocrates-portrait.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e5bab2da-f6a6-422f-88ac-2402905fa4fe_185x272.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "254": {
     "file_number": 254,
     "title": "Paths, Journeys, Goals, and...",
     "substack_url": "https://shayanarman.substack.com/p/paths-journeys-goals-and",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "ZeroInbox.ai",
+    "published_at": "2025-10-19T18:00:10.378Z",
+    "draft_slug": "paths-journeys-goals-and",
+    "draft_file": "2025-10-19-paths-journeys-goals-and.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows",
+      "#automations"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/paths-journeys-goals-and/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "couple-ocean-overlook.jpeg",
+        "width": 1080,
+        "height": 809,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/paths-journeys-goals-and/couple-ocean-overlook.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/77afe184-7d93-4fff-950f-d751b481625a_1080x809.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "255": {
     "file_number": 255,
@@ -117,7 +465,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-hill",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T02:35:04.353Z",
+    "draft_slug": "the-hill",
+    "draft_file": "2025-10-20-the-hill.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "256": {
     "file_number": 256,
@@ -125,7 +480,14 @@
     "substack_url": "https://shayanarman.substack.com/p/partner-in-crime",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T06:25:59.117Z",
+    "draft_slug": "partner-in-crime",
+    "draft_file": "2025-10-20-partner-in-crime.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "257": {
     "file_number": 257,
@@ -133,7 +495,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-eye",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:16:19.650Z",
+    "draft_slug": "the-eye",
+    "draft_file": "2025-10-20-the-eye.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "258": {
     "file_number": 258,
@@ -141,7 +510,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-garbage-men",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:18:38.568Z",
+    "draft_slug": "the-garbage-men",
+    "draft_file": "2025-10-20-the-garbage-men.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "259": {
     "file_number": 259,
@@ -149,7 +525,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-garbage-men-257",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:18:41.210Z",
+    "draft_slug": "the-garbage-men-257",
+    "draft_file": "2025-10-20-the-garbage-men-257.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "260": {
     "file_number": 260,
@@ -157,6 +540,13 @@
     "substack_url": "https://shayanarman.substack.com/p/the-garbage-men-a70",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:18:48.663Z",
+    "draft_slug": "the-garbage-men-a70",
+    "draft_file": "2025-10-20-the-garbage-men-a70.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

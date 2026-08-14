@@ -5,6 +5,13 @@
     "substack_url": "https://shayanarman.substack.com/p/pages",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-06-12T15:31:47.985Z",
+    "draft_slug": "pages",
+    "draft_file": "2026-06-12-pages.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

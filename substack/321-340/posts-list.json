@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/loopy-beliefs",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T19:17:44.245Z",
+    "draft_slug": "loopy-beliefs",
+    "draft_file": "2026-04-10-loopy-beliefs.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "322": {
     "file_number": 322,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/endearing",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-11T17:52:42.477Z",
+    "draft_slug": "endearing",
+    "draft_file": "2026-04-11-endearing.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "323": {
     "file_number": 323,
@@ -21,7 +35,25 @@
     "substack_url": "https://shayanarman.substack.com/p/grandstanding",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-12T21:09:50.588Z",
+    "draft_slug": "grandstanding",
+    "draft_file": "2026-04-12-grandstanding.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/grandstanding/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-wearing-sunglasses-and-scarf.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/grandstanding/man-wearing-sunglasses-and-scarf.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed09f9ee-9066-4fc9-8186-a658ddc58255_2316x3088.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "324": {
     "file_number": 324,
@@ -29,7 +61,14 @@
     "substack_url": "https://shayanarman.substack.com/p/random-bird-flight-paths",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-13T23:16:48.321Z",
+    "draft_slug": "random-bird-flight-paths",
+    "draft_file": "2026-04-13-random-bird-flight-paths.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "325": {
     "file_number": 325,
@@ -37,7 +76,14 @@
     "substack_url": "https://shayanarman.substack.com/p/by-bye-nay-toe",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and a simple pure definition of propoganda",
+    "published_at": "2026-04-15T05:29:17.089Z",
+    "draft_slug": "by-bye-nay-toe",
+    "draft_file": "2026-04-15-by-bye-nay-toe.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "326": {
     "file_number": 326,
@@ -45,7 +91,54 @@
     "substack_url": "https://shayanarman.substack.com/p/private-wine-tastings-in-italy",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and Chef Dinners in Tuscany region: Greve in Chianti",
+    "published_at": "2026-04-15T17:55:31.641Z",
+    "draft_slug": "private-wine-tastings-in-italy",
+    "draft_file": "2026-04-15-private-wine-tastings-in-italy.mdx",
+    "hashtags": [
+      "#wine",
+      "#tasting",
+      "#tour",
+      "#italy",
+      "#chianti",
+      "#tuscany",
+      "#florence"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "chianti-door.webp",
+        "width": 2870,
+        "height": 3827,
+        "usage": "thumbnail and body",
+        "caption": "Benvenuti! This is the door to our little slice of Chianti life - right on Via Roma, in the historic heart of Greve.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-door.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9637c648-4ee5-4a30-9416-1fa88c36d6b2_2870x3827.webp"
+      },
+      {
+        "archive_filename": null,
+        "filename": "chianti-wine-flight.webp",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "A classic flight through Chianti Classico, every bottle from Castello di Verrazzano tells a deeper story of place, patience, and passion. Which would you uncork first?",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-wine-flight.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6ae7069d-3ef6-4404-a678-9f1f84cd3393_3024x4032.webp"
+      },
+      {
+        "archive_filename": null,
+        "filename": "greve-street-dinner.jpeg",
+        "width": 4032,
+        "height": 3024,
+        "usage": "body",
+        "caption": "Gosh this looks amazing!",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/greve-street-dinner.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6cd7cee9-42d3-4499-8baf-c351be904beb_4032x3024.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "327": {
     "file_number": 327,
@@ -53,7 +146,25 @@
     "substack_url": "https://shayanarman.substack.com/p/proetic",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-15T22:48:12.658Z",
+    "draft_slug": "proetic",
+    "draft_file": "2026-04-15-proetic.mdx",
+    "hashtags": [
+      "#inbox",
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#cleaner",
+      "#organizer",
+      "#emailcleaner",
+      "#ai",
+      "#aimail"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "328": {
     "file_number": 328,
@@ -61,7 +172,22 @@
     "substack_url": "https://shayanarman.substack.com/p/a-friend-in-logic",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-15T23:15:18.434Z",
+    "draft_slug": "a-friend-in-logic",
+    "draft_file": "2026-04-15-a-friend-in-logic.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "329": {
     "file_number": 329,
@@ -69,7 +195,53 @@
     "substack_url": "https://shayanarman.substack.com/p/how-to-code-with-ai-agents",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "... and other secrets inside",
+    "published_at": "2026-04-17T20:51:36.055Z",
+    "draft_slug": "how-to-code-with-ai-agents",
+    "draft_file": "2026-04-17-how-to-code-with-ai-agents.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-at-pena-palace.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5c364691-a0a9-4c84-b07b-7e71270a7062_3024x4032.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "surfboard-at-sunset.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/surfboard-at-sunset.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ea917a33-ea8b-413a-a9b8-91df451db98a_3024x4032.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "man-at-pena-palace-portrait.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace-portrait.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/97fd1956-0a91-473d-9b02-91036a965b0c_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "330": {
     "file_number": 330,
@@ -77,7 +249,53 @@
     "substack_url": "https://shayanarman.substack.com/p/many-startups",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "wish death upon me",
+    "published_at": "2026-04-17T21:05:48.646Z",
+    "draft_slug": "many-startups",
+    "draft_file": "2026-04-17-many-startups.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "flower-covered-house.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/flower-covered-house.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5eed0d99-4d41-45e2-91d4-b04a01ab6aea_3024x4032.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "watermelons-and-tomatoes.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/watermelons-and-tomatoes.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1925a68-6abc-419e-925b-f03d5712e56b_3024x4032.jpeg"
+      },
+      {
+        "archive_filename": null,
+        "filename": "white-building-blue-shutters.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/white-building-blue-shutters.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6e0b4d90-ae4c-429b-9675-c0bef4d9b4d9_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "331": {
     "file_number": 331,
@@ -85,7 +303,14 @@
     "substack_url": "https://shayanarman.substack.com/p/pre-sin",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-18T17:58:21.149Z",
+    "draft_slug": "pre-sin",
+    "draft_file": "2026-04-18-pre-sin.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "332": {
     "file_number": 332,
@@ -93,7 +318,14 @@
     "substack_url": "https://shayanarman.substack.com/p/duplicitous-moral-standards",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-19T22:42:22.492Z",
+    "draft_slug": "duplicitous-moral-standards",
+    "draft_file": "2026-04-19-duplicitous-moral-standards.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "333": {
     "file_number": 333,
@@ -101,7 +333,14 @@
     "substack_url": "https://shayanarman.substack.com/p/meek",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-20T04:00:11.116Z",
+    "draft_slug": "meek",
+    "draft_file": "2026-04-20-meek.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "334": {
     "file_number": 334,
@@ -109,7 +348,14 @@
     "substack_url": "https://shayanarman.substack.com/p/annals-of-time",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-20T04:26:15.490Z",
+    "draft_slug": "annals-of-time",
+    "draft_file": "2026-04-20-annals-of-time.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "335": {
     "file_number": 335,
@@ -117,7 +363,14 @@
     "substack_url": "https://shayanarman.substack.com/p/an-immovable-boulder",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-20T04:36:31.011Z",
+    "draft_slug": "an-immovable-boulder",
+    "draft_file": "2026-04-20-an-immovable-boulder.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "336": {
     "file_number": 336,
@@ -125,7 +378,25 @@
     "substack_url": "https://shayanarman.substack.com/p/the-doctor",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-21T07:13:20.973Z",
+    "draft_slug": "the-doctor",
+    "draft_file": "2026-04-21-the-doctor.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-doctor/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "doctor-advice.jpeg",
+        "width": 1206,
+        "height": 409,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-doctor/doctor-advice.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b985515-ed16-49a7-a69b-f871e03a202d_1206x409.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "337": {
     "file_number": 337,
@@ -133,7 +404,14 @@
     "substack_url": "https://shayanarman.substack.com/p/one-thing",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-21T18:40:49.103Z",
+    "draft_slug": "one-thing",
+    "draft_file": "2026-04-21-one-thing.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "338": {
     "file_number": 338,
@@ -141,7 +419,33 @@
     "substack_url": "https://shayanarman.substack.com/p/getting-busy",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "at Zero Inbox AI Email Cleaner for Outlook Hotmail and Gmail",
+    "published_at": "2026-04-22T06:52:45.169Z",
+    "draft_slug": "getting-busy",
+    "draft_file": "2026-04-22-getting-busy.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/getting-busy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "zero-inbox-autoscaling-dashboard.png",
+        "width": 2466,
+        "height": 1290,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/getting-busy/zero-inbox-autoscaling-dashboard.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/307b6eef-aab8-435b-a3f1-757888e3c046_2466x1290.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "339": {
     "file_number": 339,
@@ -149,7 +453,33 @@
     "substack_url": "https://shayanarman.substack.com/p/2-am-coding-session",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-22T08:20:23.232Z",
+    "draft_slug": "2-am-coding-session",
+    "draft_file": "2026-04-22-2-am-coding-session.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/2-am-coding-session/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "late-night-coding-session.jpeg",
+        "width": 720,
+        "height": 1280,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/2-am-coding-session/late-night-coding-session.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6bb1bcf1-f666-4004-979d-e0a0cbc41ab6_720x1280.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "340": {
     "file_number": 340,
@@ -157,6 +487,13 @@
     "substack_url": "https://shayanarman.substack.com/p/narcos",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-22T19:16:14.818Z",
+    "draft_slug": "narcos",
+    "draft_file": "2026-04-22-narcos.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

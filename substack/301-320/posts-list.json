@@ -3,25 +3,59 @@
     "file_number": 301,
     "title": "A Guest",
     "substack_url": "https://shayanarman.substack.com/p/a-guest",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Eternal Treasures",
+    "published_at": "2026-03-12T19:29:51.976Z",
+    "draft_slug": "a-guest",
+    "draft_file": "2026-03-12-a-guest.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "302": {
     "file_number": 302,
     "title": "Coding and Driving",
     "substack_url": "https://shayanarman.substack.com/p/coding-and-driving",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "With ChatGpt Codex 5.4 Codaholics anonymous",
+    "published_at": "2026-03-22T23:13:03.560Z",
+    "draft_slug": "coding-and-driving",
+    "draft_file": "2026-03-22-coding-and-driving.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#cleaner",
+      "#organizer",
+      "#ai",
+      "#aiemail",
+      "#aiemailmanager",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "303": {
     "file_number": 303,
     "title": "The News",
     "substack_url": "https://shayanarman.substack.com/p/the-news",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Brought to you by the Official ZeroInbox.ai AI Email Organizer and Cleaner for Hotmail and Outlook",
+    "published_at": "2026-03-23T19:32:37.743Z",
+    "draft_slug": "the-news",
+    "draft_file": "2026-03-23-the-news.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "304": {
     "file_number": 304,
@@ -29,7 +63,36 @@
     "substack_url": "https://shayanarman.substack.com/p/the-startup-algorithm",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Brought to you by The Official Inbox Zero AI Email Organizer and Cleaner for Hotmail Outlook and Gmail ZeroInbox.ai",
+    "published_at": "2026-03-24T23:58:46.189Z",
+    "draft_slug": "the-startup-algorithm",
+    "draft_file": "2026-03-24-the-startup-algorithm.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "man-wearing-poncho-in-clothing-shop.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail and body",
+        "caption": "I was a naive boy, and now that I slayed the Startup dragon, I am a Man.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/man-wearing-poncho-in-clothing-shop.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f3ebf560-2f4f-45ce-9deb-7d77851b2ea5_3024x4032.heic",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
+      },
+      {
+        "archive_filename": null,
+        "filename": "friends-nighttime-selfie.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "body",
+        "caption": "I can’t help but be Me.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/friends-nighttime-selfie.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/93bd1ca6-ac8d-44b5-b08b-34d036bd80cb_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "305": {
     "file_number": 305,
@@ -37,7 +100,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-steak",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-03-25T03:14:38.351Z",
+    "draft_slug": "the-steak",
+    "draft_file": "2026-03-25-the-steak.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "306": {
     "file_number": 306,
@@ -45,7 +115,21 @@
     "substack_url": "https://shayanarman.substack.com/p/ai-will-replace-us",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Efficient Replacement Theory",
+    "published_at": "2026-03-25T17:21:28.809Z",
+    "draft_slug": "ai-will-replace-us",
+    "draft_file": "2026-03-25-ai-will-replace-us.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#organizer",
+      "#cleaner"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "307": {
     "file_number": 307,
@@ -53,7 +137,25 @@
     "substack_url": "https://shayanarman.substack.com/p/on-party",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "The best night of my life",
+    "published_at": "2026-03-29T02:28:51.290Z",
+    "draft_slug": "on-party",
+    "draft_file": "2026-03-29-on-party.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-party/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "friends-at-party.jpeg",
+        "width": 2316,
+        "height": 3088,
+        "usage": "thumbnail and body",
+        "caption": "We knew all our dreams would come true that night.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-party/friends-at-party.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e84842a0-0e92-4acf-9a25-4f3339a8985b_2316x3088.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "308": {
     "file_number": 308,
@@ -61,7 +163,36 @@
     "substack_url": "https://shayanarman.substack.com/p/the-discombobulator",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "On Origins",
+    "published_at": "2026-03-30T16:56:52.655Z",
+    "draft_slug": "the-discombobulator",
+    "draft_file": "2026-03-30-the-discombobulator.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "cherry-blossom-tree.jpeg",
+        "width": 4284,
+        "height": 5712,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/cherry-blossom-tree.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/73f5daee-65d3-4e1a-91b4-61eac9912bab.heic",
+        "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
+      },
+      {
+        "archive_filename": null,
+        "filename": "man-on-rooftop-patio.jpeg",
+        "width": 826,
+        "height": 1102,
+        "usage": "body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/man-on-rooftop-patio.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/48192ac5-56f5-4fc3-b80b-4e87688590c2_826x1102.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "309": {
     "file_number": 309,
@@ -69,7 +200,14 @@
     "substack_url": "https://shayanarman.substack.com/p/a-mirror",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-06T04:20:45.157Z",
+    "draft_slug": "a-mirror",
+    "draft_file": "2026-04-06-a-mirror.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "310": {
     "file_number": 310,
@@ -77,7 +215,14 @@
     "substack_url": "https://shayanarman.substack.com/p/three-brothers",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-06T04:26:55.035Z",
+    "draft_slug": "three-brothers",
+    "draft_file": "2026-04-06-three-brothers.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "311": {
     "file_number": 311,
@@ -85,7 +230,14 @@
     "substack_url": "https://shayanarman.substack.com/p/three-brothers-7a9",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-06T04:26:59.948Z",
+    "draft_slug": "three-brothers-7a9",
+    "draft_file": "2026-04-06-three-brothers-7a9.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "312": {
     "file_number": 312,
@@ -93,7 +245,14 @@
     "substack_url": "https://shayanarman.substack.com/p/sentient",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "How to code",
+    "published_at": "2026-04-07T16:56:01.588Z",
+    "draft_slug": "sentient",
+    "draft_file": "2026-04-07-sentient.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "313": {
     "file_number": 313,
@@ -101,7 +260,14 @@
     "substack_url": "https://shayanarman.substack.com/p/sweet-fruits",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and Touching Space",
+    "published_at": "2026-04-08T04:32:19.831Z",
+    "draft_slug": "sweet-fruits",
+    "draft_file": "2026-04-08-sweet-fruits.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "314": {
     "file_number": 314,
@@ -109,7 +275,14 @@
     "substack_url": "https://shayanarman.substack.com/p/growth-rates-to-die-for",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T06:02:56.307Z",
+    "draft_slug": "growth-rates-to-die-for",
+    "draft_file": "2026-04-10-growth-rates-to-die-for.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "315": {
     "file_number": 315,
@@ -117,7 +290,14 @@
     "substack_url": "https://shayanarman.substack.com/p/tell-her-i-said-what",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T07:13:15.426Z",
+    "draft_slug": "tell-her-i-said-what",
+    "draft_file": "2026-04-10-tell-her-i-said-what.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "316": {
     "file_number": 316,
@@ -125,7 +305,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-freedom",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T17:53:35.332Z",
+    "draft_slug": "on-freedom",
+    "draft_file": "2026-04-10-on-freedom.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "317": {
     "file_number": 317,
@@ -133,7 +320,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-vitamin-c",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T18:21:18.034Z",
+    "draft_slug": "on-vitamin-c",
+    "draft_file": "2026-04-10-on-vitamin-c.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "318": {
     "file_number": 318,
@@ -141,7 +335,14 @@
     "substack_url": "https://shayanarman.substack.com/p/real-growth-baby",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T18:28:37.077Z",
+    "draft_slug": "real-growth-baby",
+    "draft_file": "2026-04-10-real-growth-baby.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "319": {
     "file_number": 319,
@@ -149,7 +350,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-empty-mall",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T18:59:47.415Z",
+    "draft_slug": "the-empty-mall",
+    "draft_file": "2026-04-10-the-empty-mall.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "320": {
     "file_number": 320,
@@ -157,6 +365,13 @@
     "substack_url": "https://shayanarman.substack.com/p/universal-directional-travel",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2026-04-10T19:05:48.183Z",
+    "draft_slug": "universal-directional-travel",
+    "draft_file": "2026-04-10-universal-directional-travel.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

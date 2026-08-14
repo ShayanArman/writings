@@ -3,17 +3,51 @@
     "file_number": 181,
     "title": "Startup Weather",
     "substack_url": "https://shayanarman.substack.com/p/startup-weather",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Spring is Coming",
+    "published_at": "2025-08-18T15:00:31.930Z",
+    "draft_slug": "startup-weather",
+    "draft_file": "2025-08-18-startup-weather.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startup-weather/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "startup-weather.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startup-weather/startup-weather.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82184f24-91c8-45f3-9515-34ea6cf9a6db_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "182": {
     "file_number": 182,
     "title": "Pre Donald Trump",
     "substack_url": "https://shayanarman.substack.com/p/pre-donald-trump",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-21T00:28:23.795Z",
+    "draft_slug": "pre-donald-trump",
+    "draft_file": "2025-08-21-pre-donald-trump.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pre-donald-trump/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "donald-trump-in-lobby.avif",
+        "width": 1216,
+        "height": 810,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pre-donald-trump/donald-trump-in-lobby.avif",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d1bb368f-d4da-4ae0-8ff0-2b13075bb8ed_1216x810.avif"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "183": {
     "file_number": 183,
@@ -21,23 +55,65 @@
     "substack_url": "https://shayanarman.substack.com/p/fatal-attraction",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-21T15:30:44.834Z",
+    "draft_slug": "fatal-attraction",
+    "draft_file": "2025-08-21-fatal-attraction.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "184": {
     "file_number": 184,
     "title": "Random Wednesdays",
     "substack_url": "https://shayanarman.substack.com/p/random-wednesdays",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "escape the regular",
+    "published_at": "2025-08-21T16:23:11.658Z",
+    "draft_slug": "random-wednesdays",
+    "draft_file": "2025-08-21-random-wednesdays.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/random-wednesdays/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "cliffside-town-at-night.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "usage": "thumbnail",
+        "processing": "Converted the original HEIC to a full-resolution quality-100 JPEG without downscaling.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/random-wednesdays/cliffside-town-at-night.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b1ea92fa-e9ab-4fb5-b010-d60dfc01a447.heic"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "185": {
     "file_number": 185,
     "title": "The Artists Life",
     "substack_url": "https://shayanarman.substack.com/p/the-artists-life",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-21T19:15:08.064Z",
+    "draft_slug": "the-artists-life",
+    "draft_file": "2025-08-21-the-artists-life.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-artists-life/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-death-of-socrates.jpeg",
+        "width": 3896,
+        "height": 2559,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-artists-life/the-death-of-socrates.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4952b0a6-2482-4490-9e0e-f04eb67978f1_3896x2559.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "186": {
     "file_number": 186,
@@ -45,7 +121,30 @@
     "substack_url": "https://shayanarman.substack.com/p/on-marketing",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "A Reductionist Approach",
+    "published_at": "2025-08-22T16:00:41.284Z",
+    "draft_slug": "on-marketing",
+    "draft_file": "2025-08-22-on-marketing.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#zeroinbox",
+      "#ai",
+      "#workflows"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-marketing/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "santorini-at-night.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "caption": "A View of Santorini at Night on one of my many Travels",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-marketing/santorini-at-night.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82b9a80e-f86e-41b7-b2c7-37ff211c1367_3024x4032.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "187": {
     "file_number": 187,
@@ -53,7 +152,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-labourer",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-23T22:24:28.458Z",
+    "draft_slug": "the-labourer",
+    "draft_file": "2025-08-23-the-labourer.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "188": {
     "file_number": 188,
@@ -61,23 +167,64 @@
     "substack_url": "https://shayanarman.substack.com/p/the-label-maker",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-23T23:12:17.695Z",
+    "draft_slug": "the-label-maker",
+    "draft_file": "2025-08-23-the-label-maker.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "189": {
     "file_number": 189,
     "title": "The Good Friend",
     "substack_url": "https://shayanarman.substack.com/p/the-good-friend",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "The Ultimate Virtue",
+    "published_at": "2025-08-27T18:59:49.956Z",
+    "draft_slug": "the-good-friend",
+    "draft_file": "2025-08-27-the-good-friend.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-good-friend/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-good-friend.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-good-friend/the-good-friend.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2389f39a-7411-4dfe-83e0-c2f4149f3d72_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "190": {
     "file_number": 190,
     "title": "Starting a Startup",
     "substack_url": "https://shayanarman.substack.com/p/starting-a-startup",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "and Other Hard things",
+    "published_at": "2025-08-28T15:30:33.056Z",
+    "draft_slug": "starting-a-startup",
+    "draft_file": "2025-08-28-starting-a-startup.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-startup/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "starting-a-startup.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-startup/starting-a-startup.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cf57bca2-14c7-44ce-b4bd-76db134f0e74_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "191": {
     "file_number": 191,
@@ -85,7 +232,14 @@
     "substack_url": "https://shayanarman.substack.com/p/purpose-and-direction",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-28T15:53:49.433Z",
+    "draft_slug": "purpose-and-direction",
+    "draft_file": "2025-08-28-purpose-and-direction.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "192": {
     "file_number": 192,
@@ -93,7 +247,14 @@
     "substack_url": "https://shayanarman.substack.com/p/sam-altman",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "Part 2 on Purpose",
+    "published_at": "2025-08-28T16:03:23.477Z",
+    "draft_slug": "sam-altman",
+    "draft_file": "2025-08-28-sam-altman.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "193": {
     "file_number": 193,
@@ -101,7 +262,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-blind",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-28T16:08:30.553Z",
+    "draft_slug": "the-blind",
+    "draft_file": "2025-08-28-the-blind.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "194": {
     "file_number": 194,
@@ -109,23 +277,64 @@
     "substack_url": "https://shayanarman.substack.com/p/me-on-a-walk",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-29T06:08:18.894Z",
+    "draft_slug": "me-on-a-walk",
+    "draft_file": "2025-08-29-me-on-a-walk.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "195": {
     "file_number": 195,
     "title": "On Motivation",
     "substack_url": "https://shayanarman.substack.com/p/on-motivation",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "A Conceptual, Theoretical understanding",
+    "published_at": "2025-08-29T16:22:18.757Z",
+    "draft_slug": "on-motivation",
+    "draft_file": "2025-08-29-on-motivation.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-motivation/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "on-motivation.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-motivation/on-motivation.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/589f41cb-bcb0-4c6c-bfb7-5e23f8ac1b90_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "196": {
     "file_number": 196,
     "title": "Slope Change Philosophy",
     "substack_url": "https://shayanarman.substack.com/p/slope-change-philosophy",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "The Dangers of Comfort",
+    "published_at": "2025-08-29T16:38:39.783Z",
+    "draft_slug": "slope-change-philosophy",
+    "draft_file": "2025-08-29-slope-change-philosophy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/slope-change-philosophy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "slope-change-philosophy.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/slope-change-philosophy/slope-change-philosophy.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1d2914c-a869-4534-a048-478cea37e007_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "197": {
     "file_number": 197,
@@ -133,7 +342,14 @@
     "substack_url": "https://shayanarman.substack.com/p/globalism",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Destruction of Culture",
+    "published_at": "2025-08-29T18:52:45.414Z",
+    "draft_slug": "globalism",
+    "draft_file": "2025-08-29-globalism.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "198": {
     "file_number": 198,
@@ -141,7 +357,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-third-voice",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-30T19:49:35.476Z",
+    "draft_slug": "the-third-voice",
+    "draft_file": "2025-08-30-the-third-voice.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "199": {
     "file_number": 199,
@@ -149,7 +372,14 @@
     "substack_url": "https://shayanarman.substack.com/p/nobody",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-31T01:51:09.671Z",
+    "draft_slug": "nobody",
+    "draft_file": "2025-08-31-nobody.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "200": {
     "file_number": 200,
@@ -157,6 +387,13 @@
     "substack_url": "https://shayanarman.substack.com/p/on-sleep-9b5",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-31T06:09:12.867Z",
+    "draft_slug": "on-sleep-9b5",
+    "draft_file": "2025-08-31-on-sleep-9b5.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

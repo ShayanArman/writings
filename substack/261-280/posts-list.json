@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-garbage-men-fca",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:19:00.154Z",
+    "draft_slug": "the-garbage-men-fca",
+    "draft_file": "2025-10-20-the-garbage-men-fca.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "262": {
     "file_number": 262,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-garbage-men-d06",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-20T07:19:16.120Z",
+    "draft_slug": "the-garbage-men-d06",
+    "draft_file": "2025-10-20-the-garbage-men-d06.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "263": {
     "file_number": 263,
@@ -21,7 +35,14 @@
     "substack_url": "https://shayanarman.substack.com/p/pain",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-23T09:41:50.683Z",
+    "draft_slug": "pain",
+    "draft_file": "2025-10-23-pain.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "264": {
     "file_number": 264,
@@ -29,7 +50,14 @@
     "substack_url": "https://shayanarman.substack.com/p/network-topology-pool-theory",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-24T07:41:15.551Z",
+    "draft_slug": "network-topology-pool-theory",
+    "draft_file": "2025-10-24-network-topology-pool-theory.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "265": {
     "file_number": 265,
@@ -37,7 +65,14 @@
     "substack_url": "https://shayanarman.substack.com/p/useless-knowledge",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and the value of knowing",
+    "published_at": "2025-10-24T21:45:20.651Z",
+    "draft_slug": "useless-knowledge",
+    "draft_file": "2025-10-24-useless-knowledge.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "266": {
     "file_number": 266,
@@ -45,7 +80,14 @@
     "substack_url": "https://shayanarman.substack.com/p/circular-economies",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "And what they produce...",
+    "published_at": "2025-10-25T22:44:56.403Z",
+    "draft_slug": "circular-economies",
+    "draft_file": "2025-10-25-circular-economies.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "267": {
     "file_number": 267,
@@ -53,7 +95,14 @@
     "substack_url": "https://shayanarman.substack.com/p/providence",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-10-29T05:23:57.147Z",
+    "draft_slug": "providence",
+    "draft_file": "2025-10-29-providence.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "268": {
     "file_number": 268,
@@ -61,15 +110,51 @@
     "substack_url": "https://shayanarman.substack.com/p/i-meditated-for-3-hours",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and this is what I learned",
+    "published_at": "2025-11-11T19:54:40.581Z",
+    "draft_slug": "i-meditated-for-3-hours",
+    "draft_file": "2025-11-11-i-meditated-for-3-hours.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/i-meditated-for-3-hours/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "stone-wall-ocean-coast.jpeg",
+        "width": 4000,
+        "height": 2992,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/i-meditated-for-3-hours/stone-wall-ocean-coast.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/376ddf00-4fea-4c03-b593-731c2d1d7b54_4000x2992.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "269": {
     "file_number": 269,
     "title": "On Lying",
     "substack_url": "https://shayanarman.substack.com/p/on-lying",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "and Incongruence in Forms",
+    "published_at": "2025-11-11T22:28:32.194Z",
+    "draft_slug": "on-lying",
+    "draft_file": "2025-11-11-on-lying.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-lying/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "three-friends-laughing.jpeg",
+        "width": 500,
+        "height": 376,
+        "usage": "thumbnail",
+        "caption": null,
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-lying/three-friends-laughing.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5398012b-812a-480d-b5f2-435709150c6d_500x376.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "270": {
     "file_number": 270,
@@ -77,7 +162,14 @@
     "substack_url": "https://shayanarman.substack.com/p/all-is-fire",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "said the Buddha, amongst other things",
+    "published_at": "2025-11-14T23:26:34.082Z",
+    "draft_slug": "all-is-fire",
+    "draft_file": "2025-11-14-all-is-fire.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "271": {
     "file_number": 271,
@@ -85,7 +177,14 @@
     "substack_url": "https://shayanarman.substack.com/p/how-i-laughed",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and things to never ever do",
+    "published_at": "2025-11-15T00:39:40.059Z",
+    "draft_slug": "how-i-laughed",
+    "draft_file": "2025-11-15-how-i-laughed.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "272": {
     "file_number": 272,
@@ -93,7 +192,14 @@
     "substack_url": "https://shayanarman.substack.com/p/its-easy-shy",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-15T20:38:41.749Z",
+    "draft_slug": "its-easy-shy",
+    "draft_file": "2025-11-15-its-easy-shy.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "273": {
     "file_number": 273,
@@ -101,7 +207,14 @@
     "substack_url": "https://shayanarman.substack.com/p/arbitrage",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "<one of my favourites><Nov 18th 2025 12:11pm><little Italian Bakery Pressato on Robson><i've eaten only bread for 2 days>",
+    "published_at": "2025-11-18T20:12:05.426Z",
+    "draft_slug": "arbitrage",
+    "draft_file": "2025-11-18-arbitrage.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "274": {
     "file_number": 274,
@@ -109,7 +222,14 @@
     "substack_url": "https://shayanarman.substack.com/p/kafka",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-19T23:06:39.625Z",
+    "draft_slug": "kafka",
+    "draft_file": "2025-11-19-kafka.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "275": {
     "file_number": 275,
@@ -117,7 +237,15 @@
     "substack_url": "https://shayanarman.substack.com/p/my-phone-call-with-the-cra",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "H as in Hell",
+    "published_at": "2025-11-19T23:54:05.311Z",
+    "draft_slug": "my-phone-call-with-the-cra",
+    "draft_file": "2025-11-19-my-phone-call-with-the-cra.mdx",
+    "video_href": "https://www.youtube.com/watch?v=rE3OoLdpF60",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "276": {
     "file_number": 276,
@@ -125,7 +253,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-weighing-man",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Hacker",
+    "published_at": "2025-11-20T06:43:13.641Z",
+    "draft_slug": "the-weighing-man",
+    "draft_file": "2025-11-20-the-weighing-man.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "277": {
     "file_number": 277,
@@ -133,7 +268,14 @@
     "substack_url": "https://shayanarman.substack.com/p/the-cra",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-20T06:54:51.800Z",
+    "draft_slug": "the-cra",
+    "draft_file": "2025-11-20-the-cra.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "278": {
     "file_number": 278,
@@ -141,7 +283,14 @@
     "substack_url": "https://shayanarman.substack.com/p/tojos-lesson",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-21T15:58:00.214Z",
+    "draft_slug": "tojos-lesson",
+    "draft_file": "2025-11-21-tojos-lesson.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "279": {
     "file_number": 279,
@@ -149,7 +298,25 @@
     "substack_url": "https://shayanarman.substack.com/p/aha-business",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-21T20:56:10.533Z",
+    "draft_slug": "aha-business",
+    "draft_file": "2025-11-21-aha-business.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/aha-business/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "business-ha-ha-meme.jpeg",
+        "width": 350,
+        "height": 471,
+        "usage": "thumbnail and body",
+        "caption": "caption the image",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/aha-business/business-ha-ha-meme.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/19e02cd6-c29b-42df-bbcd-919416eeccaa_350x471.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "280": {
     "file_number": 280,
@@ -157,6 +324,13 @@
     "substack_url": "https://shayanarman.substack.com/p/a-constant-diagnosis",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-11-22T10:37:42.517Z",
+    "draft_slug": "a-constant-diagnosis",
+    "draft_file": "2025-11-22-a-constant-diagnosis.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

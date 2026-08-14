@@ -5,7 +5,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-bad-company",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-08-31T07:03:40.441Z",
+    "draft_slug": "on-bad-company",
+    "draft_file": "2025-08-31-on-bad-company.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "202": {
     "file_number": 202,
@@ -13,7 +20,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-failure",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-02T04:36:24.871Z",
+    "draft_slug": "on-failure",
+    "draft_file": "2025-09-02-on-failure.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "203": {
     "file_number": 203,
@@ -21,7 +35,14 @@
     "substack_url": "https://shayanarman.substack.com/p/on-memories",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-02T04:38:48.848Z",
+    "draft_slug": "on-memories",
+    "draft_file": "2025-09-02-on-memories.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "204": {
     "file_number": 204,
@@ -29,7 +50,14 @@
     "substack_url": "https://shayanarman.substack.com/p/to-be",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-03T16:27:09.246Z",
+    "draft_slug": "to-be",
+    "draft_file": "2025-09-03-to-be.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "205": {
     "file_number": 205,
@@ -37,7 +65,14 @@
     "substack_url": "https://shayanarman.substack.com/p/sinner",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-04T09:18:31.399Z",
+    "draft_slug": "sinner",
+    "draft_file": "2025-09-04-sinner.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "206": {
     "file_number": 206,
@@ -45,7 +80,14 @@
     "substack_url": "https://shayanarman.substack.com/p/theory-of-expressionism",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-04T09:19:18.843Z",
+    "draft_slug": "theory-of-expressionism",
+    "draft_file": "2025-09-04-theory-of-expressionism.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "207": {
     "file_number": 207,
@@ -53,15 +95,39 @@
     "substack_url": "https://shayanarman.substack.com/p/heroes",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-04T16:22:06.569Z",
+    "draft_slug": "heroes",
+    "draft_file": "2025-09-04-heroes.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "208": {
     "file_number": 208,
     "title": "Modern Philosophy",
     "substack_url": "https://shayanarman.substack.com/p/modern-philosophy",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "The Good Know the Good",
+    "published_at": "2025-09-05T20:59:14.786Z",
+    "draft_slug": "modern-philosophy",
+    "draft_file": "2025-09-05-modern-philosophy.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/modern-philosophy/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "modern-philosophy.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/modern-philosophy/modern-philosophy.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/024cd12c-2a48-4da2-b686-6ec794d8741c_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "209": {
     "file_number": 209,
@@ -69,7 +135,14 @@
     "substack_url": "https://shayanarman.substack.com/p/programming",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-06T06:35:47.181Z",
+    "draft_slug": "programming",
+    "draft_file": "2025-09-06-programming.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "210": {
     "file_number": 210,
@@ -77,7 +150,14 @@
     "substack_url": "https://shayanarman.substack.com/p/iterations",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-06T08:11:40.618Z",
+    "draft_slug": "iterations",
+    "draft_file": "2025-09-06-iterations.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "211": {
     "file_number": 211,
@@ -85,7 +165,14 @@
     "substack_url": "https://shayanarman.substack.com/p/sides-taken",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-06T08:17:08.961Z",
+    "draft_slug": "sides-taken",
+    "draft_file": "2025-09-06-sides-taken.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "212": {
     "file_number": 212,
@@ -93,47 +180,139 @@
     "substack_url": "https://shayanarman.substack.com/p/layering-knowledge",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-06T16:12:57.886Z",
+    "draft_slug": "layering-knowledge",
+    "draft_file": "2025-09-06-layering-knowledge.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "213": {
     "file_number": 213,
     "title": "On Becoming Exceptional",
     "substack_url": "https://shayanarman.substack.com/p/on-becoming-exceptional",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "and the Fears therein",
+    "published_at": "2025-09-07T01:14:53.978Z",
+    "draft_slug": "on-becoming-exceptional",
+    "draft_file": "2025-09-07-on-becoming-exceptional.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-becoming-exceptional/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "on-becoming-exceptional.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-becoming-exceptional/on-becoming-exceptional.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8859ad0f-449a-4944-a549-8ad6ac5d2fd2_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "214": {
     "file_number": 214,
     "title": "Through Him;",
     "substack_url": "https://shayanarman.substack.com/p/through-him",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "I will Live Again",
+    "published_at": "2025-09-07T03:09:02.421Z",
+    "draft_slug": "through-him",
+    "draft_file": "2025-09-07-through-him.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/through-him/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-death-of-socrates.jpeg",
+        "width": 3896,
+        "height": 2559,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/through-him/the-death-of-socrates.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/797cddd8-1b40-4581-ab7a-ec4cf89fcb35_3896x2559.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "215": {
     "file_number": 215,
     "title": "The Mind and Reality",
     "substack_url": "https://shayanarman.substack.com/p/the-mind-and-reality",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "And Danish Girls in Byron Bay",
+    "published_at": "2025-09-08T17:07:41.348Z",
+    "draft_slug": "the-mind-and-reality",
+    "draft_file": "2025-09-08-the-mind-and-reality.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-reality/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-death-of-socrates.jpeg",
+        "width": 3896,
+        "height": 2559,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-reality/the-death-of-socrates.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e8a2f968-21a5-47f7-b0ca-d5c5afc0ec52_3896x2559.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "216": {
     "file_number": 216,
     "title": "The Shame of Exceptionalism",
     "substack_url": "https://shayanarman.substack.com/p/the-shame-of-exceptionalism",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-10T19:36:20.793Z",
+    "draft_slug": "the-shame-of-exceptionalism",
+    "draft_file": "2025-09-10-the-shame-of-exceptionalism.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shame-of-exceptionalism/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-shame-of-exceptionalism.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shame-of-exceptionalism/the-shame-of-exceptionalism.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6bace80-c510-4613-b1b0-36c3df44cf27_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "217": {
     "file_number": 217,
     "title": "My Daughter did what?",
     "substack_url": "https://shayanarman.substack.com/p/my-daughter-did-what",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": "Don't let her in.",
+    "published_at": "2025-09-11T15:07:56.023Z",
+    "draft_slug": "my-daughter-did-what",
+    "draft_file": "2025-09-11-my-daughter-did-what.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-daughter-did-what/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "my-daughter-did-what.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-daughter-did-what/my-daughter-did-what.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8c0f622f-8a72-4b7a-abe8-b826d657649e_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "218": {
     "file_number": 218,
@@ -141,22 +320,63 @@
     "substack_url": "https://shayanarman.substack.com/p/trying-your-best",
     "images_added_locally": null,
     "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-12T04:48:55.199Z",
+    "draft_slug": "trying-your-best",
+    "draft_file": "2025-09-12-trying-your-best.mdx",
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   },
   "219": {
     "file_number": 219,
     "title": "Mykonos 2026",
     "substack_url": "https://shayanarman.substack.com/p/mykonos-2026",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-14T19:09:09.142Z",
+    "draft_slug": "mykonos-2026",
+    "draft_file": "2025-09-14-mykonos-2026.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos-2026/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "mykonos-2026.png",
+        "width": 2000,
+        "height": 2000,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos-2026/mykonos-2026.png",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/45c56878-583b-4ffd-a855-bc2a42be5cd5_2000x2000.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   },
   "220": {
     "file_number": 220,
     "title": "On Loan",
     "substack_url": "https://shayanarman.substack.com/p/on-loan",
-    "images_added_locally": null,
-    "images_linked_in_post": null,
-    "last_verified": "2026-06-12"
+    "images_added_locally": false,
+    "images_linked_in_post": false,
+    "last_verified": "2026-08-12",
+    "subtitle": null,
+    "published_at": "2025-09-15T20:21:24.478Z",
+    "draft_slug": "on-loan",
+    "draft_file": "2025-09-15-on-loan.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-loan/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "on-loan.jpeg",
+        "width": 275,
+        "height": 184,
+        "usage": "thumbnail",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-loan/on-loan.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/abc6bc1d-aeec-4589-94f1-22f8be207695_275x184.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

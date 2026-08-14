@@ -84,7 +84,7 @@
     "substack_url": "https://shayanarman.substack.com/p/at-the-pool",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-08-12",
+    "last_verified": "2026-08-14",
     "subtitle": "They call me the Don…",
     "published_at": "2026-05-22T05:44:46.668Z",
     "draft_slug": "at-the-pool",
@@ -108,7 +108,7 @@
         "caption": "The Don",
         "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/group-mirror-selfie.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/522ee8d4-fdc1-4cc0-b442-8709d60d9258_4032x3024.jpeg",
-        "processing": "Original JPEG bytes preserved. Encoded raster is 4032x3024 with EXIF orientation; displayed native dimensions are 3024x4032."
+        "processing": "Original JPEG bytes preserved. Encoded raster is 4032x3024 with EXIF orientation 6; displayed native dimensions are 3024x4032."
       }
     ],
     "images_uploaded_to_s3": true

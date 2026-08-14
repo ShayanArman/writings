@@ -420,7 +420,7 @@
     "substack_url": "https://shayanarman.substack.com/p/on-miracles",
     "images_added_locally": false,
     "images_linked_in_post": true,
-    "last_verified": "2026-08-11",
+    "last_verified": "2026-08-14",
     "subtitle": null,
     "published_at": "2025-08-08T11:00:24.501Z",
     "draft_slug": "on-miracles",
@@ -432,9 +432,9 @@
         "filename": "hallgrimskirkja-and-leif-erikson-statue.jpeg",
         "width": 4284,
         "height": 5712,
-        "caption": "caption the image",
         "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
-        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9cf39d2-7df5-441a-aed9-489b7d408d2f_5712x4284.jpeg"
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9cf39d2-7df5-441a-aed9-489b7d408d2f_5712x4284.jpeg",
+        "processing": "Original JPEG bytes preserved. Encoded raster is 5712x4284 with EXIF orientation 6; displayed native dimensions are 4284x5712."
       }
     ],
     "images_uploaded_to_s3": true

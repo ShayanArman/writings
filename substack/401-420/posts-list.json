@@ -173,5 +173,25 @@
     "image_s3_prefix": null,
     "images": [],
     "images_uploaded_to_s3": null
+  },
+  "409": {
+    "file_number": 409,
+    "title": "The Dawn of AGI",
+    "substack_url": "https://shayanarman.substack.com/p/the-dawn-of-agi",
+    "images_added_locally": null,
+    "images_linked_in_post": null,
+    "last_verified": "2026-08-22",
+    "subtitle": "Acceptance of AGI in Academia",
+    "published_at": "2026-08-23T05:09:10.753Z",
+    "draft_slug": "the-dawn-of-agi",
+    "draft_file": "2026-08-23-the-dawn-of-agi.mdx",
+    "hashtags": [
+      "#ai",
+      "#seo",
+      "#aiseo"
+    ],
+    "image_s3_prefix": null,
+    "images": [],
+    "images_uploaded_to_s3": null
   }
 }

@@ -193,5 +193,100 @@
     "image_s3_prefix": null,
     "images": [],
     "images_uploaded_to_s3": null
+  },
+  "410": {
+    "file_number": 410,
+    "title": "Eventual Understanding",
+    "substack_url": "https://shayanarman.substack.com/p/eventual-understanding",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-08-25",
+    "subtitle": "In Multi Agent - Multi Step Workflows",
+    "published_at": "2026-08-24T22:24:54.088Z",
+    "draft_slug": "eventual-understanding",
+    "draft_file": "2026-08-24-eventual-understanding.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/eventual-understanding/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "multi-agent-multi-step-workflows.webp",
+        "width": 840,
+        "height": 840,
+        "byte_size": 15684,
+        "content_type": "image/webp",
+        "md5": "57ca447dbd9b6bc395b9c530e15c625d",
+        "usage": "thumbnail and body",
+        "caption": "Multi Agent - Multi Step Workflows",
+        "processing": "Preserved the original 840x840 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/eventual-understanding/multi-agent-multi-step-workflows.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/03594afa-d8ad-4fde-98aa-8f5e1d385401_840x840.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
+  },
+  "411": {
+    "file_number": 411,
+    "title": "Token Maxxing",
+    "substack_url": "https://shayanarman.substack.com/p/token-maxxing",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-08-25",
+    "subtitle": "The Discovery Ceiling",
+    "published_at": "2026-08-25T22:33:38.480Z",
+    "draft_slug": "token-maxxing",
+    "draft_file": "2026-08-25-token-maxxing.mdx",
+    "hashtags": [
+      "#ai",
+      "#seo",
+      "#aiseo"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/token-maxxing/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "token-maxxing-discovery-ceiling.webp",
+        "width": 2160,
+        "height": 2160,
+        "byte_size": 45608,
+        "content_type": "image/webp",
+        "md5": "5273f8d72dc6a8669ce80bac221085df",
+        "usage": "thumbnail and body",
+        "caption": "Discovery ceiling occurs when our ability to solve problems outstrips our ability to come up with new ones to solve…",
+        "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/token-maxxing/token-maxxing-discovery-ceiling.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2663d4c7-abed-43d8-84c9-2a02a1dcd342_2160x2160.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
+  },
+  "412": {
+    "file_number": 412,
+    "title": "On Mental Health",
+    "substack_url": "https://shayanarman.substack.com/p/on-mental-health",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-08-25",
+    "subtitle": "Words are powerful",
+    "published_at": "2026-08-25T23:11:00.569Z",
+    "draft_slug": "mental-health-ontology",
+    "draft_file": "2026-08-25-mental-health-ontology.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mental-health-ontology/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "mental-health-ontology.webp",
+        "width": 2048,
+        "height": 2048,
+        "byte_size": 570646,
+        "content_type": "image/webp",
+        "md5": "6190eb7d8c30fedc46b0e3fe3d0ab521",
+        "usage": "thumbnail and body",
+        "caption": "My years of research, can be boiled down to a few lines. Like Picasso, working ever more to draw like a child…",
+        "processing": "Preserved the original 2048x2048 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mental-health-ontology/mental-health-ontology.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/87284f64-c4b3-475b-81b2-b5bf7c67450d_2048x2048.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

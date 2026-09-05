@@ -202,11 +202,11 @@
   "401-420": {
     "posts_list": "401-420/posts-list.json",
     "status": "complete",
-    "imported_count": 9,
+    "imported_count": 12,
     "remaining": [],
     "publication_status": "published",
-    "published_mdx_count": 9,
-    "published_image_count": 2,
-    "last_updated": "2026-08-22"
+    "published_mdx_count": 12,
+    "published_image_count": 5,
+    "last_updated": "2026-08-25"
   }
 }

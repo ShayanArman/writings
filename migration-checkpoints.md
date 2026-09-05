@@ -30,11 +30,11 @@ s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Migration Complete Through Post 409
+## Migration Complete Through Post 412
 
-Shayan explicitly authorized direct publication of post 409 after the prior
-active batch through post 408 was complete, to the authorized Shayan Arman S3
-prefix. Post 409 is now complete.
+Shayan explicitly authorized direct publication of post 412 after the prior
+migration through post 411 was complete, to the authorized Shayan Arman S3
+prefix. Post 412 is now complete.
 
 Before beginning work, the next agent must read `agent.md`,
 `agent-instructions.md`, and this file completely, then confirm this exact
@@ -43,10 +43,10 @@ durable state:
 - post 304, “The Startup Algorithm,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 409 and `Next post` is none;
-- post 409 is fully published and `/private/tmp/shayan-post-409/` does not
+- `Last completed post` is 412 and `Next post` is none;
+- post 412 is fully published and `/private/tmp/shayan-post-412/` does not
   exist;
-- the authorized follow-up publication through post 409 is complete.
+- the authorized follow-up publication through post 412 is complete.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
 copies in `site/draft-post/` or `site/live-posts/`. Temporary post files belong
@@ -307,11 +307,11 @@ steps before advancing.
 
 ## Active Batch
 
-- Target: post 409 (follow-up to the completed migration through post 408)
+- Target: post 412 (user-authorized follow-up to the completed migration through post 411)
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 409
+- Last completed post: 412
 - Next post: none
-- Last updated: 2026-08-22
+- Last updated: 2026-08-25
 
 ## Completed Checkpoints
 
@@ -650,6 +650,9 @@ steps before advancing.
 | 407 | Arnold on the Value of Hard Work | `sites/shayan-arman-blog/posts/writings/2026-08-10-arnold-on-the-value-of-hard-work.mdx` | 0 | 2026-08-13 |
 | 408 | A New Mind | `sites/shayan-arman-blog/posts/writings/2026-08-11-a-new-mind.mdx` | 0 | 2026-08-13 |
 | 409 | The Dawn of AGI | `sites/shayan-arman-blog/posts/writings/2026-08-23-the-dawn-of-agi.mdx` | 0 | 2026-08-22 |
+| 410 | Eventual Understanding | `sites/shayan-arman-blog/posts/writings/2026-08-24-eventual-understanding.mdx` | 1 | 2026-08-25 |
+| 411 | Token Maxxing | `sites/shayan-arman-blog/posts/writings/2026-08-25-token-maxxing.mdx` | 1 | 2026-08-25 |
+| 412 | On Mental Health | `sites/shayan-arman-blog/posts/writings/2026-08-25-mental-health-ontology.mdx` | 1 | 2026-08-25 |
 
 ## Resume Rule
 
@@ -680,4 +683,4 @@ the top of this file.
 - Posts 341–360: done
 - Posts 361–380: done
 - Posts 381–400: done
-- Posts 401–409: done
+- Posts 401–412: done

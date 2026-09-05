@@ -6,7 +6,52 @@ full-resolution images have been validated, uploaded to their exact Shayan
 Arman S3 keys, checksum-verified, reflected in the writings ledgers, and removed
 from temporary storage.
 
+## Current Follow-Up: Never Enough Intelligence
+
+Source: https://shayanarman.substack.com/p/never-enough-intelligence
+
+Shayan requested this one post as a local draft, subsequently authorized its
+image and MDX uploads, then rejected an assistant-written excerpt. The excerpt
+was corrected in both the local draft and the exact S3 article object to:
+
+> Once you realize what you can do. It’s never enough. We will ALWAYS be limited by Compute and Inference.
+
+Shayan reviewed the exact local migration and explicitly approved upload with
+"okay upload now". The approved draft is now uploaded to the existing article
+key and checksum-verified. The original image was reverified and left unchanged.
+No further revision or S3 write is pending. Reconcile the exact existing keys
+before any future authorized update and use a conditional write.
+
+- Local review file: `../shayan-arman-blog/site/draft-post/2026-09-05-never-enough-intelligence.mdx`
+- Preview: `/drafts/never-enough-intelligence`
+- Exact publication timestamp: `2026-09-05T06:02:02.808Z`
+- Subtitle: `Oh how I’ve changed in just a few short months!`
+- MDX key: `sites/shayan-arman-blog/posts/writings/2026-09-05-never-enough-intelligence.mdx`
+- Last verified S3 MDX: 2,420 bytes, MD5 `d25e450bab5cea406ee935ac0c96602d`.
+- The approved local draft and S3 article both use the exact source phrases
+  `tokens` and `Compute and Inference` in place of the generated keyword phrases.
+- Image key: `sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/never-enough-intelligence.webp`
+- Original image: `https://substack-post-media.s3.amazonaws.com/public/images/fc9b1a16-28af-4de1-ba6b-1eb7afd099aa_2160x2160.png`
+- Verified image: original WebP bytes, 2160 × 2160, 162,058 bytes,
+  `image/webp`, MD5 `e21ccd08bb20b5876a0308eb5da62e46`. Only the misleading
+  filename extension was corrected. One body image, also used as the thumbnail;
+  no source caption, and none added.
+
+The body was compared word for word with the canonical API source; the excerpt
+was separately checked as verbatim source text. MDX compilation and site
+validation passed. No other posts or S3 objects were changed. The requested
+local draft is retained. No archive number or range-ledger entry was created
+for this follow-up; the numbered archive checkpoint below remains through 413.
+Do not advance it or modify unrelated entries as part of this review.
+
+Operational rules, including the prohibition on invented excerpts, live in
+`agent-instructions.md`. The reusable starter request is `Prompt.md`.
+
 ## Explanation of what to do for each post migration
+
+This section describes explicitly authorized direct-publication batches.
+For a local draft request, follow the review and sign-off workflow in
+`agent-instructions.md`; current user authorization takes precedence.
 
 Migrate exactly one numbered post at a time. Never begin the next post until
 the current post's source copy, metadata, images, MDX, S3 objects, writings
@@ -30,11 +75,11 @@ s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Migration Complete Through Post 412
+## Migration Complete Through Post 413
 
-Shayan explicitly authorized direct publication of post 412 after the prior
-migration through post 411 was complete, to the authorized Shayan Arman S3
-prefix. Post 412 is now complete.
+Shayan explicitly approved and authorized publication of post 413 after the
+prior migration through post 412 was complete, to the authorized Shayan Arman
+S3 prefix. Post 413 is now complete.
 
 Before beginning work, the next agent must read `agent.md`,
 `agent-instructions.md`, and this file completely, then confirm this exact
@@ -43,10 +88,10 @@ durable state:
 - post 304, “The Startup Algorithm,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 412 and `Next post` is none;
-- post 412 is fully published and `/private/tmp/shayan-post-412/` does not
+- `Last completed post` is 413 and `Next post` is none;
+- post 413 is fully published and `/private/tmp/shayan-post-413/` does not
   exist;
-- the authorized follow-up publication through post 412 is complete.
+- the authorized follow-up publication through post 413 is complete.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
 copies in `site/draft-post/` or `site/live-posts/`. Temporary post files belong
@@ -212,7 +257,8 @@ For every new post, use this exact procedure:
    `apply_patch`.
 2. Use the finalized frontmatter pattern: title, optional original subtitle,
    date, `Writings` category and collection, author, source URL, descriptive
-   keywords, only literal normalized source hashtags, excerpt, changefreq, and
+   source keyword phrases, only literal normalized source hashtags, a verbatim
+   contiguous source excerpt when needed, changefreq, and
    priority. Add thumbnail, imageAlt, and imageFallbackText only when images
    exist. Use the first suitable source image or Substack's selected cover.
 3. Remove only the source metadata title and subtitle headings from the body.
@@ -239,7 +285,9 @@ For every new post, use this exact procedure:
    then compares the remaining visible body lines with the archived source.
 7. Validate metadata, literal hashtags, source links, image count and order,
    source captions, image dimensions, thumbnail selection, absence of
-   placeholders, and footer order.
+   placeholders, and footer order. Check the excerpt separately against the
+   source; it must be an exact contiguous passage. Never generate a summary
+   for frontmatter. Check keyword phrases against the source as well.
 8. Compile the file with `@mdx-js/mdx`, then run `yarn validate-site` from the
    Shayan Arman site. Confirm that no post-specific file exists in
    `site/live-posts/`.
@@ -307,11 +355,11 @@ steps before advancing.
 
 ## Active Batch
 
-- Target: post 412 (user-authorized follow-up to the completed migration through post 411)
+- Target: post 413 (user-approved follow-up to the completed migration through post 412)
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 412
+- Last completed post: 413
 - Next post: none
-- Last updated: 2026-08-25
+- Last updated: 2026-09-04
 
 ## Completed Checkpoints
 
@@ -653,6 +701,7 @@ steps before advancing.
 | 410 | Eventual Understanding | `sites/shayan-arman-blog/posts/writings/2026-08-24-eventual-understanding.mdx` | 1 | 2026-08-25 |
 | 411 | Token Maxxing | `sites/shayan-arman-blog/posts/writings/2026-08-25-token-maxxing.mdx` | 1 | 2026-08-25 |
 | 412 | On Mental Health | `sites/shayan-arman-blog/posts/writings/2026-08-25-mental-health-ontology.mdx` | 1 | 2026-08-25 |
+| 413 | The Value of Things | `sites/shayan-arman-blog/posts/writings/2026-09-05-the-value-of-things.mdx` | 1 | 2026-09-04 |
 
 ## Resume Rule
 
@@ -683,4 +732,4 @@ the top of this file.
 - Posts 341–360: done
 - Posts 361–380: done
 - Posts 381–400: done
-- Posts 401–412: done
+- Posts 401–413: done

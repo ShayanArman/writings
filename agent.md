@@ -2,6 +2,20 @@
 
 This repo stores Shayan's Substack posts as plain Markdown files under numbered folders in `substack/`.
 
+## Read Before Any Migration
+
+Read `agent-instructions.md` and the current authorization in
+`migration-checkpoints.md` before importing or drafting. Follow
+[Exact Migration And Current Authorization](agent-instructions.md#exact-migration-and-current-authorization):
+word for word, image for image, including verbatim-only excerpts. Never invent
+article copy in metadata. Use [Prompt.md](Prompt.md) for a new migration request.
+
+The current user request controls scope and approval. A single site-draft
+request does not resume an old publication batch or authorize changes to other
+posts. Prepare and validate the local draft, wait for sign-off, then upload the
+approved post when authorized. Previously approved image uploads remain valid;
+later instructions to wait govern further S3 writes.
+
 ## What To Ask The User For
 
 For each post import, ask for:
@@ -239,6 +253,10 @@ Post 64 (`substack/61-80/64/People don't appreciate this enough.md`) is the patt
 
 When Shayan asks to turn numbered archive posts into site drafts, use this workflow:
 
+The same review workflow applies to a new Substack URL without an archive entry:
+use the canonical API body as the exact source, and keep archive work within the
+user's authorized scope. An archive number is not required for a local draft.
+
 1. Read the title, canonical URL, and existing image status from the range's `posts-list.json`.
 2. Fetch the original Substack metadata and use its exact publication timestamp. Put the `YYYY-MM-DD` portion in both the MDX filename and frontmatter `date`.
 3. Create a simple lowercase kebab-case slug from the real Substack title.
@@ -279,6 +297,11 @@ Whenever original metadata or publishing preparation information is discovered, 
 - `images_uploaded_to_s3`: `true` only after all images used by that post were successfully uploaded; otherwise `false` or `null` when the post has no images.
 
 Validate every generated MDX file before reporting completion. Draft review happens at `/drafts/<slug>` while the local development server is running.
+
+Validate the body and frontmatter separately: every excerpt must be a verbatim
+contiguous source passage, and keyword phrases must occur in the source. Preserve
+all original images, native dimensions, positions, and captions. Compilation alone
+does not verify faithful migration. Do not run `yarn build` or `yarn dev`.
 
 ## How To Run It
 

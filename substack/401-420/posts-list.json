@@ -288,5 +288,43 @@
       }
     ],
     "images_uploaded_to_s3": true
+  },
+  "413": {
+    "file_number": 413,
+    "title": "The Value of Things",
+    "substack_url": "https://shayanarman.substack.com/p/the-value-of-things",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-09-04",
+    "subtitle": null,
+    "published_at": "2026-09-05T00:16:17.401Z",
+    "draft_slug": "the-value-of-things",
+    "draft_file": "2026-09-05-the-value-of-things.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-value-of-things/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "yellow-blue-gradient.webp",
+        "width": 2160,
+        "height": 2160,
+        "byte_size": 110138,
+        "content_type": "image/webp",
+        "md5": "55ddea580aef58fcc96f2f84e78ef200",
+        "usage": "thumbnail and body",
+        "caption": null,
+        "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-value-of-things/yellow-blue-gradient.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/53255197-bc1e-4e58-8472-e13c11669fa3_2160x2160.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

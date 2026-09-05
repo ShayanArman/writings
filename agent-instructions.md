@@ -15,6 +15,41 @@ preserving original metadata, wording, links, hashtags, image order, captions,
 and full-quality media. Follow the active authorization and `Next post` value
 in `migration-checkpoints.md`.
 
+## Exact Migration And Current Authorization
+
+Shayan's requirement: "migrate the substack post word for word image for image."
+This applies to drafts, published MDX, and frontmatter displayed as article copy.
+
+- Read this file, `agent.md`, and the checkpoint's current authorization before
+  starting. A migration request authorizes faithful conversion, not rewriting.
+- Preserve the title, subtitle, body, punctuation, capitalization, typos,
+  paragraphs, link text and targets, hashtags, image order, and real captions.
+- Never write a new summary, excerpt, description, introduction, conclusion,
+  or caption and attribute it to Shayan. SEO fields are not an exception.
+- If `excerpt` is needed, copy a contiguous passage from the source exactly.
+  Do not paraphrase, combine separate passages, add ellipses, or alter its case.
+  Omit an optional excerpt when no suitable source passage is available.
+- Use source words or phrases for keywords. Preserve source alt text when
+  present; when absent, a factual visual description is accessibility metadata,
+  not a caption or additional article copy. Keep the standard footer below.
+- Preserve each browser-compatible original image's bytes and native dimensions.
+  Filename normalization and necessary MDX escaping must not change the rendered
+  source content. Never replace an original with a generated or CDN-resized image.
+- Work on only the requested post in `shayan-arman-blog`, its own assets, and
+  authorized writings records. Do not edit other posts, drafts, live posts,
+  unrelated files, or other S3 objects. Read-only uniqueness checks remain
+  scoped to the documented Shayan Arman prefixes.
+- For a draft request, create the local `site/draft-post/` review copy first.
+  Finish validation and present it for Shayan's sign-off before publishing MDX.
+  Use local draft images unless image upload is already authorized; reuse
+  verified current-post S3 images when available.
+- Once Shayan approves upload, publish only that approved post and its assets
+  to the exact keys below. A later instruction to wait for sign-off governs
+  further uploads even when an earlier version already exists in S3.
+- The temporary-only direct-publication rules apply to an explicitly authorized
+  batch. A completed historical batch is not authorization to publish a new post.
+  Keep an explicitly requested review draft; do not delete it as temporary cleanup.
+
 ## Canonical Paths
 
 Archive and range ledgers:
@@ -88,6 +123,10 @@ canonical metadata when needed from:
 ```text
 https://shayanarman.substack.com/api/v1/posts/<substack-slug>
 ```
+
+For a new URL with no archived post, use the canonical API body as the exact
+copy source. Do not require archive creation to prepare a requested site draft,
+or assign an archive number when archive work is outside the authorized scope.
 
 Use the API's:
 
@@ -166,10 +205,10 @@ collection: "Writings"
 author: "Shayan Arman"
 source-url: "https://shayanarman.substack.com/p/example-slug"
 keywords:
-  - "descriptive keyword"
+  - "Exact source word or phrase"
 hashtags:
   - "#literal-source-hashtag"
-excerpt: "A concise summary of the article."
+excerpt: "Exact contiguous passage copied from the source."
 changefreq: "monthly"
 priority: "0.8"
 thumbnail: "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>"
@@ -191,7 +230,7 @@ thumbnail without duplicating it in the body.
   explicit Markdown links without changing their displayed text.
 - Extract only literal source hashtags into a quoted, lowercase, deduplicated
   frontmatter list. Keep the original hashtag lines in the body.
-- Do not invent hashtags, links, captions, or body copy.
+- Do not invent hashtags, links, captions, body copy, or frontmatter prose.
 
 ## Footer Contract
 
@@ -269,6 +308,11 @@ date after each post. Record completion and the next post in
 Before upload:
 
 - compare visible MDX body copy against the archived source exactly;
+- use the canonical API body for a new post without an archive;
+- separately verify that `excerpt` is an exact contiguous source passage and
+  keywords are source words or phrases; stripping frontmatter for the body
+  comparison does not validate frontmatter. A failed source-copy comparison
+  blocks sign-off readiness and upload, even when MDX compilation passes;
 - confirm title, subtitle, date, source URL, hashtags, links, image order,
   native dimensions, captions, thumbnail, and footer;
 - confirm no placeholders or raw Markdown images remain;

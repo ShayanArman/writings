@@ -55,8 +55,8 @@ post's content is correct.
 - Never run `yarn build` or `yarn dev`.
 - Never create or update a file in `site/live-posts/` or `site/draft-post/`.
 - Temporary audit files belong only in
-  `/private/tmp/shayan-post-audit-<number>/` and must be removed after the
-  checkpoint is recorded.
+  `../shayan-arman-blog/.tmp-shayan-post-audit-<number>/` and must be removed
+  after the checkpoint is recorded.
 - Preserve unrelated user changes. Never stage, commit, revert, or clean them.
 - S3 access is limited to the exact Shayan Arman site prefix:
 
@@ -266,7 +266,7 @@ sites/shayan-arman-blog/posts/writings/
 1. Read this file, `migration-checkpoints.md`, the post's range ledger, and the
    entire archived Markdown file.
 2. Confirm the post number equals the ledger key and `file_number`.
-3. Create `/private/tmp/shayan-post-audit-<number>/`.
+3. Create `../shayan-arman-blog/.tmp-shayan-post-audit-<number>/`.
 4. Fetch the current Substack API response into `source.json` using the exact
    ledger URL slug. Record its HTTP status, retrieval time, and SHA-256.
 5. Resolve the exact local live MDX at

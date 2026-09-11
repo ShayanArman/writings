@@ -402,5 +402,72 @@
       }
     ],
     "images_uploaded_to_s3": true
+  },
+  "416": {
+    "file_number": 416,
+    "title": "Celebrations",
+    "substack_url": "https://shayanarman.substack.com/p/celebrations",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-09-11",
+    "subtitle": "Veni Vidi Vici",
+    "published_at": "2026-09-08T05:03:12.234Z",
+    "draft_slug": "celebrations",
+    "draft_file": "2026-09-08-celebrations.mdx",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/celebrations/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "celebration-cake.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "byte_size": 2791774,
+        "content_type": "image/jpeg",
+        "md5": "634a5c8be5074daca2b78f2abdd8988e",
+        "usage": "thumbnail and body",
+        "caption": null,
+        "processing": "Preserved the original JPEG bytes and native resolution; the 4032x3024 stored pixels render at 3024x4032 using the source EXIF orientation.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/celebrations/celebration-cake.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a98fcbb0-aa92-42ca-bdce-72fe5d7e92c0_4032x3024.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
+  },
+  "417": {
+    "file_number": 417,
+    "title": "Singing",
+    "substack_url": "https://shayanarman.substack.com/p/singing",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-09-11",
+    "subtitle": "To Abu a God that Listens",
+    "published_at": "2026-09-11T02:56:30.982Z",
+    "draft_slug": "singing",
+    "draft_file": "2026-09-11-singing.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#email"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/singing/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "partying-in-victoria.jpeg",
+        "width": 4896,
+        "height": 3672,
+        "byte_size": 2474965,
+        "content_type": "image/jpeg",
+        "md5": "978c3a64bea7d56972f977cad30b2342",
+        "usage": "thumbnail and body",
+        "caption": "Partying in Victoria",
+        "processing": "Preserved the original JPEG bytes and native resolution; the 3672x4896 stored pixels render at 4896x3672 using the source EXIF orientation.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/singing/partying-in-victoria.jpeg",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0b218ae2-8619-4901-b500-255f046cf433_3672x4896.jpeg"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

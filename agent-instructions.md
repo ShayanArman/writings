@@ -72,11 +72,14 @@ Site application:
 /Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/
 ```
 
-For the active direct-publication batch, create temporary files only under:
+For migration work, create temporary files only under the site repository:
 
 ```text
-/private/tmp/shayan-post-<number>/
+/Users/shayanarman/projects/seogangster/sites/shayan-arman/shayan-arman-blog/.tmp-shayan-post-<number>/
 ```
+
+Delete that exact temporary directory after the draft or reconciliation work
+is complete. Do not use `/private/tmp` for this workflow.
 
 Do not add active-batch MDX to `site/live-posts/` or `site/draft-post/`. Do not
 place Shayan Arman files in the Zero Inbox site.

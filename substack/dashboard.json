@@ -201,15 +201,12 @@
   },
   "401-420": {
     "posts_list": "401-420/posts-list.json",
-    "status": "in_progress",
-    "imported_count": 15,
-    "remaining": [
-      "Migrate post 416, Celebrations.",
-      "Migrate post 417, Singing."
-    ],
-    "publication_status": "in_progress",
-    "published_mdx_count": 15,
-    "published_image_count": 8,
-    "last_updated": "2026-09-10"
+    "status": "complete",
+    "imported_count": 17,
+    "remaining": [],
+    "publication_status": "published",
+    "published_mdx_count": 17,
+    "published_image_count": 10,
+    "last_updated": "2026-09-11"
   }
 }

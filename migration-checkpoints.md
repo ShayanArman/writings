@@ -77,7 +77,8 @@ the current post's source copy, metadata, images, MDX, S3 objects, writings
 ledgers, temporary-file cleanup, and checkpoint update are all complete. Do not
 perform parallel post work.
 
-The publishable MDX must be created only in `/private/tmp/shayan-post-<number>/`.
+The publishable MDX must be created only in
+`../shayan-arman-blog/.tmp-shayan-post-<number>/`.
 Do not add it to the Shayan Arman site's `site/live-posts/` directory. Upload
 the finished MDX directly to:
 
@@ -97,13 +98,13 @@ recorded image key. A direct-under-`posts/` reference is stale and incorrect.
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Migration Complete Through Post 415
+## Migration Complete Through Post 417
 
-Shayan clarified that “Never Enough Intelligence” directly follows post 413,
-“The Value of Things,” and that “The Shayan Arman Singularity” is already live
-after it. The downloaded live collection and every numbered range ledger were
-compared: all 415 live writings now have exactly one numbered ledger entry, and
-the numbered migration is complete through post 415.
+The numbered migration is complete through post 417. Shayan uploaded the
+approved local drafts for post 416, “Celebrations,” and post 417, “Singing.”
+Both exact S3 MDX objects are byte-identical to their retained local drafts,
+and both original images passed exact S3 size, MIME-type, and checksum
+verification under the `public/images/posts/writings/<slug>/` hierarchy.
 
 Before beginning work, the next agent must read `agent.md`,
 `agent-instructions.md`, and this file completely, then confirm this exact
@@ -112,18 +113,19 @@ durable state:
 - post 304, “The Startup Algorithm,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 415 and `Next post` is 416, “Celebrations”;
-- post 415 is fully published and `/private/tmp/shayan-post-415/` does not
-  exist;
-- the numbered live-site reconciliation through post 415 is complete;
-- Substack shows post 416, “Celebrations,” followed by post 417, “Singing.”
-  Neither appears in the downloaded live writings collection. Do not migrate
-  either without current user authorization.
+- `Last completed post` is 417 and the next numbered post is not yet identified
+  or authorized;
+- posts 416 and 417 are fully published, checksum-verified, and recorded in the
+  401–420 ledger and dashboard;
+- no post-specific reconciliation directory remains for either post;
+- do not begin post 418 without current user authorization and its canonical
+  Substack URL.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
 copies in `site/draft-post/` or `site/live-posts/`. Temporary post files belong
-only in `/private/tmp/shayan-post-<number>/`. Run `yarn validate-site` for each
-post; never run `yarn build` or `yarn dev` for this migration.
+only in `../shayan-arman-blog/.tmp-shayan-post-<number>/` and must be deleted
+afterward. Run `yarn validate-site` for each post; never run `yarn build` or
+`yarn dev` for this migration.
 
 The global route-slug and image-folder uniqueness preflight is mandatory twice
 for every post: once before creating its MDX and again immediately before its
@@ -218,8 +220,8 @@ For every new post, use this exact procedure:
 4. Read the post's current ledger entry. Record the title, canonical Substack
    URL, placeholder image positions, literal hashtags, visible URLs, and any
    source subtitle.
-5. Create exactly one temporary directory:
-   `/private/tmp/shayan-post-<number>`.
+5. Create exactly one temporary directory inside the site repository:
+   `../shayan-arman-blog/.tmp-shayan-post-<number>`.
 6. Fetch canonical metadata from
    `https://shayanarman.substack.com/api/v1/posts/<substack-slug>` into
    `source.json` inside that temporary directory.
@@ -366,8 +368,8 @@ For every new post, use this exact procedure:
 1. Delete temporary text files (`source.json` and the temporary MDX) with
    `apply_patch`.
 2. Delete only the explicit image and preview paths inside that post's exact
-   `/private/tmp/shayan-post-<number>/` directory. Do not use a broad recursive
-   delete, glob, `$HOME`, `~`, or an unresolved variable.
+   `../shayan-arman-blog/.tmp-shayan-post-<number>/` directory. Do not use a
+   broad recursive delete, glob, `$HOME`, `~`, or an unresolved variable.
 3. Remove the now-empty temporary directory with `rmdir`.
 4. Confirm both the temporary directory and the post-specific `live-posts`
    path do not exist.
@@ -385,12 +387,12 @@ steps before advancing.
 
 ## Active Batch
 
-- Target: post 416 (Celebrations; not yet migrated or authorized)
+- Target: none; posts 416–417 are complete
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 415
-- Next post: 416 (Celebrations)
-- Following post: 417 (Singing)
-- Last updated: 2026-09-10
+- Last completed post: 417
+- Next post: 418 (not yet identified or authorized)
+- Following post: none recorded
+- Last updated: 2026-09-11
 
 ## Completed Checkpoints (only keep the last 20 % 0. meaning 400-now, or 420- now if we are at 421 for example)
 
@@ -412,6 +414,8 @@ steps before advancing.
 | 413 | The Value of Things | `sites/shayan-arman-blog/posts/writings/2026-09-05-the-value-of-things.mdx` | 1 | 2026-09-04 |
 | 414 | Never Enough Intelligence | `sites/shayan-arman-blog/posts/writings/2026-09-05-never-enough-intelligence.mdx` | 1 | 2026-09-10 |
 | 415 | The Shayan Arman Singularity | `sites/shayan-arman-blog/posts/writings/2026-09-07-the-shayan-arman-singularity.mdx` | 1 | 2026-09-10 |
+| 416 | Celebrations | `sites/shayan-arman-blog/posts/writings/2026-09-08-celebrations.mdx` | 1 | 2026-09-11 |
+| 417 | Singing | `sites/shayan-arman-blog/posts/writings/2026-09-11-singing.mdx` | 1 | 2026-09-11 |
 
 ## Resume Rule
 
@@ -442,5 +446,5 @@ the top of this file.
 - Posts 341–360: done
 - Posts 361–380: done
 - Posts 381–400: done
-- Posts 401–415: done
-- Posts 416–417: published on Substack, not yet migrated
+- Posts 401–417: done
+- Posts 418–420: not yet identified or authorized

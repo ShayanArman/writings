@@ -364,5 +364,43 @@
       }
     ],
     "images_uploaded_to_s3": true
+  },
+  "415": {
+    "file_number": 415,
+    "title": "The Shayan Arman Singularity",
+    "substack_url": "https://shayanarman.substack.com/p/the-shayan-arman-singularity",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-09-10",
+    "subtitle": "A Billion is Fast Approaching",
+    "published_at": "2026-09-07T00:16:05.526Z",
+    "draft_slug": "the-shayan-arman-singularity",
+    "draft_file": "2026-09-07-the-shayan-arman-singularity.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shayan-arman-singularity/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "the-shayan-arman-singularity.webp",
+        "width": 2160,
+        "height": 2160,
+        "byte_size": 81878,
+        "content_type": "image/webp",
+        "md5": "f995b48392d0ade16c14afcc5daa1cf0",
+        "usage": "thumbnail and body",
+        "caption": null,
+        "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shayan-arman-singularity/the-shayan-arman-singularity.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b0e563c-c7ae-40b7-95b6-2743da338587_2160x2160.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

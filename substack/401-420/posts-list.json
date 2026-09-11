@@ -326,5 +326,43 @@
       }
     ],
     "images_uploaded_to_s3": true
+  },
+  "414": {
+    "file_number": 414,
+    "title": "Never Enough Intelligence",
+    "substack_url": "https://shayanarman.substack.com/p/never-enough-intelligence",
+    "images_added_locally": false,
+    "images_linked_in_post": true,
+    "last_verified": "2026-09-10",
+    "subtitle": "Oh how I’ve changed in just a few short months!",
+    "published_at": "2026-09-05T06:02:02.808Z",
+    "draft_slug": "never-enough-intelligence",
+    "draft_file": "2026-09-05-never-enough-intelligence.mdx",
+    "hashtags": [
+      "#inboxzero",
+      "#email",
+      "#emailcleaner",
+      "#emailorganizer",
+      "#aiemail",
+      "#emailassistant"
+    ],
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/",
+    "images": [
+      {
+        "archive_filename": null,
+        "filename": "never-enough-intelligence.webp",
+        "width": 2160,
+        "height": 2160,
+        "byte_size": 162058,
+        "content_type": "image/webp",
+        "md5": "e21ccd08bb20b5876a0308eb5da62e46",
+        "usage": "thumbnail and body",
+        "caption": null,
+        "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/never-enough-intelligence.webp",
+        "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fc9b1a16-28af-4de1-ba6b-1eb7afd099aa_2160x2160.png"
+      }
+    ],
+    "images_uploaded_to_s3": true
   }
 }

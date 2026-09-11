@@ -6,7 +6,7 @@ full-resolution images have been validated, uploaded to their exact Shayan
 Arman S3 keys, checksum-verified, reflected in the writings ledgers, and removed
 from temporary storage.
 
-## Current Follow-Up: Never Enough Intelligence
+## Post 414: Never Enough Intelligence
 
 Source: https://shayanarman.substack.com/p/never-enough-intelligence
 
@@ -40,9 +40,9 @@ before any future authorized update and use a conditional write.
 The body was compared word for word with the canonical API source; the excerpt
 was separately checked as verbatim source text. MDX compilation and site
 validation passed. No other posts or S3 objects were changed. The requested
-local draft is retained. No archive number or range-ledger entry was created
-for this follow-up; the numbered archive checkpoint below remains through 413.
-Do not advance it or modify unrelated entries as part of this review.
+local draft is retained. Shayan subsequently clarified that this post directly
+follows post 413, “The Value of Things,” so it is recorded as post 414 in the
+archive, range ledger, dashboard, and numbered checkpoint below.
 
 Operational rules, including the prohibition on invented excerpts, live in
 `agent-instructions.md`. The reusable starter request is `Prompt.md`.
@@ -75,11 +75,11 @@ s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
 
-## Migration Complete Through Post 413
+## Migration Complete Through Post 414
 
-Shayan explicitly approved and authorized publication of post 413 after the
-prior migration through post 412 was complete, to the authorized Shayan Arman
-S3 prefix. Post 413 is now complete.
+Shayan clarified that “Never Enough Intelligence” directly follows post 413,
+“The Value of Things.” Its previously approved publication is now recorded as
+post 414, and the numbered migration is complete through post 414.
 
 Before beginning work, the next agent must read `agent.md`,
 `agent-instructions.md`, and this file completely, then confirm this exact
@@ -88,10 +88,10 @@ durable state:
 - post 304, “The Startup Algorithm,” is fully published, checksum-verified,
   reflected in its range ledger and dashboard, cleaned from temporary storage,
   and recorded in the completed-checkpoint table below;
-- `Last completed post` is 413 and `Next post` is none;
-- post 413 is fully published and `/private/tmp/shayan-post-413/` does not
+- `Last completed post` is 414 and `Next post` is none;
+- post 414 is fully published and `/private/tmp/shayan-post-414/` does not
   exist;
-- the authorized follow-up publication through post 413 is complete.
+- the authorized follow-up publication through post 414 is complete.
 
 Do not use a batch importer, do not parallelize posts, and do not create local
 copies in `site/draft-post/` or `site/live-posts/`. Temporary post files belong
@@ -355,11 +355,11 @@ steps before advancing.
 
 ## Active Batch
 
-- Target: post 413 (user-approved follow-up to the completed migration through post 412)
+- Target: post 414 (Never Enough Intelligence, directly after post 413)
 - Processing mode: strictly one post at a time; no parallel post work
-- Last completed post: 413
+- Last completed post: 414
 - Next post: none
-- Last updated: 2026-09-04
+- Last updated: 2026-09-10
 
 ## Completed Checkpoints
 
@@ -702,6 +702,7 @@ steps before advancing.
 | 411 | Token Maxxing | `sites/shayan-arman-blog/posts/writings/2026-08-25-token-maxxing.mdx` | 1 | 2026-08-25 |
 | 412 | On Mental Health | `sites/shayan-arman-blog/posts/writings/2026-08-25-mental-health-ontology.mdx` | 1 | 2026-08-25 |
 | 413 | The Value of Things | `sites/shayan-arman-blog/posts/writings/2026-09-05-the-value-of-things.mdx` | 1 | 2026-09-04 |
+| 414 | Never Enough Intelligence | `sites/shayan-arman-blog/posts/writings/2026-09-05-never-enough-intelligence.mdx` | 1 | 2026-09-10 |
 
 ## Resume Rule
 
@@ -732,4 +733,4 @@ the top of this file.
 - Posts 341–360: done
 - Posts 361–380: done
 - Posts 381–400: done
-- Posts 401–413: done
+- Posts 401–414: done

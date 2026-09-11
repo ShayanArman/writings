@@ -32,7 +32,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/",
     "images": [
       {
         "archive_filename": null,
@@ -41,7 +41,7 @@
         "height": 2592,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/cubist-painting-five-women.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/cubist-painting-five-women.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/884299b6-d17b-4927-80b2-9a968da65f13_1456x2592.jpeg"
       },
       {
@@ -51,7 +51,7 @@
         "height": 2592,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/surreal-painting-statue-glove.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/surreal-painting-statue-glove.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/234784d6-f7f6-451d-9e8e-0c85773289e7_1456x2592.jpeg"
       },
       {
@@ -61,7 +61,7 @@
         "height": 442,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/two-men-dim-sum-restaurant.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/two-men-dim-sum-restaurant.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cbb08442-4d97-4b64-9ebc-03fd25b6b407_590x442.jpeg"
       }
     ],
@@ -124,7 +124,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/golden-words/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/golden-words/",
     "images": [
       {
         "archive_filename": null,
@@ -133,7 +133,7 @@
         "height": 2080,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/golden-words/man-pink-hammock-last-day-apple.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/golden-words/man-pink-hammock-last-day-apple.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/610834fb-27a7-4cb9-adff-236e8095370e_1170x2080.jpeg"
       }
     ],
@@ -150,7 +150,7 @@
     "published_at": "2025-10-09T06:01:19.273Z",
     "draft_slug": "3-steps-to-god",
     "draft_file": "2025-10-09-3-steps-to-god.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/3-steps-to-god/",
     "images": [
       {
         "archive_filename": null,
@@ -159,7 +159,7 @@
         "height": 1120,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/head-pool-stars-illustration.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/3-steps-to-god/head-pool-stars-illustration.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6c8ef3e2-58fa-4815-b1ef-0f970aeeeb52_734x1120.png"
       },
       {
@@ -169,7 +169,7 @@
         "height": 281,
         "usage": "body",
         "caption": "Somebody Dreamed of Sushi. That’s why I love Homeless people. And Sushi masters. I believe they’ve both seen GOD.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/sushi-masters-counter.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/3-steps-to-god/sushi-masters-counter.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/23500c82-6ef1-4197-9ba3-8f7bdd76cc2f_500x281.jpeg"
       }
     ],
@@ -186,7 +186,7 @@
     "published_at": "2025-10-09T06:07:34.117Z",
     "draft_slug": "money",
     "draft_file": "2025-10-09-money.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money/",
     "images": [
       {
         "archive_filename": null,
@@ -195,7 +195,7 @@
         "height": 838,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money/bearded-man-poker-chips.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money/bearded-man-poker-chips.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/843f5ec6-db43-45dc-8e10-385574ee2a61_1071x838.jpeg"
       }
     ],
@@ -212,7 +212,7 @@
     "published_at": "2025-10-09T06:17:02.972Z",
     "draft_slug": "money-2",
     "draft_file": "2025-10-09-money-2.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/",
     "images": [
       {
         "archive_filename": null,
@@ -221,7 +221,7 @@
         "height": 168,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-pointing.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7e42ade6-6a2c-48c5-92b4-7aaa6d610ffd_299x168.jpeg"
       },
       {
@@ -231,7 +231,7 @@
         "height": 252,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-standing.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0e2a9bd6-9cce-4907-ab42-6cad6eb5ba24_200x252.jpeg"
       },
       {
@@ -241,7 +241,7 @@
         "height": 168,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing-again.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-pointing-again.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3697a92-203c-470c-b149-b813257197f1_299x168.jpeg"
       },
       {
@@ -251,7 +251,7 @@
         "height": 252,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing-again.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-standing-again.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4f948a7c-ec03-43cd-afbd-6c30b4a2ea1c_200x252.jpeg"
       },
       {
@@ -261,7 +261,7 @@
         "height": 243,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-dancing-underwater.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-dancing-underwater.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d83eca52-04a3-40fd-be19-14a1d93215c7_207x243.jpeg"
       },
       {
@@ -271,7 +271,7 @@
         "height": 225,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/sandy-cheeks-flexing.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/sandy-cheeks-flexing.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a51db382-d2cd-4265-ad66-0724da803d10_225x225.jpeg"
       },
       {
@@ -281,7 +281,7 @@
         "height": 720,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/man-outdoor-selfie.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/man-outdoor-selfie.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b90b0544-ca1f-4462-b84c-ab130dfe5f46_405x720.jpeg"
       }
     ],
@@ -298,7 +298,7 @@
     "published_at": "2025-10-09T17:17:58.854Z",
     "draft_slug": "startups",
     "draft_file": "2025-10-09-startups.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startups/",
     "images": [
       {
         "archive_filename": null,
@@ -307,7 +307,7 @@
         "height": 1673,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-scientist.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startups/apple-think-different-scientist.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd42aaef-6b79-42d6-afdd-9c17c9c44b46_1080x1673.webp"
       },
       {
@@ -317,7 +317,7 @@
         "height": 388,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-woman.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startups/apple-think-different-woman.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fe48950-80df-4179-983a-9d247c3bfc20_320x388.jpeg"
       }
     ],
@@ -356,7 +356,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/single-step-theory/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/single-step-theory/",
     "images": [
       {
         "archive_filename": null,
@@ -365,7 +365,7 @@
         "height": 272,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/single-step-theory/hippocrates-portrait.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/single-step-theory/hippocrates-portrait.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0db8c60d-f512-4d17-b1d5-d40f0a596653_185x272.jpeg"
       }
     ],
@@ -411,7 +411,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/onto-logic/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/onto-logic/",
     "images": [
       {
         "archive_filename": null,
@@ -420,7 +420,7 @@
         "height": 272,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/onto-logic/hippocrates-portrait.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/onto-logic/hippocrates-portrait.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e5bab2da-f6a6-422f-88ac-2402905fa4fe_185x272.jpeg"
       }
     ],
@@ -444,7 +444,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/paths-journeys-goals-and/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/paths-journeys-goals-and/",
     "images": [
       {
         "archive_filename": null,
@@ -453,7 +453,7 @@
         "height": 809,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/paths-journeys-goals-and/couple-ocean-overlook.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/paths-journeys-goals-and/couple-ocean-overlook.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/77afe184-7d93-4fff-950f-d751b481625a_1080x809.jpeg"
       }
     ],

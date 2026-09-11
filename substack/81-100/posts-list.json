@@ -17,14 +17,14 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/invest-in-yourself/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/invest-in-yourself/",
     "images": [
       {
         "archive_filename": null,
         "filename": "bearded-philosopher-portrait.webp",
         "width": 312,
         "height": 312,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/invest-in-yourself/bearded-philosopher-portrait.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/invest-in-yourself/bearded-philosopher-portrait.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46481fbe-a2c6-4d60-baab-fcb5bc8be134_312x312.webp"
       }
     ],
@@ -48,14 +48,14 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/given/",
     "images": [
       {
         "archive_filename": null,
         "filename": "marcus-aurelius-bust.jpeg",
         "width": 1200,
         "height": 1600,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/marcus-aurelius-bust.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/given/marcus-aurelius-bust.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fc59046-2da0-43ab-b782-cf599026501d_1200x1600.jpeg"
       },
       {
@@ -63,7 +63,7 @@
         "filename": "stoic-emperor-statue.jpeg",
         "width": 300,
         "height": 168,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/stoic-emperor-statue.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/given/stoic-emperor-statue.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8635ea10-98c3-44bc-adf5-90edc935e7f2_300x168.jpeg"
       }
     ],
@@ -297,14 +297,14 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sickness/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sickness/",
     "images": [
       {
         "archive_filename": null,
         "filename": "hippocrates-engraving.jpeg",
         "width": 483,
         "height": 710,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sickness/hippocrates-engraving.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sickness/hippocrates-engraving.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/796a4ddb-3904-413a-9972-df964ac7e1b5_483x710.jpeg"
       }
     ],
@@ -321,14 +321,14 @@
     "published_at": "2025-06-07T15:00:14.879Z",
     "draft_slug": "the-apple-of-my-eye",
     "draft_file": "2025-06-07-the-apple-of-my-eye.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-apple-of-my-eye/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-apple-of-my-eye/",
     "images": [
       {
         "archive_filename": null,
         "filename": "creation-of-adam-hands.jpeg",
         "width": 275,
         "height": 183,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-apple-of-my-eye/creation-of-adam-hands.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-apple-of-my-eye/creation-of-adam-hands.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/375a4f24-493c-4c11-a862-1a1d9a37d224_275x183.jpeg"
       }
     ],
@@ -370,14 +370,14 @@
       "#apple",
       "#applepark"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-the-father-of-silicon-valley/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-the-father-of-silicon-valley/",
     "images": [
       {
         "archive_filename": null,
         "filename": "dave-muffly-apple-arborist.webp",
         "width": 1685,
         "height": 1123,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-the-father-of-silicon-valley/dave-muffly-apple-arborist.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-the-father-of-silicon-valley/dave-muffly-apple-arborist.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e33d7972-0dd8-46fe-84cd-b5b7f35d57e4_1685x1123.webp"
       }
     ],

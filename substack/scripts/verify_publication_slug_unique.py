@@ -13,7 +13,7 @@ from pathlib import Path
 
 BUCKET = "seo-gangster"
 WRITINGS_PREFIX = "sites/shayan-arman-blog/posts/writings/"
-IMAGE_POSTS_PREFIX = "sites/shayan-arman-blog/public/images/posts/"
+IMAGE_POSTS_PREFIX = "sites/shayan-arman-blog/public/images/posts/writings/"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATED_MDX_PATTERN = re.compile(
     r"^\d{4}-\d{2}-\d{2}-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.mdx$"
@@ -168,7 +168,11 @@ def main() -> int:
                 collisions.append(f"S3 writing object derives slug `{slug}`: {key}")
 
         image_prefix = f"{IMAGE_POSTS_PREFIX}{slug}/"
-        image_keys = list_s3_keys(image_prefix, max_items=1)
+        image_keys = [
+            key
+            for key in list_s3_keys(image_prefix, max_items=2)
+            if key != image_prefix
+        ]
         if image_keys and not args.allow_existing_image_prefix:
             collisions.append(
                 f"S3 image prefix is already populated: {image_prefix} "

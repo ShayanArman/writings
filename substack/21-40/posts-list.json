@@ -280,14 +280,14 @@
     "published_at": "2025-01-01T03:17:39.369Z",
     "draft_slug": "the-greatest-cover-letter-of-all",
     "draft_file": "2025-01-01-the-greatest-cover-letter-of-all.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/",
     "images": [
       {
         "archive_filename": "greece_floor.jpg",
         "filename": "paros-greece.jpg",
         "width": 3024,
         "height": 4032,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/paros-greece.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/paros-greece.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9fd38e61-d9d2-4b44-9f84-1d8347888196_3024x4032.heic",
         "processing": "Converted from the original 3024x4032 HEIC to a quality-100 JPEG without downscaling."
       },
@@ -296,7 +296,7 @@
         "filename": "greek-sunset.jpg",
         "width": 3024,
         "height": 4032,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/greek-sunset.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/greek-sunset.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a101d505-f3d7-4ca3-b0e0-b9098a88a200_3024x4032.heic",
         "processing": "Converted from the original 3024x4032 HEIC to a quality-100 JPEG without downscaling."
       },
@@ -305,7 +305,7 @@
         "filename": "shayan-in-monaco.jpg",
         "width": 4284,
         "height": 5712,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/shayan-in-monaco.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/shayan-in-monaco.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5b11ca0-8306-4719-ba47-1cd641dc5961_4284x5712.heic",
         "processing": "Converted from the original 4284x5712 HEIC to a quality-100 JPEG without downscaling."
       }

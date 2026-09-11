@@ -115,7 +115,7 @@
     "published_at": "2025-09-05T20:59:14.786Z",
     "draft_slug": "modern-philosophy",
     "draft_file": "2025-09-05-modern-philosophy.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/modern-philosophy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/modern-philosophy/",
     "images": [
       {
         "archive_filename": null,
@@ -123,7 +123,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/modern-philosophy/modern-philosophy.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/modern-philosophy/modern-philosophy.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/024cd12c-2a48-4da2-b686-6ec794d8741c_275x184.jpeg"
       }
     ],
@@ -200,7 +200,7 @@
     "published_at": "2025-09-07T01:14:53.978Z",
     "draft_slug": "on-becoming-exceptional",
     "draft_file": "2025-09-07-on-becoming-exceptional.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-becoming-exceptional/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-becoming-exceptional/",
     "images": [
       {
         "archive_filename": null,
@@ -208,7 +208,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-becoming-exceptional/on-becoming-exceptional.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-becoming-exceptional/on-becoming-exceptional.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8859ad0f-449a-4944-a549-8ad6ac5d2fd2_275x184.jpeg"
       }
     ],
@@ -225,7 +225,7 @@
     "published_at": "2025-09-07T03:09:02.421Z",
     "draft_slug": "through-him",
     "draft_file": "2025-09-07-through-him.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/through-him/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/through-him/",
     "images": [
       {
         "archive_filename": null,
@@ -233,7 +233,7 @@
         "width": 3896,
         "height": 2559,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/through-him/the-death-of-socrates.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/through-him/the-death-of-socrates.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/797cddd8-1b40-4581-ab7a-ec4cf89fcb35_3896x2559.jpeg"
       }
     ],
@@ -250,7 +250,7 @@
     "published_at": "2025-09-08T17:07:41.348Z",
     "draft_slug": "the-mind-and-reality",
     "draft_file": "2025-09-08-the-mind-and-reality.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-reality/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-reality/",
     "images": [
       {
         "archive_filename": null,
@@ -258,7 +258,7 @@
         "width": 3896,
         "height": 2559,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-reality/the-death-of-socrates.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-reality/the-death-of-socrates.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e8a2f968-21a5-47f7-b0ca-d5c5afc0ec52_3896x2559.jpeg"
       }
     ],
@@ -275,7 +275,7 @@
     "published_at": "2025-09-10T19:36:20.793Z",
     "draft_slug": "the-shame-of-exceptionalism",
     "draft_file": "2025-09-10-the-shame-of-exceptionalism.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shame-of-exceptionalism/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-shame-of-exceptionalism/",
     "images": [
       {
         "archive_filename": null,
@@ -283,7 +283,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shame-of-exceptionalism/the-shame-of-exceptionalism.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-shame-of-exceptionalism/the-shame-of-exceptionalism.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6bace80-c510-4613-b1b0-36c3df44cf27_275x184.jpeg"
       }
     ],
@@ -300,7 +300,7 @@
     "published_at": "2025-09-11T15:07:56.023Z",
     "draft_slug": "my-daughter-did-what",
     "draft_file": "2025-09-11-my-daughter-did-what.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-daughter-did-what/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-daughter-did-what/",
     "images": [
       {
         "archive_filename": null,
@@ -308,7 +308,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-daughter-did-what/my-daughter-did-what.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-daughter-did-what/my-daughter-did-what.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8c0f622f-8a72-4b7a-abe8-b826d657649e_275x184.jpeg"
       }
     ],
@@ -340,7 +340,7 @@
     "published_at": "2025-09-14T19:09:09.142Z",
     "draft_slug": "mykonos-2026",
     "draft_file": "2025-09-14-mykonos-2026.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos-2026/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mykonos-2026/",
     "images": [
       {
         "archive_filename": null,
@@ -348,7 +348,7 @@
         "width": 2000,
         "height": 2000,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos-2026/mykonos-2026.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mykonos-2026/mykonos-2026.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/45c56878-583b-4ffd-a855-bc2a42be5cd5_2000x2000.png"
       }
     ],
@@ -365,7 +365,7 @@
     "published_at": "2025-09-15T20:21:24.478Z",
     "draft_slug": "on-loan",
     "draft_file": "2025-09-15-on-loan.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-loan/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-loan/",
     "images": [
       {
         "archive_filename": null,
@@ -373,7 +373,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-loan/on-loan.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-loan/on-loan.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/abc6bc1d-aeec-4589-94f1-22f8be207695_275x184.jpeg"
       }
     ],

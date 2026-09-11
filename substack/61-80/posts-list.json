@@ -25,14 +25,14 @@
     "published_at": "2025-02-24T22:45:09.030Z",
     "draft_slug": "on-upward-mobility",
     "draft_file": "2025-02-24-on-upward-mobility.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-upward-mobility/",
     "images": [
       {
         "archive_filename": "factory.jpg",
         "filename": "factory.webp",
         "width": 800,
         "height": 450,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/factory.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-upward-mobility/factory.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f376c722-fd01-48e7-9548-50eb218e73b4_800x450.webp"
       },
       {
@@ -40,7 +40,7 @@
         "filename": "philosopher.jpg",
         "width": 183,
         "height": 276,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/philosopher.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-upward-mobility/philosopher.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5a91bf74-5d70-4eb9-83f6-8d2f558ca776_183x276.jpeg"
       }
     ],
@@ -72,14 +72,14 @@
     "published_at": "2025-03-02T21:00:55.521Z",
     "draft_slug": "people-dont-appreciate-this-enough",
     "draft_file": "2025-03-02-people-dont-appreciate-this-enough.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/people-dont-appreciate-this-enough/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/people-dont-appreciate-this-enough/",
     "images": [
       {
         "archive_filename": "mountain.jpg",
         "filename": "mountain.jpg",
         "width": 4284,
         "height": 5712,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/people-dont-appreciate-this-enough/mountain.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/people-dont-appreciate-this-enough/mountain.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9746616b-2324-45be-bc5b-3808a009d76b_4284x5712.jpeg"
       }
     ],
@@ -111,14 +111,14 @@
     "published_at": "2025-03-08T20:36:08.358Z",
     "draft_slug": "how-to-catch-a-thief",
     "draft_file": "2025-03-08-how-to-catch-a-thief.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-catch-a-thief/",
     "images": [
       {
         "archive_filename": "shibuya-station.jpg",
         "filename": "death-note-light-and-l.jpg",
         "width": 1000,
         "height": 1500,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-l.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-catch-a-thief/death-note-light-and-l.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c68279bf-4d43-4c27-828a-b8cfd8d1d707_1000x1500.jpeg"
       },
       {
@@ -126,7 +126,7 @@
         "filename": "death-note-light-and-ryuk.jpg",
         "width": 334,
         "height": 500,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-ryuk.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-catch-a-thief/death-note-light-and-ryuk.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c29ca362-26c0-44a3-b39a-7e211eefbced_334x500.jpeg"
       }
     ],
@@ -143,14 +143,14 @@
     "published_at": "2025-03-09T21:00:35.456Z",
     "draft_slug": "who-is-satoshi",
     "draft_file": "2025-03-09-who-is-satoshi.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-satoshi/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-satoshi/",
     "images": [
       {
         "archive_filename": "who-is-satoshi.jpg",
         "filename": "who-is-satoshi.jpg",
         "width": 678,
         "height": 452,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-satoshi/who-is-satoshi.jpg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-satoshi/who-is-satoshi.jpg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5f1137a-26b8-4864-b64c-da03d87d7eff_678x452.jpeg"
       }
     ],
@@ -182,14 +182,14 @@
     "published_at": "2025-03-11T20:47:52.015Z",
     "draft_slug": "where-is-gods-place",
     "draft_file": "2025-03-11-where-is-gods-place.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/where-is-gods-place/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/where-is-gods-place/",
     "images": [
       {
         "archive_filename": "judgemental-god.jpg",
         "filename": "judgemental-god.webp",
         "width": 631,
         "height": 300,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/where-is-gods-place/judgemental-god.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/where-is-gods-place/judgemental-god.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f1b2b6f9-7f9f-4b20-ae8a-c4a57bbaf16c_631x300.webp"
       }
     ],
@@ -251,14 +251,14 @@
     "published_at": "2025-03-17T20:50:36.310Z",
     "draft_slug": "what-is-love",
     "draft_file": "2025-03-17-what-is-love.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/what-is-love/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/what-is-love/",
     "images": [
       {
         "archive_filename": null,
         "filename": "state-machine-diagram.png",
         "width": 1040,
         "height": 667,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/what-is-love/state-machine-diagram.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/what-is-love/state-machine-diagram.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fd3fe4e-0aad-494d-9827-01f73663244b_1040x667.png"
       }
     ],
@@ -275,14 +275,14 @@
     "published_at": "2025-03-31T01:54:57.451Z",
     "draft_slug": "pain-pleasure-and-redemption",
     "draft_file": "2025-03-31-pain-pleasure-and-redemption.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/",
     "images": [
       {
         "archive_filename": null,
         "filename": "pain-pleasure-cycle.jpeg",
         "width": 1280,
         "height": 964,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-cycle.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/pain-pleasure-cycle.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bbce6bc1-2db9-4807-ad59-e743f8d11258_1280x964.jpeg"
       },
       {
@@ -290,7 +290,7 @@
         "filename": "pain-pleasure-equilibrium.png",
         "width": 1280,
         "height": 964,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-equilibrium.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/pain-pleasure-equilibrium.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/061c71bd-294d-4f7b-8c6b-dc22eceba3e7_1280x964.jpeg"
       },
       {
@@ -298,7 +298,7 @@
         "filename": "rest-and-equilibrium.png",
         "width": 1000,
         "height": 600,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/rest-and-equilibrium.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/rest-and-equilibrium.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/057ecaf9-a312-4ffe-966c-b01c775cdbd5_1000x600.png"
       }
     ],
@@ -319,14 +319,14 @@
       "#inboxzero",
       "#zeroinbox"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/your-lucky-week/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/your-lucky-week/",
     "images": [
       {
         "archive_filename": null,
         "filename": "lucky-week-probability.png",
         "width": 1024,
         "height": 1024,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/your-lucky-week/lucky-week-probability.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/your-lucky-week/lucky-week-probability.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d18280de-1348-432f-8176-360ec5ce6a7c_1024x1024.png"
       }
     ],
@@ -365,14 +365,14 @@
       "#email",
       "#emailcleaner"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ad-zero-inbox-email-cleaner-and-manager/",
     "images": [
       {
         "archive_filename": null,
         "filename": "zero-inbox-email-manager.jpeg",
         "width": 1292,
         "height": 727,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-email-manager.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-email-manager.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/074132da-4cc1-4375-9fa7-2c30b025cc98_1292x727.jpeg"
       },
       {
@@ -380,7 +380,7 @@
         "filename": "zero-inbox-mobile-search.png",
         "width": 1179,
         "height": 2556,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-mobile-search.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-mobile-search.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/49bb891f-aff7-4c8e-8582-52a3fd9670bf_1179x2556.png"
       }
     ],
@@ -405,14 +405,14 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/",
     "images": [
       {
         "archive_filename": null,
         "filename": "notorious-big-crown.jpeg",
         "width": 250,
         "height": 306,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/notorious-big-crown.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/notorious-big-crown.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5f31fb50-5af1-4a75-a8df-d416553af5cd_250x306.jpeg"
       },
       {
@@ -420,7 +420,7 @@
         "filename": "brooklyn-bridge-new-york.jpeg",
         "width": 1200,
         "height": 800,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/brooklyn-bridge-new-york.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/brooklyn-bridge-new-york.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a5a906ef-fdc3-439c-b57e-664f45b647cb_1200x800.jpeg"
       },
       {
@@ -428,7 +428,7 @@
         "filename": "golden-gate-bridge.avif",
         "width": 3840,
         "height": 1920,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/golden-gate-bridge.avif",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/golden-gate-bridge.avif",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/decf36c8-71c2-43dd-9f1e-2baccd1d9d4c_3840x1920.avif"
       }
     ],
@@ -473,14 +473,14 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/warren-buffett/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/warren-buffett/",
     "images": [
       {
         "archive_filename": null,
         "filename": "warren-buffett-portrait.png",
         "width": 1204,
         "height": 796,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/warren-buffett/warren-buffett-portrait.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/warren-buffett/warren-buffett-portrait.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fccf5d51-8fde-4d2d-977e-f26a79654a3d_1204x796.png"
       }
     ],

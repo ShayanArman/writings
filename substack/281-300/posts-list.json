@@ -10,7 +10,7 @@
     "published_at": "2025-11-24T00:31:59.608Z",
     "draft_slug": "on-youth",
     "draft_file": "2025-11-24-on-youth.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-youth/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-youth/",
     "images": [
       {
         "archive_filename": null,
@@ -19,7 +19,7 @@
         "height": 1536,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-youth/sicilian-coast-and-rock-formations.avif",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-youth/sicilian-coast-and-rock-formations.avif",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8fcfbf90-1aea-4938-af91-b06395dbfe7b_3072x1536.avif"
       }
     ],
@@ -36,7 +36,7 @@
     "published_at": "2025-11-24T01:11:49.118Z",
     "draft_slug": "on-sand",
     "draft_file": "2025-11-24-on-sand.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sand/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sand/",
     "images": [
       {
         "archive_filename": null,
@@ -45,7 +45,7 @@
         "height": 2556,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sand/paypal-low-balance-notification.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sand/paypal-low-balance-notification.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f446a2e6-bb2d-40fe-88ec-837aa7fef0b9_1179x2556.png"
       }
     ],
@@ -107,7 +107,7 @@
     "published_at": "2025-12-02T23:46:30.249Z",
     "draft_slug": "working",
     "draft_file": "2025-12-02-working.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/working/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/working/",
     "images": [
       {
         "archive_filename": null,
@@ -116,7 +116,7 @@
         "height": 240,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/working/ghost-in-the-shell-artwork.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/working/ghost-in-the-shell-artwork.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4a64c98b-1b65-4591-ac86-473ac0b8f72f_210x240.jpeg"
       }
     ],
@@ -133,7 +133,7 @@
     "published_at": "2025-12-05T22:04:28.903Z",
     "draft_slug": "the-mind-and-suicide-and-jesus",
     "draft_file": "2025-12-05-the-mind-and-suicide-and-jesus.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-suicide-and-jesus/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-suicide-and-jesus/",
     "images": [
       {
         "archive_filename": null,
@@ -142,7 +142,7 @@
         "height": 253,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-suicide-and-jesus/jackie-chan-fighting-pose.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-suicide-and-jesus/jackie-chan-fighting-pose.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6f84e20-70bb-4b3f-9771-0d83dc99601e_199x253.jpeg"
       }
     ],
@@ -174,7 +174,7 @@
     "published_at": "2025-12-08T19:18:46.062Z",
     "draft_slug": "moments",
     "draft_file": "2025-12-08-moments.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/moments/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/moments/",
     "images": [
       {
         "archive_filename": null,
@@ -183,7 +183,7 @@
         "height": 3088,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/moments/man-trying-pink-sunglasses.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/moments/man-trying-pink-sunglasses.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/65d77fb7-5db0-4dfe-ae62-ebb87f905efe_2316x3088.heic",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
       }
@@ -201,7 +201,7 @@
     "published_at": "2025-12-09T06:24:52.265Z",
     "draft_slug": "genie-in-a-bottle",
     "draft_file": "2025-12-09-genie-in-a-bottle.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/genie-in-a-bottle/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/genie-in-a-bottle/",
     "images": [
       {
         "archive_filename": null,
@@ -210,7 +210,7 @@
         "height": 2992,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/genie-in-a-bottle/stone-wall-ocean-coast.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/genie-in-a-bottle/stone-wall-ocean-coast.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5772c6f1-6640-429c-a959-d315cbd17ae0_4000x2992.jpeg"
       }
     ],
@@ -272,7 +272,7 @@
       "#organizer",
       "#manager"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-one-person-billion-dollar-company/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-one-person-billion-dollar-company/",
     "images": [
       {
         "archive_filename": null,
@@ -281,7 +281,7 @@
         "height": 183,
         "usage": "thumbnail",
         "caption": null,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-one-person-billion-dollar-company/sam-altman-portrait.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-one-person-billion-dollar-company/sam-altman-portrait.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/05e33744-ddeb-44c3-8aaa-3772b8f1d496_275x183.jpeg"
       }
     ],
@@ -359,7 +359,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-ai-will-replace-us/",
     "images": [
       {
         "archive_filename": null,
@@ -368,7 +368,7 @@
         "height": 240,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/ghost-in-the-shell-artwork.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-ai-will-replace-us/ghost-in-the-shell-artwork.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b16e758b-29d5-404c-9cc6-42efd429f2da_210x240.jpeg"
       },
       {
@@ -378,7 +378,7 @@
         "height": 3088,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/man-trying-pink-sunglasses.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-ai-will-replace-us/man-trying-pink-sunglasses.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/043b69ae-a3e2-4536-b7be-848da580d61a_2316x3088.jpeg"
       }
     ],
@@ -404,7 +404,7 @@
       "#cleaner",
       "#email"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-new-depression/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-new-depression/",
     "images": [
       {
         "archive_filename": null,
@@ -413,7 +413,7 @@
         "height": 630,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-new-depression/david-attenborough-outdoors.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-new-depression/david-attenborough-outdoors.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e76a881-dfeb-42bf-8b1a-752acfccee0b_945x630.jpeg"
       }
     ],
@@ -467,7 +467,7 @@
       "#cleaner",
       "#email"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/forms-of-the-mind/",
     "images": [
       {
         "archive_filename": null,
@@ -476,7 +476,7 @@
         "height": 1706,
         "usage": "thumbnail and body",
         "caption": "Defying the odds, one day at a Time, until the Culminating Day arrives…",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/team-usa-hockey-players-gold-medals.avif",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/forms-of-the-mind/team-usa-hockey-players-gold-medals.avif",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f6615f87-7407-4a90-a33e-6df5c8804c2a_2560x1706.avif"
       },
       {
@@ -486,7 +486,7 @@
         "height": 450,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/kanye-west-grammy-award.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/forms-of-the-mind/kanye-west-grammy-award.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/db7a6519-fdcb-4b81-bf6b-883806cbb376_289x450.jpeg"
       }
     ],

@@ -25,7 +25,7 @@
     "published_at": "2026-05-15T01:09:19.582Z",
     "draft_slug": "on-business-5ad",
     "draft_file": "2026-05-15-on-business-5ad.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-business-5ad/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-business-5ad/",
     "images": [
       {
         "archive_filename": null,
@@ -34,7 +34,7 @@
         "height": 1302,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-business-5ad/man-falling-out-of-white-sports-car.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-business-5ad/man-falling-out-of-white-sports-car.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/32174384-f07f-4685-bd4b-d128156eba6e_1332x1302.jpeg"
       }
     ],
@@ -97,7 +97,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/at-the-pool/",
     "images": [
       {
         "archive_filename": null,
@@ -106,7 +106,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "The Don",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/group-mirror-selfie.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/at-the-pool/group-mirror-selfie.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/522ee8d4-fdc1-4cc0-b442-8709d60d9258_4032x3024.jpeg",
         "processing": "Original JPEG bytes preserved. Encoded raster is 4032x3024 with EXIF orientation 6; displayed native dimensions are 3024x4032."
       }
@@ -193,7 +193,7 @@
     "published_at": "2026-05-27T05:53:45.466Z",
     "draft_slug": "virality",
     "draft_file": "2026-05-27-virality.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/virality/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/virality/",
     "images": [
       {
         "archive_filename": null,
@@ -202,7 +202,7 @@
         "height": 675,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/virality/blue-ferrari-sports-car.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/virality/blue-ferrari-sports-car.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1ea389ab-5517-4013-a267-5c2340ad5a02_1200x675.jpeg"
       }
     ],
@@ -227,7 +227,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ew/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ew/",
     "images": [
       {
         "archive_filename": null,
@@ -236,7 +236,7 @@
         "height": 3024,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ew/man-overlooking-machu-picchu.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ew/man-overlooking-machu-picchu.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/590ecdf2-b876-4a0c-b041-f2eedd004ed6_4032x3024.heic",
         "processing": "Original HEIC converted at full 4032x3024 resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
       }
@@ -307,7 +307,7 @@
     "published_at": "2026-06-01T06:04:46.880Z",
     "draft_slug": "the-end-of-labour-fab",
     "draft_file": "2026-06-01-the-end-of-labour-fab.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour-fab/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-end-of-labour-fab/",
     "images": [
       {
         "archive_filename": null,
@@ -316,7 +316,7 @@
         "height": 2436,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour-fab/wsj-no-raise-no-promotion-screenshot.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-end-of-labour-fab/wsj-no-raise-no-promotion-screenshot.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/762a75de-81d8-4558-bd3c-e9e48daa1d7e_1206x2436.jpeg"
       }
     ],
@@ -393,7 +393,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-slop/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-slop/",
     "images": [
       {
         "archive_filename": null,
@@ -402,7 +402,7 @@
         "height": 2048,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-slop/man-in-yellow-flower-field.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-slop/man-in-yellow-flower-field.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f663aae6-d1dc-4822-8468-4a678db16fe4_1895x2048.jpeg"
       }
     ],
@@ -419,7 +419,7 @@
     "published_at": "2026-06-11T21:03:21.806Z",
     "draft_slug": "why-siri-failed-an-honest-take",
     "draft_file": "2026-06-11-why-siri-failed-an-honest-take.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-siri-failed-an-honest-take/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-siri-failed-an-honest-take/",
     "images": [
       {
         "archive_filename": null,
@@ -428,7 +428,7 @@
         "height": 1214,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-siri-failed-an-honest-take/machu-picchu-git-commands-meme.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-siri-failed-an-honest-take/machu-picchu-git-commands-meme.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/19765754-9ae3-449f-beff-c8738cb0a013_1216x1214.png"
       }
     ],

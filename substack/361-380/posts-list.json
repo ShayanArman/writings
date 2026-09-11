@@ -56,7 +56,7 @@
     "published_at": "2026-04-30T18:29:43.556Z",
     "draft_slug": "my-efforts",
     "draft_file": "2026-04-30-my-efforts.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-efforts/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-efforts/",
     "images": [
       {
         "archive_filename": null,
@@ -65,7 +65,7 @@
         "height": 3024,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-efforts/man-kayaking-near-forest-homes.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-efforts/man-kayaking-near-forest-homes.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1724b87a-f0ea-45be-a63e-7cd92657b7bc_4032x3024.jpeg"
       }
     ],
@@ -272,7 +272,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-definitive-understanding-of-human/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-definitive-understanding-of-human/",
     "images": [
       {
         "archive_filename": null,
@@ -281,7 +281,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-definitive-understanding-of-human/watermelons-and-tomatoes-at-market.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-definitive-understanding-of-human/watermelons-and-tomatoes-at-market.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/719d4479-ac4c-4dc3-b053-93aef877825d_3024x4032.jpeg"
       }
     ],
@@ -336,7 +336,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/cafe-coding/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/cafe-coding/",
     "images": [
       {
         "archive_filename": null,
@@ -345,7 +345,7 @@
         "height": 1302,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/cafe-coding/man-falling-out-of-white-sports-car.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/cafe-coding/man-falling-out-of-white-sports-car.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/586e1db9-bddd-4fe7-9cc3-96572094a422_1332x1302.jpeg"
       }
     ],
@@ -362,7 +362,7 @@
     "published_at": "2026-05-07T01:55:41.078Z",
     "draft_slug": "the-happiness-fairy",
     "draft_file": "2026-05-07-the-happiness-fairy.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-happiness-fairy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-happiness-fairy/",
     "images": [
       {
         "archive_filename": null,
@@ -371,7 +371,7 @@
         "height": 3024,
         "usage": "thumbnail and body",
         "caption": "I worked as a server one summer. It was super fun. I honestly don’t know why i was hired. I ended up just chatting with everybody and not fully comprehending why everybody was in such a hurry. Turns out its because… well that’s how youre supposed to work. Didn’t know at the time lol",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-happiness-fairy/man-and-woman-at-restaurant.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-happiness-fairy/man-and-woman-at-restaurant.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd187256-bf62-4e86-9b8c-908f2113d78e_4032x3024.heic",
         "processing": "Original HEIC converted at full 4032x3024 resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
       }
@@ -397,7 +397,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/please-stop/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/please-stop/",
     "images": [
       {
         "archive_filename": null,
@@ -406,7 +406,7 @@
         "height": 3088,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/please-stop/friends-at-bar.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/please-stop/friends-at-bar.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b048d776-b36b-4dfc-8cce-ec423ed5ae84_2316x3088.heic",
         "processing": "Original HEIC converted at full 2316x3088 displayed resolution to browser-compatible JPEG with heif-convert quality 100; no downscaling."
       }

@@ -10,7 +10,7 @@
     "published_at": "2025-06-26T16:37:00.443Z",
     "draft_slug": "on-awakening",
     "draft_file": "2025-06-26-on-awakening.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-awakening/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-awakening/",
     "images": [
       {
         "archive_filename": null,
@@ -18,7 +18,7 @@
         "width": 960,
         "height": 540,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-awakening/planets-orbiting-a-star.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-awakening/planets-orbiting-a-star.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d721592-aa84-4115-b693-cd4b7f4f11c0_960x540.webp"
       }
     ],
@@ -72,7 +72,7 @@
       "#emailcleaner",
       "#emailorganizer"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/courage-to-venture/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/courage-to-venture/",
     "images": [
       {
         "archive_filename": null,
@@ -80,7 +80,7 @@
         "width": 3896,
         "height": 2559,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/courage-to-venture/the-death-of-socrates.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/courage-to-venture/the-death-of-socrates.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac84ded6-ce40-4a38-aaf6-df307f46a4e1_3896x2559.jpeg"
       }
     ],
@@ -127,7 +127,7 @@
     "published_at": "2025-07-01T19:24:56.915Z",
     "draft_slug": "el-vicco",
     "draft_file": "2025-07-01-el-vicco.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/el-vicco/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/el-vicco/",
     "images": [
       {
         "archive_filename": null,
@@ -135,7 +135,7 @@
         "width": 3024,
         "height": 4032,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/el-vicco/man-at-cavo-paradiso-mykonos.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/el-vicco/man-at-cavo-paradiso-mykonos.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ecc00057-f17b-4281-be86-aebdbccd9b0c_3024x4032.jpeg"
       }
     ],
@@ -175,7 +175,7 @@
     "published_at": "2025-07-03T16:45:12.050Z",
     "draft_slug": "my-cousin",
     "draft_file": "2025-07-03-my-cousin.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-cousin/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-cousin/",
     "images": [
       {
         "archive_filename": null,
@@ -183,7 +183,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-cousin/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-cousin/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9aed640-713b-4f7f-b999-1d02848db8e2_275x184.jpeg"
       }
     ],
@@ -200,7 +200,7 @@
     "published_at": "2025-07-05T17:46:41.358Z",
     "draft_slug": "wisdom",
     "draft_file": "2025-07-05-wisdom.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/wisdom/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/wisdom/",
     "images": [
       {
         "archive_filename": null,
@@ -208,7 +208,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/wisdom/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/wisdom/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6ea23-5be9-4866-9182-0e413a07d141_275x184.jpeg"
       }
     ],
@@ -225,7 +225,7 @@
     "published_at": "2025-07-05T17:52:27.719Z",
     "draft_slug": "the-most-gracious",
     "draft_file": "2025-07-05-the-most-gracious.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-gracious/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-gracious/",
     "images": [
       {
         "archive_filename": null,
@@ -233,7 +233,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-gracious/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-gracious/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46ffc03a-a73c-4b86-ba5d-678db7a90383_275x184.jpeg"
       }
     ],
@@ -265,7 +265,7 @@
     "published_at": "2025-07-06T07:47:59.575Z",
     "draft_slug": "on-folding-sheets",
     "draft_file": "2025-07-06-on-folding-sheets.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-folding-sheets/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-folding-sheets/",
     "images": [
       {
         "archive_filename": null,
@@ -273,7 +273,7 @@
         "width": 275,
         "height": 183,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-folding-sheets/red-ferrari-testarossa.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-folding-sheets/red-ferrari-testarossa.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ff6b9ecd-e0e5-42ea-9eee-da7451903081_275x183.jpeg"
       }
     ],
@@ -354,7 +354,7 @@
     "published_at": "2025-07-07T17:27:00.748Z",
     "draft_slug": "an-athlete-of-life",
     "draft_file": "2025-07-07-an-athlete-of-life.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/an-athlete-of-life/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/an-athlete-of-life/",
     "images": [
       {
         "archive_filename": null,
@@ -362,7 +362,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/an-athlete-of-life/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/an-athlete-of-life/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8394f508-9daa-4559-9681-8f4938bedd9f_275x184.jpeg"
       }
     ],
@@ -379,7 +379,7 @@
     "published_at": "2025-07-08T03:05:56.410Z",
     "draft_slug": "the-drinker",
     "draft_file": "2025-07-08-the-drinker.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-drinker/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-drinker/",
     "images": [
       {
         "archive_filename": null,
@@ -387,7 +387,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-drinker/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-drinker/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d201436e-903d-484d-af43-ccdaffbf01be_275x184.jpeg"
       }
     ],
@@ -404,7 +404,7 @@
     "published_at": "2025-07-08T17:41:21.537Z",
     "draft_slug": "on-me",
     "draft_file": "2025-07-08-on-me.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-me/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-me/",
     "images": [
       {
         "archive_filename": null,
@@ -413,7 +413,7 @@
         "height": 4032,
         "caption": "caption the image",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-me/couple-by-pink-flowers.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-me/couple-by-pink-flowers.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2027618a-2e86-4776-9bd4-ba69af858fd4_3024x4032.heic"
       }
     ],

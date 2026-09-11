@@ -73,8 +73,12 @@ post's content is correct.
 - Image reads must use the exact current post prefix below:
 
   ```text
-  s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
+  s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/
   ```
+
+  The `writings` segment is mandatory. A ledger or MDX reference directly
+  under `public/images/posts/<slug>/` is stale and must be reported rather than
+  treated as a supported legacy location.
 
 ## The Five Audit Surfaces
 

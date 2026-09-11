@@ -10,7 +10,7 @@
     "published_at": "2025-08-18T15:00:31.930Z",
     "draft_slug": "startup-weather",
     "draft_file": "2025-08-18-startup-weather.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startup-weather/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startup-weather/",
     "images": [
       {
         "archive_filename": null,
@@ -18,7 +18,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startup-weather/startup-weather.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startup-weather/startup-weather.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82184f24-91c8-45f3-9515-34ea6cf9a6db_275x184.jpeg"
       }
     ],
@@ -35,7 +35,7 @@
     "published_at": "2025-08-21T00:28:23.795Z",
     "draft_slug": "pre-donald-trump",
     "draft_file": "2025-08-21-pre-donald-trump.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pre-donald-trump/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pre-donald-trump/",
     "images": [
       {
         "archive_filename": null,
@@ -43,7 +43,7 @@
         "width": 1216,
         "height": 810,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pre-donald-trump/donald-trump-in-lobby.avif",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pre-donald-trump/donald-trump-in-lobby.avif",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d1bb368f-d4da-4ae0-8ff0-2b13075bb8ed_1216x810.avif"
       }
     ],
@@ -75,7 +75,7 @@
     "published_at": "2025-08-21T16:23:11.658Z",
     "draft_slug": "random-wednesdays",
     "draft_file": "2025-08-21-random-wednesdays.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/random-wednesdays/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/random-wednesdays/",
     "images": [
       {
         "archive_filename": null,
@@ -84,7 +84,7 @@
         "height": 4032,
         "usage": "thumbnail",
         "processing": "Converted the original HEIC to a full-resolution quality-100 JPEG without downscaling.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/random-wednesdays/cliffside-town-at-night.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/random-wednesdays/cliffside-town-at-night.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b1ea92fa-e9ab-4fb5-b010-d60dfc01a447.heic"
       }
     ],
@@ -101,7 +101,7 @@
     "published_at": "2025-08-21T19:15:08.064Z",
     "draft_slug": "the-artists-life",
     "draft_file": "2025-08-21-the-artists-life.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-artists-life/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-artists-life/",
     "images": [
       {
         "archive_filename": null,
@@ -109,7 +109,7 @@
         "width": 3896,
         "height": 2559,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-artists-life/the-death-of-socrates.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-artists-life/the-death-of-socrates.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4952b0a6-2482-4490-9e0e-f04eb67978f1_3896x2559.jpeg"
       }
     ],
@@ -132,7 +132,7 @@
       "#ai",
       "#workflows"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-marketing/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-marketing/",
     "images": [
       {
         "archive_filename": null,
@@ -140,7 +140,7 @@
         "width": 3024,
         "height": 4032,
         "caption": "A View of Santorini at Night on one of my many Travels",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-marketing/santorini-at-night.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-marketing/santorini-at-night.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82b9a80e-f86e-41b7-b2c7-37ff211c1367_3024x4032.jpeg"
       }
     ],
@@ -187,7 +187,7 @@
     "published_at": "2025-08-27T18:59:49.956Z",
     "draft_slug": "the-good-friend",
     "draft_file": "2025-08-27-the-good-friend.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-good-friend/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-good-friend/",
     "images": [
       {
         "archive_filename": null,
@@ -195,7 +195,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-good-friend/the-good-friend.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-good-friend/the-good-friend.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2389f39a-7411-4dfe-83e0-c2f4149f3d72_275x184.jpeg"
       }
     ],
@@ -212,7 +212,7 @@
     "published_at": "2025-08-28T15:30:33.056Z",
     "draft_slug": "starting-a-startup",
     "draft_file": "2025-08-28-starting-a-startup.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-startup/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/starting-a-startup/",
     "images": [
       {
         "archive_filename": null,
@@ -220,7 +220,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-startup/starting-a-startup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/starting-a-startup/starting-a-startup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cf57bca2-14c7-44ce-b4bd-76db134f0e74_275x184.jpeg"
       }
     ],
@@ -297,7 +297,7 @@
     "published_at": "2025-08-29T16:22:18.757Z",
     "draft_slug": "on-motivation",
     "draft_file": "2025-08-29-on-motivation.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-motivation/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-motivation/",
     "images": [
       {
         "archive_filename": null,
@@ -305,7 +305,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-motivation/on-motivation.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-motivation/on-motivation.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/589f41cb-bcb0-4c6c-bfb7-5e23f8ac1b90_275x184.jpeg"
       }
     ],
@@ -322,7 +322,7 @@
     "published_at": "2025-08-29T16:38:39.783Z",
     "draft_slug": "slope-change-philosophy",
     "draft_file": "2025-08-29-slope-change-philosophy.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/slope-change-philosophy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/slope-change-philosophy/",
     "images": [
       {
         "archive_filename": null,
@@ -330,7 +330,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/slope-change-philosophy/slope-change-philosophy.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/slope-change-philosophy/slope-change-philosophy.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1d2914c-a869-4534-a048-478cea37e007_275x184.jpeg"
       }
     ],

@@ -42,7 +42,6 @@ PLAYWRIGHT_SESSION = "shayan-audit"
 
 BUCKET = "seo-gangster"
 WRITINGS_PREFIX = "sites/shayan-arman-blog/posts/writings/"
-IMAGE_PREFIX = "sites/shayan-arman-blog/public/images/posts/"
 LIVE_BASE = "https://www.shayanarman.com/writings"
 
 TODO_IMAGE_RE = re.compile(

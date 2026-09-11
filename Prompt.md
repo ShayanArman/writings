@@ -19,6 +19,13 @@ against the source, including the excerpt and images. Give me the draft link.
 I will sign off first; only then upload this post and its images to their
 correct Shayan Arman S3 keys and verify the uploads.
 
+The canonical image hierarchy is
+`public/images/posts/<blog-collection-name>/<blog-post-slug>/<filename>`.
+For this `writings` collection, use only
+`s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/<filename>`;
+never omit `writings` by placing a new post folder directly under
+`public/images/posts/`.
+
 Work only on this post and its assets. Do not change other posts, drafts,
 live posts, sites, or S3 objects. Keep any writings record updates specific
 to this post. Do not run yarn build or yarn dev.

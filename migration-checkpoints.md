@@ -30,7 +30,7 @@ before any future authorized update and use a conditional write.
 - Last verified S3 MDX: 2,420 bytes, MD5 `d25e450bab5cea406ee935ac0c96602d`.
 - The approved local draft and S3 article both use the exact source phrases
   `tokens` and `Compute and Inference` in place of the generated keyword phrases.
-- Image key: `sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/never-enough-intelligence.webp`
+- Image key: `sites/shayan-arman-blog/public/images/posts/writings/never-enough-intelligence/never-enough-intelligence.webp`
 - Original image: `https://substack-post-media.s3.amazonaws.com/public/images/fc9b1a16-28af-4de1-ba6b-1eb7afd099aa_2160x2160.png`
 - Verified image: original WebP bytes, 2160 × 2160, 162,058 bytes,
   `image/webp`, MD5 `e21ccd08bb20b5876a0308eb5da62e46`. Only the misleading
@@ -58,7 +58,7 @@ It directly follows post 414 and is now recorded as post 415.
 - Subtitle: `A Billion is Fast Approaching`
 - MDX key: `sites/shayan-arman-blog/posts/writings/2026-09-07-the-shayan-arman-singularity.mdx`
 - Downloaded live MDX: 2,498 bytes, MD5 `7f751dd8d44ec15256728682f366c0da`.
-- Image key: `sites/shayan-arman-blog/public/images/posts/the-shayan-arman-singularity/the-shayan-arman-singularity.webp`
+- Image key: `sites/shayan-arman-blog/public/images/posts/writings/the-shayan-arman-singularity/the-shayan-arman-singularity.webp`
 - Original image: `https://substack-post-media.s3.amazonaws.com/public/images/9b0e563c-c7ae-40b7-95b6-2743da338587_2160x2160.png`
 - Verified original image: WebP bytes, 2160 × 2160, 81,878 bytes,
   `image/webp`, MD5 `f995b48392d0ade16c14afcc5daa1cf0`.
@@ -88,8 +88,11 @@ s3://seo-gangster/sites/shayan-arman-blog/posts/writings/
 Upload images only below the post-specific prefix:
 
 ```text
-s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/
+s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/
 ```
+
+The `writings` collection segment is mandatory for every upload and every
+recorded image key. A direct-under-`posts/` reference is stale and incorrect.
 
 Never write outside `sites/shayan-arman-blog/` in S3. Never run `yarn build`
 or `yarn dev`.
@@ -132,8 +135,9 @@ python3 substack/scripts/verify_publication_slug_unique.py <slug> --post-number 
 
 This preflight must check every local range ledger, all route slugs derived
 from dated MDX filenames under the authorized S3 writings prefix, and the exact
-candidate `public/images/posts/<slug>/` folder. A new post's image folder must
-be empty. Never reuse another post's route slug or image folder.
+candidate `public/images/posts/writings/<slug>/` folder. A new post's image
+folder must contain no image objects. Its exact zero-byte folder marker is
+allowed. Never reuse another post's route slug or image folder.
 
 Post 57 already owns the `on-language` slug. A later collision from post 112
 caused every non-prerendered writing route to return HTTP 500. Post 112 was
@@ -181,8 +185,9 @@ For every new post, use this exact procedure:
      `sites/shayan-arman-blog/posts/writings/` S3 prefix derives the same route
      slug after its leading date and trailing `.mdx` are removed;
    - the exact candidate
-     `sites/shayan-arman-blog/public/images/posts/<slug>/` S3 folder is empty
-     for a new post.
+     `sites/shayan-arman-blog/public/images/posts/writings/<slug>/` S3 folder
+     has no objects below its optional exact zero-byte folder marker for a new
+     post.
 4. A nonzero result blocks MDX creation and every upload. Do not bypass it with
    an exact-key `head-object`, because two different dated MDX keys can still
    create the same route slug.
@@ -234,8 +239,9 @@ For every new post, use this exact procedure:
    `sites/shayan-arman-blog/posts/writings/` S3 prefix. Derive S3 route slugs by
    stripping the `YYYY-MM-DD-` prefix and `.mdx` suffix from each basename.
    Also list the exact candidate image folder
-   `sites/shayan-arman-blog/public/images/posts/<slug>/`; it must contain no
-   objects for a new post. Never share or reuse another post's image folder.
+   `sites/shayan-arman-blog/public/images/posts/writings/<slug>/`; it must
+   contain no objects below its optional exact zero-byte folder marker for a
+   new post. Never share or reuse another post's image folder.
    An exact-key check alone is insufficient: two different dated filenames can
    still create the same route. On collision, prefer the canonical Substack URL
    slug when unique, otherwise add a concise stable suffix; rerun both checks

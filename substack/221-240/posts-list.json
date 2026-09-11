@@ -60,7 +60,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/we-all-want-to-be-goku/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/we-all-want-to-be-goku/",
     "images": [
       {
         "archive_filename": null,
@@ -69,7 +69,7 @@
         "height": 675,
         "usage": "thumbnail and body",
         "caption": "Man this was Crack Cocaine to my 7 year old Brain… Oh the 2000s",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/we-all-want-to-be-goku/goku-super-saiyan.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/we-all-want-to-be-goku/goku-super-saiyan.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8da30212-a917-4737-84f7-232f94f3ee10_1200x675.webp"
       }
     ],
@@ -86,7 +86,7 @@
     "published_at": "2025-09-18T15:54:25.267Z",
     "draft_slug": "on-production",
     "draft_file": "2025-09-18-on-production.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-production/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-production/",
     "images": [
       {
         "archive_filename": null,
@@ -95,7 +95,7 @@
         "height": 630,
         "usage": "thumbnail and body",
         "caption": "Nature does all this without interest rates…",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-production/forest-river-landscape.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-production/forest-river-landscape.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/984067eb-1915-4db1-90ed-911196e384f8_1200x630.jpeg"
       }
     ],
@@ -112,7 +112,7 @@
     "published_at": "2025-09-18T16:13:43.605Z",
     "draft_slug": "ask-god-not",
     "draft_file": "2025-09-18-ask-god-not.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ask-god-not/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ask-god-not/",
     "images": [
       {
         "archive_filename": null,
@@ -121,7 +121,7 @@
         "height": 1365,
         "usage": "thumbnail and body",
         "caption": "How could I have known, the life I’d live?",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ask-god-not/empire-state-building-fifth-avenue.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ask-god-not/empire-state-building-fifth-avenue.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3662884b-5b8d-4f63-a146-890947a0c3dc_2048x1365.jpeg"
       }
     ],
@@ -138,7 +138,7 @@
     "published_at": "2025-09-18T16:33:43.811Z",
     "draft_slug": "the-don-15b",
     "draft_file": "2025-09-18-the-don-15b.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-don-15b/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-don-15b/",
     "images": [
       {
         "archive_filename": null,
@@ -147,7 +147,7 @@
         "height": 1536,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-don-15b/coastal-town-and-sea-stacks.avif",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-don-15b/coastal-town-and-sea-stacks.avif",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d3cb6dd-46bd-44f1-866a-96ddf420bf48_3072x1536.avif"
       }
     ],
@@ -216,7 +216,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/billion-dollar-baby/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/billion-dollar-baby/",
     "images": [
       {
         "archive_filename": null,
@@ -224,7 +224,7 @@
         "width": 2048,
         "height": 1365,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/billion-dollar-baby/empire-state-building-fifth-avenue.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/billion-dollar-baby/empire-state-building-fifth-avenue.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2599ddf5-405d-4448-8a89-2454f42ad428_2048x1365.jpeg"
       }
     ],
@@ -256,7 +256,7 @@
     "published_at": "2025-09-23T00:10:09.672Z",
     "draft_slug": "on-famy",
     "draft_file": "2025-09-23-on-famy.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-famy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-famy/",
     "images": [
       {
         "archive_filename": null,
@@ -265,7 +265,7 @@
         "height": 1560,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-famy/couple-on-mykonos-street.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-famy/couple-on-mykonos-street.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/99172d3e-a2e5-44ef-8f99-3751029d05d0_1170x1560.jpeg"
       }
     ],
@@ -282,7 +282,7 @@
     "published_at": "2025-09-25T16:32:30.613Z",
     "draft_slug": "economy-in-five",
     "draft_file": "2025-09-25-economy-in-five.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/economy-in-five/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/economy-in-five/",
     "images": [
       {
         "archive_filename": null,
@@ -291,7 +291,7 @@
         "height": 1365,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/economy-in-five/empire-state-building-fifth-avenue.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/economy-in-five/empire-state-building-fifth-avenue.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad4442c5-74aa-4613-86ad-619ccbca6e63_2048x1365.jpeg"
       }
     ],
@@ -323,7 +323,7 @@
     "published_at": "2025-09-30T20:27:30.509Z",
     "draft_slug": "the-red-purse",
     "draft_file": "2025-09-30-the-red-purse.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-red-purse/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-red-purse/",
     "images": [
       {
         "archive_filename": null,
@@ -331,7 +331,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-red-purse/hands-exchanging-red-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-red-purse/hands-exchanging-red-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/098b22b6-69f2-4daa-b548-ae35288383a1_275x184.jpeg"
       }
     ],
@@ -355,7 +355,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-global-religion/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-global-religion/",
     "images": [
       {
         "archive_filename": null,
@@ -364,7 +364,7 @@
         "height": 1920,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-global-religion/nightclub-selfie-sunglasses.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-global-religion/nightclub-selfie-sunglasses.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f7913e55-d2e8-4589-9047-6a5bf40202fd_1440x1920.jpeg"
       }
     ],
@@ -403,7 +403,7 @@
       "#workflows",
       "#automations"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/opposing-reactions/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/opposing-reactions/",
     "images": [
       {
         "archive_filename": null,
@@ -412,7 +412,7 @@
         "height": 1920,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/opposing-reactions/nightclub-selfie-sunglasses.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/opposing-reactions/nightclub-selfie-sunglasses.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/72d0c33d-a1e6-421f-a15a-1755cebb328f_1440x1920.jpeg"
       }
     ],

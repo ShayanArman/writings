@@ -265,7 +265,7 @@ user's authorized scope. An archive number is not required for a local draft.
 5. Keep the post local until Shayan explicitly approves publishing it. Never upload draft MDX during the review pass.
 6. Convert body images to `GangsterImage` components and use final S3 references in the MDX.
 7. Upload only approved/requested images to a dedicated slug folder under:
-   `s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/`
+   `s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/`
 
 S3 access boundary for this site:
 
@@ -273,7 +273,10 @@ S3 access boundary for this site:
 - Do not list, read, write, copy, or delete any other prefix in the `seo-gangster` bucket.
 - Scope every AWS command to the exact `sites/shayan-arman-blog/` key prefix or a narrower post-specific prefix.
 - Never use a bucket-wide listing, sync, copy, or permission check for this workflow.
-- Image uploads belong under `sites/shayan-arman-blog/public/images/posts/<slug>/`.
+- Image uploads belong under
+  `sites/shayan-arman-blog/public/images/posts/writings/<slug>/`. The
+  `writings` collection segment is mandatory; never create a new writing image
+  folder directly under `public/images/posts/`.
 - Published MDX would belong under `sites/shayan-arman-blog/posts/writings/`, but do not upload MDX until Shayan explicitly approves the reviewed drafts.
 
 Image rules for MDX conversion:
@@ -284,7 +287,9 @@ Image rules for MDX conversion:
 - Preserve source image order and placement in the article.
 - Give every image meaningful alt text. Preserve a real source caption when one exists; do not invent a caption merely to fill the field.
 - Use the first suitable article image as the metadata thumbnail, but do not duplicate it as an extra body image solely to create a hero.
-- Create one S3 folder per post slug. Do not place different posts' images directly in the shared `posts/` root.
+- Create one S3 folder per post slug below the `writings` collection folder.
+  Do not omit the collection segment or place post folders directly in the
+  shared `posts/` root.
 
 Whenever original metadata or publishing preparation information is discovered, update that exact post's `posts-list.json` entry. In addition to the existing fields, record useful fields such as:
 

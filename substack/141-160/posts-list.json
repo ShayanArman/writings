@@ -10,7 +10,7 @@
     "published_at": "2025-07-09T15:06:53.780Z",
     "draft_slug": "on-equality",
     "draft_file": "2025-07-09-on-equality.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-equality/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-equality/",
     "images": [
       {
         "archive_filename": null,
@@ -18,7 +18,7 @@
         "width": 5712,
         "height": 4284,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-equality/man-entering-japanese-bar.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-equality/man-entering-japanese-bar.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/18a3567c-973a-4733-998f-050f7386afe7_5712x4284.jpeg"
       }
     ],
@@ -35,7 +35,7 @@
     "published_at": "2025-07-15T13:24:58.785Z",
     "draft_slug": "rule-breakers",
     "draft_file": "2025-07-15-rule-breakers.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/rule-breakers/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/rule-breakers/",
     "images": [
       {
         "archive_filename": null,
@@ -43,7 +43,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/rule-breakers/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/rule-breakers/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4817090b-9c8a-4588-9ce1-25d86952a9d8_275x184.jpeg"
       }
     ],
@@ -90,7 +90,7 @@
     "published_at": "2025-07-20T14:23:53.977Z",
     "draft_slug": "on-suffering-c06",
     "draft_file": "2025-07-20-on-suffering-c06.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-suffering-c06/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-suffering-c06/",
     "images": [
       {
         "archive_filename": null,
@@ -98,7 +98,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-suffering-c06/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-suffering-c06/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/83b1f1bb-c38f-4489-a344-ef9b1edd9404_275x184.jpeg"
       }
     ],
@@ -130,7 +130,7 @@
     "published_at": "2025-07-21T09:03:00.390Z",
     "draft_slug": "belief-systems",
     "draft_file": "2025-07-21-belief-systems.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/belief-systems/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/belief-systems/",
     "images": [
       {
         "archive_filename": null,
@@ -139,7 +139,7 @@
         "height": 3088,
         "usage": "thumbnail",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/belief-systems/self-portrait-against-wood-wall.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/belief-systems/self-portrait-against-wood-wall.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6389b-b37d-4a68-b3e3-3910b54ba810_2316x3088.heic"
       }
     ],
@@ -186,7 +186,7 @@
     "published_at": "2025-07-23T09:02:23.506Z",
     "draft_slug": "dying-twice",
     "draft_file": "2025-07-23-dying-twice.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/dying-twice/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/dying-twice/",
     "images": [
       {
         "archive_filename": null,
@@ -194,7 +194,7 @@
         "width": 1620,
         "height": 2025,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/dying-twice/coastal-cliffs-and-sea.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/dying-twice/coastal-cliffs-and-sea.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f933e65f-7526-4b0b-adca-96ed940ebe77_1620x2025.jpeg"
       }
     ],
@@ -211,7 +211,7 @@
     "published_at": "2025-07-23T09:09:39.190Z",
     "draft_slug": "the-most-beautiful",
     "draft_file": "2025-07-23-the-most-beautiful.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-beautiful/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-beautiful/",
     "images": [
       {
         "archive_filename": null,
@@ -219,7 +219,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-beautiful/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-beautiful/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9438aba7-73a5-417c-a1ba-f7defe2e7534_275x184.jpeg"
       }
     ],
@@ -245,7 +245,7 @@
       "#manager",
       "#zeroinbox"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-not-me/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-not-me/",
     "images": [
       {
         "archive_filename": null,
@@ -253,7 +253,7 @@
         "width": 3024,
         "height": 4032,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-not-me/santorini-at-night.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-not-me/santorini-at-night.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4752c2a-c6bd-421c-ad45-b74069e7602f_3024x4032.jpeg"
       }
     ],
@@ -270,7 +270,7 @@
     "published_at": "2025-07-24T08:45:42.752Z",
     "draft_slug": "the-train-of-philosophy",
     "draft_file": "2025-07-24-the-train-of-philosophy.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-train-of-philosophy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-train-of-philosophy/",
     "images": [
       {
         "archive_filename": null,
@@ -278,7 +278,7 @@
         "width": 1276,
         "height": 1600,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-train-of-philosophy/marble-bust-of-aristotle.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-train-of-philosophy/marble-bust-of-aristotle.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3a74b963-45d2-4cb8-9c2f-5e1bc4cc4dce_1276x1600.webp"
       }
     ],
@@ -295,7 +295,7 @@
     "published_at": "2025-07-25T09:16:19.802Z",
     "draft_slug": "environmentalism",
     "draft_file": "2025-07-25-environmentalism.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/environmentalism/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/environmentalism/",
     "images": [
       {
         "archive_filename": null,
@@ -303,7 +303,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/environmentalism/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/environmentalism/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5b0aba9-8013-4554-b9d3-c3773cb32842_275x184.jpeg"
       }
     ],
@@ -320,7 +320,7 @@
     "published_at": "2025-07-25T13:12:00.313Z",
     "draft_slug": "you-scratched-it",
     "draft_file": "2025-07-25-you-scratched-it.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/you-scratched-it/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/you-scratched-it/",
     "images": [
       {
         "archive_filename": null,
@@ -328,7 +328,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/you-scratched-it/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/you-scratched-it/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/38b3d8ee-3ba0-40d9-891c-89cca87e392e_275x184.jpeg"
       }
     ],
@@ -360,7 +360,7 @@
     "published_at": "2025-08-03T21:58:17.260Z",
     "draft_slug": "true-friend",
     "draft_file": "2025-08-03-true-friend.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/true-friend/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/true-friend/",
     "images": [
       {
         "archive_filename": null,
@@ -368,7 +368,7 @@
         "width": 5712,
         "height": 4284,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/true-friend/island-sunset-over-bay.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/true-friend/island-sunset-over-bay.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/147e65f5-c26f-42f9-bab0-6d7cf3897bcb_5712x4284.jpeg"
       }
     ],
@@ -400,7 +400,7 @@
     "published_at": "2025-08-06T07:07:58.565Z",
     "draft_slug": "question-master",
     "draft_file": "2025-08-06-question-master.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/question-master/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/question-master/",
     "images": [
       {
         "archive_filename": null,
@@ -408,7 +408,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/question-master/hands-passing-a-cup.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/question-master/hands-passing-a-cup.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/41f325ed-eb55-4822-88ec-6c35e36f3025_275x184.jpeg"
       }
     ],
@@ -425,14 +425,14 @@
     "published_at": "2025-08-08T11:00:24.501Z",
     "draft_slug": "on-miracles",
     "draft_file": "2025-08-08-on-miracles.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-miracles/",
     "images": [
       {
         "archive_filename": null,
         "filename": "hallgrimskirkja-and-leif-erikson-statue.jpeg",
         "width": 4284,
         "height": 5712,
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9cf39d2-7df5-441a-aed9-489b7d408d2f_5712x4284.jpeg",
         "processing": "Original JPEG bytes preserved. Encoded raster is 5712x4284 with EXIF orientation 6; displayed native dimensions are 4284x5712."
       }

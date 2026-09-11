@@ -33,7 +33,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/capitalism-on-neptune/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/capitalism-on-neptune/",
     "images": [
       {
         "archive_filename": null,
@@ -45,7 +45,7 @@
         "md5": "381a9648661ef2643b1c3b1a80da9044",
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/capitalism-on-neptune/shayan-arman-indoor-selfie.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/capitalism-on-neptune/shayan-arman-indoor-selfie.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c45047e0-1971-4b5e-871b-e2d1beb29ae1_2316x3088.jpeg"
       }
     ],
@@ -70,7 +70,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/half-eaten/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/half-eaten/",
     "images": [
       {
         "archive_filename": null,
@@ -83,7 +83,7 @@
         "usage": "thumbnail and body",
         "caption": null,
         "processing": "Converted from the original 3024x4032 HEIC to a full-resolution quality-100 JPEG without downscaling.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/half-eaten/two-men-with-vespa.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/half-eaten/two-men-with-vespa.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9ccb97da-5598-4920-9536-34311fba79d2_3024x4032.heic",
         "source_byte_size": 1680768,
         "source_md5": "a1ece1e1588ea86aec223c1bdae58bdf"
@@ -205,7 +205,7 @@
     "published_at": "2026-08-24T22:24:54.088Z",
     "draft_slug": "eventual-understanding",
     "draft_file": "2026-08-24-eventual-understanding.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/eventual-understanding/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/eventual-understanding/",
     "images": [
       {
         "archive_filename": null,
@@ -218,7 +218,7 @@
         "usage": "thumbnail and body",
         "caption": "Multi Agent - Multi Step Workflows",
         "processing": "Preserved the original 840x840 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/eventual-understanding/multi-agent-multi-step-workflows.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/eventual-understanding/multi-agent-multi-step-workflows.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/03594afa-d8ad-4fde-98aa-8f5e1d385401_840x840.png"
       }
     ],
@@ -240,7 +240,7 @@
       "#seo",
       "#aiseo"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/token-maxxing/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/token-maxxing/",
     "images": [
       {
         "archive_filename": null,
@@ -253,7 +253,7 @@
         "usage": "thumbnail and body",
         "caption": "Discovery ceiling occurs when our ability to solve problems outstrips our ability to come up with new ones to solve…",
         "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/token-maxxing/token-maxxing-discovery-ceiling.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/token-maxxing/token-maxxing-discovery-ceiling.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2663d4c7-abed-43d8-84c9-2a02a1dcd342_2160x2160.png"
       }
     ],
@@ -270,7 +270,7 @@
     "published_at": "2026-08-25T23:11:00.569Z",
     "draft_slug": "mental-health-ontology",
     "draft_file": "2026-08-25-mental-health-ontology.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mental-health-ontology/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mental-health-ontology/",
     "images": [
       {
         "archive_filename": null,
@@ -283,7 +283,7 @@
         "usage": "thumbnail and body",
         "caption": "My years of research, can be boiled down to a few lines. Like Picasso, working ever more to draw like a child…",
         "processing": "Preserved the original 2048x2048 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mental-health-ontology/mental-health-ontology.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mental-health-ontology/mental-health-ontology.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/87284f64-c4b3-475b-81b2-b5bf7c67450d_2048x2048.png"
       }
     ],
@@ -308,7 +308,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-value-of-things/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-value-of-things/",
     "images": [
       {
         "archive_filename": null,
@@ -321,7 +321,7 @@
         "usage": "thumbnail and body",
         "caption": null,
         "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-value-of-things/yellow-blue-gradient.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-value-of-things/yellow-blue-gradient.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/53255197-bc1e-4e58-8472-e13c11669fa3_2160x2160.png"
       }
     ],
@@ -346,7 +346,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/never-enough-intelligence/",
     "images": [
       {
         "archive_filename": null,
@@ -359,7 +359,7 @@
         "usage": "thumbnail and body",
         "caption": null,
         "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/never-enough-intelligence/never-enough-intelligence.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/never-enough-intelligence/never-enough-intelligence.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fc9b1a16-28af-4de1-ba6b-1eb7afd099aa_2160x2160.png"
       }
     ],
@@ -384,7 +384,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shayan-arman-singularity/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-shayan-arman-singularity/",
     "images": [
       {
         "archive_filename": null,
@@ -397,7 +397,7 @@
         "usage": "thumbnail and body",
         "caption": null,
         "processing": "Preserved the original 2160x2160 WebP bytes and corrected the misleading .png source extension.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shayan-arman-singularity/the-shayan-arman-singularity.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-shayan-arman-singularity/the-shayan-arman-singularity.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b0e563c-c7ae-40b7-95b6-2743da338587_2160x2160.png"
       }
     ],

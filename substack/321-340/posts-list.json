@@ -40,7 +40,7 @@
     "published_at": "2026-04-12T21:09:50.588Z",
     "draft_slug": "grandstanding",
     "draft_file": "2026-04-12-grandstanding.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/grandstanding/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/grandstanding/",
     "images": [
       {
         "archive_filename": null,
@@ -49,7 +49,7 @@
         "height": 3088,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/grandstanding/man-wearing-sunglasses-and-scarf.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/grandstanding/man-wearing-sunglasses-and-scarf.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed09f9ee-9066-4fc9-8186-a658ddc58255_2316x3088.jpeg"
       }
     ],
@@ -105,7 +105,7 @@
       "#tuscany",
       "#florence"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/",
     "images": [
       {
         "archive_filename": null,
@@ -114,7 +114,7 @@
         "height": 3827,
         "usage": "thumbnail and body",
         "caption": "Benvenuti! This is the door to our little slice of Chianti life - right on Via Roma, in the historic heart of Greve.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-door.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/chianti-door.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9637c648-4ee5-4a30-9416-1fa88c36d6b2_2870x3827.webp"
       },
       {
@@ -124,7 +124,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "A classic flight through Chianti Classico, every bottle from Castello di Verrazzano tells a deeper story of place, patience, and passion. Which would you uncork first?",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-wine-flight.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/chianti-wine-flight.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6ae7069d-3ef6-4404-a678-9f1f84cd3393_3024x4032.webp"
       },
       {
@@ -134,7 +134,7 @@
         "height": 3024,
         "usage": "body",
         "caption": "Gosh this looks amazing!",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/greve-street-dinner.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/greve-street-dinner.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6cd7cee9-42d3-4499-8baf-c351be904beb_4032x3024.jpeg"
       }
     ],
@@ -208,7 +208,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/",
     "images": [
       {
         "archive_filename": null,
@@ -217,7 +217,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/man-at-pena-palace.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5c364691-a0a9-4c84-b07b-7e71270a7062_3024x4032.jpeg"
       },
       {
@@ -227,7 +227,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/surfboard-at-sunset.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/surfboard-at-sunset.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ea917a33-ea8b-413a-a9b8-91df451db98a_3024x4032.jpeg"
       },
       {
@@ -237,7 +237,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace-portrait.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/man-at-pena-palace-portrait.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/97fd1956-0a91-473d-9b02-91036a965b0c_3024x4032.jpeg"
       }
     ],
@@ -262,7 +262,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/",
     "images": [
       {
         "archive_filename": null,
@@ -271,7 +271,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/flower-covered-house.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/flower-covered-house.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5eed0d99-4d41-45e2-91d4-b04a01ab6aea_3024x4032.jpeg"
       },
       {
@@ -281,7 +281,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/watermelons-and-tomatoes.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/watermelons-and-tomatoes.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1925a68-6abc-419e-925b-f03d5712e56b_3024x4032.jpeg"
       },
       {
@@ -291,7 +291,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/white-building-blue-shutters.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/white-building-blue-shutters.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6e0b4d90-ae4c-429b-9675-c0bef4d9b4d9_3024x4032.jpeg"
       }
     ],
@@ -383,7 +383,7 @@
     "published_at": "2026-04-21T07:13:20.973Z",
     "draft_slug": "the-doctor",
     "draft_file": "2026-04-21-the-doctor.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-doctor/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-doctor/",
     "images": [
       {
         "archive_filename": null,
@@ -392,7 +392,7 @@
         "height": 409,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-doctor/doctor-advice.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-doctor/doctor-advice.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b985515-ed16-49a7-a69b-f871e03a202d_1206x409.jpeg"
       }
     ],
@@ -432,7 +432,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/getting-busy/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/getting-busy/",
     "images": [
       {
         "archive_filename": null,
@@ -441,7 +441,7 @@
         "height": 1290,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/getting-busy/zero-inbox-autoscaling-dashboard.png",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/getting-busy/zero-inbox-autoscaling-dashboard.png",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/307b6eef-aab8-435b-a3f1-757888e3c046_2466x1290.png"
       }
     ],
@@ -466,7 +466,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/2-am-coding-session/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/2-am-coding-session/",
     "images": [
       {
         "archive_filename": null,
@@ -475,7 +475,7 @@
         "height": 1280,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/2-am-coding-session/late-night-coding-session.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/2-am-coding-session/late-night-coding-session.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6bb1bcf1-f666-4004-979d-e0a0cbc41ab6_720x1280.jpeg"
       }
     ],

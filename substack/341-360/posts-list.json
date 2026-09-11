@@ -48,7 +48,7 @@
       "#aiemail",
       "#emailassistant"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/esha-bhatti/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/esha-bhatti/",
     "images": [
       {
         "archive_filename": null,
@@ -57,7 +57,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/esha-bhatti/esha-bhatti.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/esha-bhatti/esha-bhatti.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed36ab02-aa4b-444a-b373-8d17754055ec_3024x4032.jpeg"
       }
     ],
@@ -74,7 +74,7 @@
     "published_at": "2026-04-23T17:42:41.033Z",
     "draft_slug": "psycholo-g",
     "draft_file": "2026-04-23-psycholo-g.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/psycholo-g/",
     "images": [
       {
         "archive_filename": null,
@@ -83,7 +83,7 @@
         "height": 3088,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-in-blue-shirt-portrait.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/psycholo-g/man-in-blue-shirt-portrait.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/42be3ed0-59ae-4017-87ec-76dfd144b925_2316x3088.heic",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
       },
@@ -94,7 +94,7 @@
         "height": 2080,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-relaxing-in-pink-hammock.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/psycholo-g/man-relaxing-in-pink-hammock.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8d53083e-8a65-432f-9fac-a9e4d5055142_1170x2080.jpeg"
       }
     ],

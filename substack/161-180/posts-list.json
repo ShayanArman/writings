@@ -85,7 +85,7 @@
     "published_at": "2025-08-13T14:02:18.850Z",
     "draft_slug": "business-class-blues",
     "draft_file": "2025-08-13-business-class-blues.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/business-class-blues/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/business-class-blues/",
     "images": [
       {
         "archive_filename": null,
@@ -93,7 +93,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/business-class-blues/business-class-blues.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/business-class-blues/business-class-blues.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1032a775-d019-4eb7-addd-48eb1ea69258_275x184.jpeg"
       }
     ],
@@ -110,7 +110,7 @@
     "published_at": "2025-08-13T14:09:57.137Z",
     "draft_slug": "on-sleep",
     "draft_file": "2025-08-13-on-sleep.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sleep/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sleep/",
     "images": [
       {
         "archive_filename": null,
@@ -118,7 +118,7 @@
         "width": 1215,
         "height": 821,
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sleep/sleeping-bear-cartoon.webp",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sleep/sleeping-bear-cartoon.webp",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d57bc93a-91b2-4798-8ec8-4ae98e2e0e3b_1215x821.webp"
       }
     ],
@@ -135,7 +135,7 @@
     "published_at": "2025-08-14T14:31:59.588Z",
     "draft_slug": "andrew-tate",
     "draft_file": "2025-08-14-andrew-tate.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate/",
     "images": [
       {
         "archive_filename": null,
@@ -143,7 +143,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate/andrew-tate.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate/andrew-tate.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d51901c6-9a46-4b6b-b4eb-1b3202e78d0a_275x184.jpeg"
       }
     ],
@@ -160,7 +160,7 @@
     "published_at": "2025-08-14T14:39:13.479Z",
     "draft_slug": "to-take-a-stand",
     "draft_file": "2025-08-14-to-take-a-stand.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-take-a-stand/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/to-take-a-stand/",
     "images": [
       {
         "archive_filename": null,
@@ -168,7 +168,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-take-a-stand/to-take-a-stand.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/to-take-a-stand/to-take-a-stand.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe21c6ad-d2bb-44c5-9047-c014b58da3ca_275x184.jpeg"
       }
     ],
@@ -185,7 +185,7 @@
     "published_at": "2025-08-14T17:24:08.883Z",
     "draft_slug": "andrew-tate-and-exceptionalism",
     "draft_file": "2025-08-14-andrew-tate-and-exceptionalism.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate-and-exceptionalism/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate-and-exceptionalism/",
     "images": [
       {
         "archive_filename": null,
@@ -193,7 +193,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate-and-exceptionalism/andrew-tate-and-exceptionalism.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate-and-exceptionalism/andrew-tate-and-exceptionalism.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bf045f12-3e8b-4c12-8ffe-539c904cb0de_275x184.jpeg"
       }
     ],
@@ -210,7 +210,7 @@
     "published_at": "2025-08-15T22:37:25.207Z",
     "draft_slug": "heights-unseen",
     "draft_file": "2025-08-15-heights-unseen.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/heights-unseen/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/heights-unseen/",
     "images": [
       {
         "archive_filename": null,
@@ -218,7 +218,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/heights-unseen/heights-unseen.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/heights-unseen/heights-unseen.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7b839916-67f8-4908-919c-2e5bf4737b6a_275x184.jpeg"
       }
     ],
@@ -256,7 +256,7 @@
       "#ai",
       "#workflows"
     ],
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/summative/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/summative/",
     "images": [
       {
         "archive_filename": null,
@@ -264,7 +264,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/summative/summative.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/summative/summative.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d881f28-6031-4e13-9cba-55c465372e2c_275x184.jpeg"
       }
     ],
@@ -296,7 +296,7 @@
     "published_at": "2025-08-16T18:00:48.564Z",
     "draft_slug": "exceptionalism",
     "draft_file": "2025-08-16-exceptionalism.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/exceptionalism/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/exceptionalism/",
     "images": [
       {
         "archive_filename": null,
@@ -304,7 +304,7 @@
         "width": 275,
         "height": 184,
         "usage": "thumbnail",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/exceptionalism/exceptionalism.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/exceptionalism/exceptionalism.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4161bdc-3e5c-4e41-87d1-1c723929150f_275x184.jpeg"
       }
     ],

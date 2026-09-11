@@ -106,8 +106,12 @@ Never perform bucket-wide operations or inspect another site prefix.
 Images:
 
 ```text
-s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>
+s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/<filename>
 ```
+
+The `writings` segment is the blog collection name and is mandatory. Never
+create new writing image folders directly under `public/images/posts/`. The
+general hierarchy is `public/images/posts/<collection>/<slug>/<filename>`.
 
 Published writings:
 
@@ -167,11 +171,13 @@ Run all three checks:
    and reject any match with the proposed slug. Never broaden this listing to
    the bucket or another site prefix.
 3. List the exact candidate image folder
-   `sites/shayan-arman-blog/public/images/posts/<slug>/`. It must be empty for a
-   new post. Even one existing object is a collision unless the post is being
-   resumed and every existing exact key has already passed the documented
-   byte-size, MIME-type, and checksum reconciliation. Never reuse another
-   post's image folder, even when the images or titles happen to match.
+   `sites/shayan-arman-blog/public/images/posts/writings/<slug>/`. It must be
+   empty for a new post. The exact zero-byte folder marker at that prefix is
+   allowed and does not count as an image; any object below it is a collision
+   unless the post is being resumed and every existing exact key has already
+   passed the documented byte-size, MIME-type, and checksum reconciliation.
+   Never reuse another post's image folder, even when the images or titles
+   happen to match.
 
 Use the fail-closed preflight for all checks and the post-specific image-prefix
 check; do not replace it with an informal `rg` or exact-key-only check:
@@ -211,7 +217,7 @@ hashtags:
 excerpt: "Exact contiguous passage copied from the source."
 changefreq: "monthly"
 priority: "0.8"
-thumbnail: "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>"
+thumbnail: "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/<filename>"
 imageAlt: "Meaningful image description"
 imageFallbackText: "Post title"
 ---
@@ -269,7 +275,7 @@ Use `GangsterImage` for body media:
 import GangsterImage from "@shared/components/GangsterImage";
 
 <GangsterImage
-  src="s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/<slug>/<filename>"
+  src="s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/<slug>/<filename>"
   width={1200}
   height={800}
   alt="Meaningful description"

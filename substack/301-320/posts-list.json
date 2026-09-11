@@ -68,7 +68,7 @@
     "published_at": "2026-03-24T23:58:46.189Z",
     "draft_slug": "the-startup-algorithm",
     "draft_file": "2026-03-24-the-startup-algorithm.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-startup-algorithm/",
     "images": [
       {
         "archive_filename": null,
@@ -77,7 +77,7 @@
         "height": 4032,
         "usage": "thumbnail and body",
         "caption": "I was a naive boy, and now that I slayed the Startup dragon, I am a Man.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/man-wearing-poncho-in-clothing-shop.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-startup-algorithm/man-wearing-poncho-in-clothing-shop.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f3ebf560-2f4f-45ce-9deb-7d77851b2ea5_3024x4032.heic",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
       },
@@ -88,7 +88,7 @@
         "height": 4032,
         "usage": "body",
         "caption": "I can’t help but be Me.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/friends-nighttime-selfie.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-startup-algorithm/friends-nighttime-selfie.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/93bd1ca6-ac8d-44b5-b08b-34d036bd80cb_3024x4032.jpeg"
       }
     ],
@@ -142,7 +142,7 @@
     "published_at": "2026-03-29T02:28:51.290Z",
     "draft_slug": "on-party",
     "draft_file": "2026-03-29-on-party.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-party/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-party/",
     "images": [
       {
         "archive_filename": null,
@@ -151,7 +151,7 @@
         "height": 3088,
         "usage": "thumbnail and body",
         "caption": "We knew all our dreams would come true that night.",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-party/friends-at-party.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-party/friends-at-party.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e84842a0-0e92-4acf-9a25-4f3339a8985b_2316x3088.jpeg"
       }
     ],
@@ -168,7 +168,7 @@
     "published_at": "2026-03-30T16:56:52.655Z",
     "draft_slug": "the-discombobulator",
     "draft_file": "2026-03-30-the-discombobulator.mdx",
-    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/",
+    "image_s3_prefix": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-discombobulator/",
     "images": [
       {
         "archive_filename": null,
@@ -177,7 +177,7 @@
         "height": 5712,
         "usage": "thumbnail and body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/cherry-blossom-tree.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-discombobulator/cherry-blossom-tree.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/73f5daee-65d3-4e1a-91b4-61eac9912bab.heic",
         "processing": "Converted the full-resolution HEIC original to JPEG at quality 100 with heif-convert; no downscaling."
       },
@@ -188,7 +188,7 @@
         "height": 1102,
         "usage": "body",
         "caption": "caption the image",
-        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/man-on-rooftop-patio.jpeg",
+        "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-discombobulator/man-on-rooftop-patio.jpeg",
         "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/48192ac5-56f5-4fc3-b80b-4e87688590c2_826x1102.jpeg"
       }
     ],

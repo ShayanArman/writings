@@ -359,7 +359,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a84351cd-f5e0-4982-ad48-9b03622b8633_500x411.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/freedom-from/tim-ferriss-four-hour-workweek.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/freedom-from/tim-ferriss-four-hour-workweek.webp",
                 "source_file": {
                   "bytes": 168018,
                   "md5": "9d9b569f089dc1ebc054fee74d8e1bae",
@@ -619,7 +619,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d7dbafba-b9be-4769-83da-80b1616d9e77_1000x860.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-work/death-of-achilles-rubens.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-work/death-of-achilles-rubens.webp",
                 "source_file": {
                   "bytes": 159188,
                   "md5": "14fe93edba689923f9a5dcee08116e9f",
@@ -643,7 +643,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f4e005a5-2629-4137-b854-abd3d16c6fb1_2254x1246.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-work/battle-scene-rubens.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-work/battle-scene-rubens.webp",
                 "source_file": {
                   "bytes": 962866,
                   "md5": "4fa396817b5ceb484187da774a2159f2",
@@ -1767,7 +1767,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/080fbdfc-af2f-456b-ae5a-2e12c469aced_384x378.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-billion-dollar-company/thaly-orb.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/starting-a-billion-dollar-company/thaly-orb.png",
                 "source_file": {
                   "bytes": 138446,
                   "md5": "230fb16143c9594bd9da1323eb2a46e3",
@@ -2263,7 +2263,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/71e17e3d-fed6-4bc4-926e-71fad2bf1444_233x590.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-way-of-things/thaly-logo-variations.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-way-of-things/thaly-logo-variations.jpg",
                 "source_file": {
                   "bytes": 85206,
                   "md5": "d14528e38f6feceecfccc0b0a868d435",
@@ -2545,7 +2545,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b5a4efa-cca4-4d0a-b31a-b5162fa92356_1170x2080.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-canada-and-democracy/shayan-on-boat.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-canada-and-democracy/shayan-on-boat.jpg",
                 "source_file": {
                   "bytes": 393215,
                   "md5": "389f8411c03612949674e89e7f3f5ad4",
@@ -2837,7 +2837,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7544e8ce-f9f9-4f57-b305-3b2ba134ca9b_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/camino-santiago/tropical-ocean-view.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/camino-santiago/tropical-ocean-view.jpg",
                 "source_file": {
                   "bytes": 11119405,
                   "md5": "088982bf790fbf6ed0f12ebd75db5614",
@@ -3123,7 +3123,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8b68b35d-5864-405e-9c61-a3356657a7cc_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-art-of-selling/japanese-bar-at-night.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-art-of-selling/japanese-bar-at-night.jpg",
                 "source_file": {
                   "bytes": 12617886,
                   "md5": "f98a74a138efcd9df680b9b8f1ae10cd",
@@ -3147,7 +3147,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5dec3d17-21f3-4e1f-bbde-5eb03a0df18d_474x472.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-art-of-selling/thaly-logo.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-art-of-selling/thaly-logo.png",
                 "source_file": {
                   "bytes": 20800,
                   "md5": "f54b8265f909828525508cc15ea0f02a",
@@ -3447,7 +3447,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3981f3ef-afc3-4073-a925-4c4e2f21f27a_185x272.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/campbells-soup-can.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/brands-are/campbells-soup-can.jpg",
                 "source_file": {
                   "bytes": 13691,
                   "md5": "96fcb48c0423d6a75689db3888e8e599",
@@ -3471,7 +3471,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8c0a0a56-75f9-4cf5-8260-d09b4d732d53_225x225.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/nike-logo.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/brands-are/nike-logo.png",
                 "source_file": {
                   "bytes": 2864,
                   "md5": "8d622025fc1c75e86511eea04fee8e96",
@@ -3495,7 +3495,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8fc2fdc-b672-4485-b2f5-d7c92473701f_191x179.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/apple-logo.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/brands-are/apple-logo.jpg",
                 "source_file": {
                   "bytes": 3249,
                   "md5": "374fc98a17d82c1dad2b69932a2e9abd",
@@ -3519,7 +3519,7 @@
               {
                 "index": 4,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/efb92c0c-d225-4fb7-8aea-042e7b75b41d_225x225.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/brands-are/coca-cola-logo.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/brands-are/coca-cola-logo.png",
                 "source_file": {
                   "bytes": 4537,
                   "md5": "9713314dc141ceb3a4f7d32641e9c025",
@@ -3861,7 +3861,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac673cbf-5d3a-44e1-abda-e530d9f3d381_540x595.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/andy-warhol.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-fear-and-opportunity/andy-warhol.jpg",
                 "source_file": {
                   "bytes": 66054,
                   "md5": "cf2a0e660031bebcb9e41c6aa77fa620",
@@ -3885,7 +3885,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6a04e809-3022-4bad-abed-09c87ba9d4d4_791x881.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/marc-chagall.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-fear-and-opportunity/marc-chagall.png",
                 "source_file": {
                   "bytes": 936226,
                   "md5": "a27c117dac43f10486e4cb4e110e0377",
@@ -3909,7 +3909,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5dd7aca4-0d5a-41f9-b0d2-02fbf3dd3667_901x599.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/albert-einstein.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-fear-and-opportunity/albert-einstein.jpg",
                 "source_file": {
                   "bytes": 77178,
                   "md5": "ff473596f3b7c7eb5635852d4a7c24f3",
@@ -3933,7 +3933,7 @@
               {
                 "index": 4,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7f51e46-718b-4939-a92d-ab2eb2f6c483_600x748.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-fear-and-opportunity/richard-feynman.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-fear-and-opportunity/richard-feynman.jpg",
                 "source_file": {
                   "bytes": 107489,
                   "md5": "525ee2f61f4ddb16655a12b99732cb72",
@@ -4733,7 +4733,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6de30887-7488-40e1-a615-7668741b51e0_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-running/shayan-after-running.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-running/shayan-after-running.jpg",
                 "source_file": {
                   "bytes": 1274084,
                   "md5": "b27938156668e4ee3bdb2074a848e857",
@@ -5104,7 +5104,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dff900f5-5d55-4e37-bea3-30caf3e54a7d_1280x720.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-did-it/thaly-ai-kickstarter.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-did-it/thaly-ai-kickstarter.png",
                 "source_file": {
                   "bytes": 249013,
                   "md5": "a7d520914969c1028cd91d20f1981214",
@@ -5128,7 +5128,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4ca9aae2-3003-4210-afc2-99124c6db08c_2562x1238.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-did-it/zero-inbox.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-did-it/zero-inbox.png",
                 "source_file": {
                   "bytes": 314987,
                   "md5": "42344e42ddd7e5eb226e7907ddb78b2c",
@@ -5455,7 +5455,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d64781e4-980f-424c-818b-6f80d15f71ed_1024x593.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-two-layers-of-the-universe/cosmic-nebula.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-two-layers-of-the-universe/cosmic-nebula.webp",
                 "source_file": {
                   "bytes": 104544,
                   "md5": "0c8d2a6e1bd6f7a1a12406d473de219a",
@@ -5479,7 +5479,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5a36eed5-45de-41e7-97d4-82196764f157_3462x2228.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-two-layers-of-the-universe/spiral-galaxy.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-two-layers-of-the-universe/spiral-galaxy.jpg",
                 "source_file": {
                   "bytes": 1120638,
                   "md5": "b7cd8f7f59c30340f2a3f559bcd3a9a4",
@@ -5749,7 +5749,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f779ac65-6341-4728-83b1-1785a4abc2cb_736x1039.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/inter-conceptual-travel/vegeta-power-level.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/inter-conceptual-travel/vegeta-power-level.jpg",
                 "source_file": {
                   "bytes": 76658,
                   "md5": "c7f9b527801221a063eb3aa9e4ae8e9f",
@@ -11029,7 +11029,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9fd38e61-d9d2-4b44-9f84-1d8347888196_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/paros-greece.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/paros-greece.jpg",
                 "source_file": {
                   "bytes": 2425949,
                   "md5": "0e4c9cfd4ffe0782f5c156495bf10c34",
@@ -11064,7 +11064,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a101d505-f3d7-4ca3-b0e0-b9098a88a200_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/greek-sunset.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/greek-sunset.jpg",
                 "source_file": {
                   "bytes": 1264237,
                   "md5": "b2fb893b4ca78a90c72b3123e32239cc",
@@ -11099,7 +11099,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5b11ca0-8306-4719-ba47-1cd641dc5961_4284x5712.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-greatest-cover-letter-of-all/shayan-in-monaco.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-greatest-cover-letter-of-all/shayan-in-monaco.jpg",
                 "source_file": {
                   "bytes": 2281390,
                   "md5": "c34d2ddddbd729ac1a25345cf8e8bb8a",
@@ -12545,7 +12545,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bc0b3c2b-75b1-4540-bbe5-a17afea84e1e_1180x1180.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-hidden-variable/polygons-converging-on-circle.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-hidden-variable/polygons-converging-on-circle.png",
                 "source_file": {
                   "bytes": 145738,
                   "md5": "8dae7047af15539aad0efa0b8481f3a6",
@@ -12569,7 +12569,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bcbe0165-456a-49d1-9e99-865d8ca0c3a6_1180x1124.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-hidden-variable/nested-geometric-shapes.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-hidden-variable/nested-geometric-shapes.png",
                 "source_file": {
                   "bytes": 135442,
                   "md5": "429f773acd82a8cbe2fb148431449051",
@@ -13968,7 +13968,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dfe49429-f76d-469b-b599-250259f98b1f_700x467.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/intrepid-to-the-stars/sam-altman-at-white-house.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/intrepid-to-the-stars/sam-altman-at-white-house.webp",
                 "source_file": {
                   "bytes": 19892,
                   "md5": "6fd1bd2369151a383e426efc31158609",
@@ -16410,7 +16410,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/069baad2-8d40-48be-96da-52ae98fa1f61_640x320.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-depth-of-your-education/julia-butterfly-hill.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-depth-of-your-education/julia-butterfly-hill.webp",
                 "source_file": {
                   "bytes": 44738,
                   "md5": "b438cf1e4755337b14db86c7ddc70e4f",
@@ -16886,7 +16886,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f376c722-fd01-48e7-9548-50eb218e73b4_800x450.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/factory.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-upward-mobility/factory.webp",
                 "source_file": {
                   "bytes": 67530,
                   "md5": "470a2e52fdc68af8b9eda56982889420",
@@ -16910,7 +16910,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5a91bf74-5d70-4eb9-83f6-8d2f558ca776_183x276.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-upward-mobility/philosopher.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-upward-mobility/philosopher.jpg",
                 "source_file": {
                   "bytes": 5278,
                   "md5": "4901a08f37d78ca886ae67d05548137c",
@@ -17466,7 +17466,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9746616b-2324-45be-bc5b-3808a009d76b_4284x5712.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/people-dont-appreciate-this-enough/mountain.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/people-dont-appreciate-this-enough/mountain.jpg",
                 "source_file": {
                   "bytes": 5023659,
                   "md5": "d4e9c1ff069b6988200a84aa392b67b1",
@@ -17961,7 +17961,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c68279bf-4d43-4c27-828a-b8cfd8d1d707_1000x1500.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-l.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-catch-a-thief/death-note-light-and-l.jpg",
                 "source_file": {
                   "bytes": 153391,
                   "md5": "721add4c8b487e0cc7fa88ffb9d86daa",
@@ -17985,7 +17985,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c29ca362-26c0-44a3-b39a-7e211eefbced_334x500.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-catch-a-thief/death-note-light-and-ryuk.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-catch-a-thief/death-note-light-and-ryuk.jpg",
                 "source_file": {
                   "bytes": 38532,
                   "md5": "b0b2da78d9a8d06e3627ae43af63f0af",
@@ -18236,7 +18236,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5f1137a-26b8-4864-b64c-da03d87d7eff_678x452.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-satoshi/who-is-satoshi.jpg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-satoshi/who-is-satoshi.jpg",
                 "source_file": {
                   "bytes": 27315,
                   "md5": "3a792a7efa5a8fa3bebaadf71d459b96",
@@ -18770,7 +18770,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f1b2b6f9-7f9f-4b20-ae8a-c4a57bbaf16c_631x300.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/where-is-gods-place/judgemental-god.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/where-is-gods-place/judgemental-god.webp",
                 "source_file": {
                   "bytes": 41638,
                   "md5": "ff99bd189a21c9c4d7db1e03378e0226",
@@ -19990,7 +19990,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fd3fe4e-0aad-494d-9827-01f73663244b_1040x667.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/what-is-love/state-machine-diagram.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/what-is-love/state-machine-diagram.png",
                 "source_file": {
                   "bytes": 162638,
                   "md5": "1dc5d412dfe1e2b847c448eccb0c4ca5",
@@ -20285,7 +20285,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bbce6bc1-2db9-4807-ad59-e743f8d11258_1280x964.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-cycle.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/pain-pleasure-cycle.jpeg",
                 "source_file": {
                   "bytes": 109870,
                   "md5": "986ee72a6aaae0141b847e1800f6cd49",
@@ -20309,7 +20309,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/061c71bd-294d-4f7b-8c6b-dc22eceba3e7_1280x964.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/pain-pleasure-equilibrium.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/pain-pleasure-equilibrium.png",
                 "source_file": {
                   "bytes": 105972,
                   "md5": "0209b09fef2381e707ed5017d00bc52c",
@@ -20333,7 +20333,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/057ecaf9-a312-4ffe-966c-b01c775cdbd5_1000x600.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pain-pleasure-and-redemption/rest-and-equilibrium.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pain-pleasure-and-redemption/rest-and-equilibrium.png",
                 "source_file": {
                   "bytes": 60981,
                   "md5": "fd78cbd87375f1be327547a8853762f3",
@@ -20623,7 +20623,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d18280de-1348-432f-8176-360ec5ce6a7c_1024x1024.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/your-lucky-week/lucky-week-probability.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/your-lucky-week/lucky-week-probability.png",
                 "source_file": {
                   "bytes": 1939586,
                   "md5": "a075297a0a91f8fc76104811b266eacb",
@@ -21121,7 +21121,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/074132da-4cc1-4375-9fa7-2c30b025cc98_1292x727.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-email-manager.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-email-manager.jpeg",
                 "source_file": {
                   "bytes": 82999,
                   "md5": "314d79b8ea0f744aca3ae29ffbcaa4f0",
@@ -21145,7 +21145,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/49bb891f-aff7-4c8e-8582-52a3fd9670bf_1179x2556.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-mobile-search.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ad-zero-inbox-email-cleaner-and-manager/zero-inbox-mobile-search.png",
                 "source_file": {
                   "bytes": 216988,
                   "md5": "3850d1fbe2c7a0ae9c2fedc4638fa819",
@@ -21440,7 +21440,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5f31fb50-5af1-4a75-a8df-d416553af5cd_250x306.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/notorious-big-crown.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/notorious-big-crown.jpeg",
                 "source_file": {
                   "bytes": 17767,
                   "md5": "9c187518f733982658f493867232838d",
@@ -21464,7 +21464,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a5a906ef-fdc3-439c-b57e-664f45b647cb_1200x800.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/brooklyn-bridge-new-york.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/brooklyn-bridge-new-york.jpeg",
                 "source_file": {
                   "bytes": 187395,
                   "md5": "ce4bd838b9c343223e5abe19da44e696",
@@ -21488,7 +21488,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/decf36c8-71c2-43dd-9f1e-2baccd1d9d4c_3840x1920.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/tariff-wars-and-email-inboxes/golden-gate-bridge.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/tariff-wars-and-email-inboxes/golden-gate-bridge.avif",
                 "source_file": {
                   "bytes": 359310,
                   "md5": "2ab23dc46a519a411ff19459374af901",
@@ -22075,7 +22075,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fccf5d51-8fde-4d2d-977e-f26a79654a3d_1204x796.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/warren-buffett/warren-buffett-portrait.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/warren-buffett/warren-buffett-portrait.png",
                 "source_file": {
                   "bytes": 1086020,
                   "md5": "caf6ddf5484fbc772c28acab7ba2b612",
@@ -22366,7 +22366,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46481fbe-a2c6-4d60-baab-fcb5bc8be134_312x312.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/invest-in-yourself/bearded-philosopher-portrait.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/invest-in-yourself/bearded-philosopher-portrait.webp",
                 "source_file": {
                   "bytes": 15998,
                   "md5": "c6dbf186199f88d0f979c9d40d59f221",
@@ -22684,7 +22684,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fc59046-2da0-43ab-b782-cf599026501d_1200x1600.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/marcus-aurelius-bust.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/given/marcus-aurelius-bust.jpeg",
                 "source_file": {
                   "bytes": 257805,
                   "md5": "17bbfffe5e6f68df08a20b6f027d4561",
@@ -22708,7 +22708,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8635ea10-98c3-44bc-adf5-90edc935e7f2_300x168.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/given/stoic-emperor-statue.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/given/stoic-emperor-statue.jpeg",
                 "source_file": {
                   "bytes": 11228,
                   "md5": "5e7b78c638159ec77e3fbb3c35fdf06d",
@@ -26309,7 +26309,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/796a4ddb-3904-413a-9972-df964ac7e1b5_483x710.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sickness/hippocrates-engraving.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sickness/hippocrates-engraving.jpeg",
                 "source_file": {
                   "bytes": 244982,
                   "md5": "5dbb24cf2cadc3a2055eff764281bd5d",
@@ -26673,7 +26673,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/375a4f24-493c-4c11-a862-1a1d9a37d224_275x183.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-apple-of-my-eye/creation-of-adam-hands.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-apple-of-my-eye/creation-of-adam-hands.jpeg",
                 "source_file": {
                   "bytes": 5510,
                   "md5": "98917a66e38a82add77f1b5e6df01141",
@@ -27163,7 +27163,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e33d7972-0dd8-46fe-84cd-b5b7f35d57e4_1685x1123.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/who-is-the-father-of-silicon-valley/dave-muffly-apple-arborist.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/who-is-the-father-of-silicon-valley/dave-muffly-apple-arborist.webp",
                 "source_file": {
                   "bytes": 120992,
                   "md5": "b9e893c8d1ea159cfad8f629deb0ecbd",
@@ -27750,7 +27750,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f33ccdc2-210e-43ad-bf99-5d3badbeab28_1400x700.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/divergence/arthur-dent-and-marvin-time.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/divergence/arthur-dent-and-marvin-time.avif",
                 "source_file": {
                   "bytes": 108578,
                   "md5": "842319ddd0a43903e40a3028e20e4606",
@@ -28117,7 +28117,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b3bd0393-ffe5-4c36-9514-492402c9ec40_1080x1080.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/quantum-coders/engineer-laying-bricks.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/quantum-coders/engineer-laying-bricks.jpeg",
                 "source_file": {
                   "bytes": 196740,
                   "md5": "af0341e4c3ab731b136f21861c5a7e94",
@@ -28410,7 +28410,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/839ca3ea-2491-4012-98f5-36321c032b64_301x167.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/sign-here-please/franz-kafka-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/sign-here-please/franz-kafka-portrait.jpeg",
                 "source_file": {
                   "bytes": 7445,
                   "md5": "3fd8b321a0c637cc5f8077b8f89941b5",
@@ -28682,7 +28682,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/208039db-fa00-47f9-b014-b5cc9bb0db60_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-addiction/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-addiction/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -29147,7 +29147,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/51824680-5ff0-484f-99ed-63be85c3604d_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/generating-the-absurd/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/generating-the-absurd/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -29402,7 +29402,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9c37ab85-5d0a-4d0a-ad58-5c5801019cd0_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-serve/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/to-serve/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -29616,7 +29616,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4dbfa1cf-e140-4330-a0c4-10b8c4d506e3_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-belief-systems/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-belief-systems/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -29895,7 +29895,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/031d5951-46c7-47c1-ba05-efc57fe5a35f_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/empires-with-umpires/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/empires-with-umpires/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -30129,7 +30129,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b1783d68-0ae0-4f17-a4c0-dadfb4af7c5b_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos/mykonos-sunset.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mykonos/mykonos-sunset.jpeg",
                 "source_file": {
                   "bytes": 613822,
                   "md5": "acc521f8940d72e7cc6799d41da2c7d8",
@@ -30353,7 +30353,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a61d3b1f-ff78-41ac-900a-687d97d382ab_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-pillars/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-pillars/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -30672,7 +30672,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/408074e9-8e1a-4ee3-9e56-da1a2b722f95_385x500.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/nearology/shepherd-and-sheep.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/nearology/shepherd-and-sheep.jpeg",
                 "source_file": {
                   "bytes": 219104,
                   "md5": "231e6edf656fb01157df19a21ee4fcf0",
@@ -31152,7 +31152,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d31d0a02-aedd-4505-8100-34eaeb9a3bb1_718x401.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour/the-end-of-labour.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-end-of-labour/the-end-of-labour.webp",
                 "source_file": {
                   "bytes": 23182,
                   "md5": "65ea0f766d13b7b85dc02a673f0a7c0e",
@@ -31455,7 +31455,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8f66f3a5-5408-4983-afa3-9672a4983dd1_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-truth/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-truth/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -31686,7 +31686,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/23d9f593-c8be-43cc-b54d-1fe13f55c599_3026x2929.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/specifically-what/steve-jobs-holding-iphone-4.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/specifically-what/steve-jobs-holding-iphone-4.jpeg",
                 "source_file": {
                   "bytes": 1583600,
                   "md5": "44ab0a96ad53526f28035785b8eb30c5",
@@ -32219,7 +32219,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/873342a5-185d-45fc-87b8-1e97e34514fb_1276x1600.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-wealth/aristotle-bust.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-wealth/aristotle-bust.webp",
                 "source_file": {
                   "bytes": 232158,
                   "md5": "38c9b756241b922a85d735d27c874329",
@@ -32555,7 +32555,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9249fa7d-de81-4f07-8d54-1108a17af489_3896x2559.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-funniest-shit/the-death-of-socrates.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-funniest-shit/the-death-of-socrates.jpeg",
                 "source_file": {
                   "bytes": 5534896,
                   "md5": "ddf01aa63e83f4477ab9beef75933e7d",
@@ -32834,7 +32834,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/92721578-3122-41ee-9907-41d664012e5a_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/all-is-observance/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/all-is-observance/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -33074,7 +33074,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d721592-aa84-4115-b693-cd4b7f4f11c0_960x540.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-awakening/planets-orbiting-a-star.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-awakening/planets-orbiting-a-star.webp",
                 "source_file": {
                   "bytes": 71172,
                   "md5": "eefef993199d6fd0cbf7bc0a790c6755",
@@ -33880,7 +33880,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac84ded6-ce40-4a38-aaf6-df307f46a4e1_3896x2559.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/courage-to-venture/the-death-of-socrates.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/courage-to-venture/the-death-of-socrates.jpeg",
                 "source_file": {
                   "bytes": 5534896,
                   "md5": "ddf01aa63e83f4477ab9beef75933e7d",
@@ -34582,7 +34582,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ecc00057-f17b-4281-be86-aebdbccd9b0c_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/el-vicco/man-at-cavo-paradiso-mykonos.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/el-vicco/man-at-cavo-paradiso-mykonos.jpeg",
                 "source_file": {
                   "bytes": 2209205,
                   "md5": "73ff3ddd074e50a1a49cb18e10353212",
@@ -35159,7 +35159,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9aed640-713b-4f7f-b999-1d02848db8e2_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-cousin/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-cousin/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -35397,7 +35397,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6ea23-5be9-4866-9182-0e413a07d141_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/wisdom/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/wisdom/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -35599,7 +35599,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/46ffc03a-a73c-4b86-ba5d-678db7a90383_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-gracious/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-gracious/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -36162,7 +36162,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ff6b9ecd-e0e5-42ea-9eee-da7451903081_275x183.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-folding-sheets/red-ferrari-testarossa.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-folding-sheets/red-ferrari-testarossa.jpeg",
                 "source_file": {
                   "bytes": 13519,
                   "md5": "503a96473a078b2d33c2f0fe34c6aa8e",
@@ -37389,7 +37389,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8394f508-9daa-4559-9681-8f4938bedd9f_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/an-athlete-of-life/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/an-athlete-of-life/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -37615,7 +37615,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d201436e-903d-484d-af43-ccdaffbf01be_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-drinker/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-drinker/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -37867,7 +37867,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2027618a-2e86-4776-9bd4-ba69af858fd4_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-me/couple-by-pink-flowers.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-me/couple-by-pink-flowers.jpeg",
                 "source_file": {
                   "bytes": 2278747,
                   "md5": "96716d9d625d91e9908b80b033a20dad",
@@ -38167,7 +38167,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/18a3567c-973a-4733-998f-050f7386afe7_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-equality/man-entering-japanese-bar.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-equality/man-entering-japanese-bar.jpeg",
                 "source_file": {
                   "bytes": 12617886,
                   "md5": "f98a74a138efcd9df680b9b8f1ae10cd",
@@ -38457,7 +38457,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4817090b-9c8a-4588-9ce1-25d86952a9d8_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/rule-breakers/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/rule-breakers/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -39101,7 +39101,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/83b1f1bb-c38f-4489-a344-ef9b1edd9404_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-suffering-c06/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-suffering-c06/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -39584,7 +39584,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/26c6389b-b37d-4a68-b3e3-3910b54ba810_2316x3088.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/belief-systems/self-portrait-against-wood-wall.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/belief-systems/self-portrait-against-wood-wall.jpeg",
                 "source_file": {
                   "bytes": 1048696,
                   "md5": "d1bd34fd4c4913add30b1746a0fe0965",
@@ -40274,7 +40274,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f933e65f-7526-4b0b-adca-96ed940ebe77_1620x2025.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/dying-twice/coastal-cliffs-and-sea.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/dying-twice/coastal-cliffs-and-sea.jpeg",
                 "source_file": {
                   "bytes": 632707,
                   "md5": "3844291c03460a229639926a5699b634",
@@ -40576,7 +40576,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9438aba7-73a5-417c-a1ba-f7defe2e7534_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-most-beautiful/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-most-beautiful/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -40917,7 +40917,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4752c2a-c6bd-421c-ad45-b74069e7602f_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-not-me/santorini-at-night.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-not-me/santorini-at-night.jpeg",
                 "source_file": {
                   "bytes": 1476017,
                   "md5": "ab31e69708d45a0ae0d10ba29375747f",
@@ -41188,7 +41188,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3a74b963-45d2-4cb8-9c2f-5e1bc4cc4dce_1276x1600.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-train-of-philosophy/marble-bust-of-aristotle.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-train-of-philosophy/marble-bust-of-aristotle.webp",
                 "source_file": {
                   "bytes": 232158,
                   "md5": "38c9b756241b922a85d735d27c874329",
@@ -41481,7 +41481,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5b0aba9-8013-4554-b9d3-c3773cb32842_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/environmentalism/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/environmentalism/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -41776,7 +41776,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/38b3d8ee-3ba0-40d9-891c-89cca87e392e_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/you-scratched-it/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/you-scratched-it/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -42234,7 +42234,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/147e65f5-c26f-42f9-bab0-6d7cf3897bcb_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/true-friend/island-sunset-over-bay.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/true-friend/island-sunset-over-bay.jpeg",
                 "source_file": {
                   "bytes": 613822,
                   "md5": "acc521f8940d72e7cc6799d41da2c7d8",
@@ -42717,7 +42717,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/41f325ed-eb55-4822-88ec-6c35e36f3025_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/question-master/hands-passing-a-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/question-master/hands-passing-a-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -43034,7 +43034,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9cf39d2-7df5-441a-aed9-489b7d408d2f_5712x4284.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-miracles/hallgrimskirkja-and-leif-erikson-statue.jpeg",
                 "source_file": {
                   "bytes": 4050855,
                   "md5": "5b52c84f9e8df26063717de330cd6984",
@@ -44619,7 +44619,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1032a775-d019-4eb7-addd-48eb1ea69258_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/business-class-blues/business-class-blues.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/business-class-blues/business-class-blues.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -44874,7 +44874,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d57bc93a-91b2-4798-8ec8-4ae98e2e0e3b_1215x821.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sleep/sleeping-bear-cartoon.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sleep/sleeping-bear-cartoon.webp",
                 "source_file": {
                   "bytes": 53770,
                   "md5": "a880d3117f3c07619494cd48ab28d55c",
@@ -45321,7 +45321,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d51901c6-9a46-4b6b-b4eb-1b3202e78d0a_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate/andrew-tate.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate/andrew-tate.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -45608,7 +45608,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/fe21c6ad-d2bb-44c5-9047-c014b58da3ca_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/to-take-a-stand/to-take-a-stand.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/to-take-a-stand/to-take-a-stand.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -45823,7 +45823,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/bf045f12-3e8b-4c12-8ffe-539c904cb0de_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/andrew-tate-and-exceptionalism/andrew-tate-and-exceptionalism.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/andrew-tate-and-exceptionalism/andrew-tate-and-exceptionalism.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -46169,7 +46169,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7b839916-67f8-4908-919c-2e5bf4737b6a_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/heights-unseen/heights-unseen.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/heights-unseen/heights-unseen.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -46814,7 +46814,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3d881f28-6031-4e13-9cba-55c465372e2c_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/summative/summative.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/summative/summative.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -47366,7 +47366,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b4161bdc-3e5c-4e41-87d1-1c723929150f_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/exceptionalism/exceptionalism.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/exceptionalism/exceptionalism.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -48723,7 +48723,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82184f24-91c8-45f3-9515-34ea6cf9a6db_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startup-weather/startup-weather.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startup-weather/startup-weather.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -49035,7 +49035,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d1bb368f-d4da-4ae0-8ff0-2b13075bb8ed_1216x810.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/pre-donald-trump/donald-trump-in-lobby.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/pre-donald-trump/donald-trump-in-lobby.avif",
                 "source_file": {
                   "bytes": 113779,
                   "md5": "45e4e472a82e4da799224d538f869ad3",
@@ -49457,7 +49457,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b1ea92fa-e9ab-4fb5-b010-d60dfc01a447.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/random-wednesdays/cliffside-town-at-night.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/random-wednesdays/cliffside-town-at-night.jpeg",
                 "source_file": {
                   "bytes": 745389,
                   "md5": "388461e76992888af3ae5063a7967db9",
@@ -49695,7 +49695,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4952b0a6-2482-4490-9e0e-f04eb67978f1_3896x2559.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-artists-life/the-death-of-socrates.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-artists-life/the-death-of-socrates.jpeg",
                 "source_file": {
                   "bytes": 5534896,
                   "md5": "ddf01aa63e83f4477ab9beef75933e7d",
@@ -49934,7 +49934,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/82b9a80e-f86e-41b7-b2c7-37ff211c1367_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-marketing/santorini-at-night.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-marketing/santorini-at-night.jpeg",
                 "source_file": {
                   "bytes": 1476017,
                   "md5": "ab31e69708d45a0ae0d10ba29375747f",
@@ -50634,7 +50634,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2389f39a-7411-4dfe-83e0-c2f4149f3d72_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-good-friend/the-good-friend.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-good-friend/the-good-friend.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -50983,7 +50983,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cf57bca2-14c7-44ce-b4bd-76db134f0e74_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/starting-a-startup/starting-a-startup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/starting-a-startup/starting-a-startup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -52086,7 +52086,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/589f41cb-bcb0-4c6c-bfb7-5e23f8ac1b90_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-motivation/on-motivation.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-motivation/on-motivation.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -52395,7 +52395,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1d2914c-a869-4534-a048-478cea37e007_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/slope-change-philosophy/slope-change-philosophy.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/slope-change-philosophy/slope-change-philosophy.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -55220,7 +55220,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/024cd12c-2a48-4da2-b686-6ec794d8741c_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/modern-philosophy/modern-philosophy.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/modern-philosophy/modern-philosophy.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -56270,7 +56270,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8859ad0f-449a-4944-a549-8ad6ac5d2fd2_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-becoming-exceptional/on-becoming-exceptional.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-becoming-exceptional/on-becoming-exceptional.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -56572,7 +56572,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/797cddd8-1b40-4581-ab7a-ec4cf89fcb35_3896x2559.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/through-him/the-death-of-socrates.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/through-him/the-death-of-socrates.jpeg",
                 "source_file": {
                   "bytes": 5534896,
                   "md5": "ddf01aa63e83f4477ab9beef75933e7d",
@@ -56811,7 +56811,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e8a2f968-21a5-47f7-b0ca-d5c5afc0ec52_3896x2559.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-reality/the-death-of-socrates.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-reality/the-death-of-socrates.jpeg",
                 "source_file": {
                   "bytes": 5534896,
                   "md5": "ddf01aa63e83f4477ab9beef75933e7d",
@@ -57057,7 +57057,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6bace80-c510-4613-b1b0-36c3df44cf27_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-shame-of-exceptionalism/the-shame-of-exceptionalism.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-shame-of-exceptionalism/the-shame-of-exceptionalism.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -57350,7 +57350,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8c0f622f-8a72-4b7a-abe8-b826d657649e_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-daughter-did-what/my-daughter-did-what.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-daughter-did-what/my-daughter-did-what.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -57892,7 +57892,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/45c56878-583b-4ffd-a855-bc2a42be5cd5_2000x2000.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/mykonos-2026/mykonos-2026.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/mykonos-2026/mykonos-2026.png",
                 "source_file": {
                   "bytes": 1075532,
                   "md5": "7a0a12dd8b46aeb1f511c7c825b8a12c",
@@ -58130,7 +58130,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/abc6bc1d-aeec-4589-94f1-22f8be207695_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-loan/on-loan.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-loan/on-loan.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -58954,7 +58954,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8da30212-a917-4737-84f7-232f94f3ee10_1200x675.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/we-all-want-to-be-goku/goku-super-saiyan.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/we-all-want-to-be-goku/goku-super-saiyan.webp",
                 "source_file": {
                   "bytes": 82590,
                   "md5": "6f69721186caba6792523beb72bdffa0",
@@ -59242,7 +59242,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/984067eb-1915-4db1-90ed-911196e384f8_1200x630.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-production/forest-river-landscape.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-production/forest-river-landscape.jpeg",
                 "source_file": {
                   "bytes": 196607,
                   "md5": "2d4b230b31a7614159197a4f09a11746",
@@ -59580,7 +59580,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3662884b-5b8d-4f63-a146-890947a0c3dc_2048x1365.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ask-god-not/empire-state-building-fifth-avenue.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ask-god-not/empire-state-building-fifth-avenue.jpeg",
                 "source_file": {
                   "bytes": 848124,
                   "md5": "ea78c5b9403cdafb6b192aaccab6ecb5",
@@ -59833,7 +59833,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d3cb6dd-46bd-44f1-866a-96ddf420bf48_3072x1536.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-don-15b/coastal-town-and-sea-stacks.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-don-15b/coastal-town-and-sea-stacks.avif",
                 "source_file": {
                   "bytes": 1259417,
                   "md5": "f8fa99a9cbf5c7472e58598edac67e81",
@@ -60674,7 +60674,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/2599ddf5-405d-4448-8a89-2454f42ad428_2048x1365.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/billion-dollar-baby/empire-state-building-fifth-avenue.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/billion-dollar-baby/empire-state-building-fifth-avenue.jpeg",
                 "source_file": {
                   "bytes": 848124,
                   "md5": "ea78c5b9403cdafb6b192aaccab6ecb5",
@@ -61118,7 +61118,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/99172d3e-a2e5-44ef-8f99-3751029d05d0_1170x1560.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-famy/couple-on-mykonos-street.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-famy/couple-on-mykonos-street.jpeg",
                 "source_file": {
                   "bytes": 340421,
                   "md5": "1f94ffe2a01dad58e2605a9ebf72ac6d",
@@ -61382,7 +61382,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ad4442c5-74aa-4613-86ad-619ccbca6e63_2048x1365.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/economy-in-five/empire-state-building-fifth-avenue.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/economy-in-five/empire-state-building-fifth-avenue.jpeg",
                 "source_file": {
                   "bytes": 848124,
                   "md5": "ea78c5b9403cdafb6b192aaccab6ecb5",
@@ -61842,7 +61842,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/098b22b6-69f2-4daa-b548-ae35288383a1_275x184.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-red-purse/hands-exchanging-red-cup.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-red-purse/hands-exchanging-red-cup.jpeg",
                 "source_file": {
                   "bytes": 6122,
                   "md5": "92c2ad6343e3b3630bee389a5101e441",
@@ -62154,7 +62154,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f7913e55-d2e8-4589-9047-6a5bf40202fd_1440x1920.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-global-religion/nightclub-selfie-sunglasses.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-global-religion/nightclub-selfie-sunglasses.jpeg",
                 "source_file": {
                   "bytes": 606967,
                   "md5": "8cbde658410de55479be9ca6640392b7",
@@ -62725,7 +62725,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/72d0c33d-a1e6-421f-a15a-1755cebb328f_1440x1920.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/opposing-reactions/nightclub-selfie-sunglasses.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/opposing-reactions/nightclub-selfie-sunglasses.jpeg",
                 "source_file": {
                   "bytes": 606967,
                   "md5": "8cbde658410de55479be9ca6640392b7",
@@ -63747,7 +63747,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/884299b6-d17b-4927-80b2-9a968da65f13_1456x2592.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/cubist-painting-five-women.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/cubist-painting-five-women.jpeg",
                 "source_file": {
                   "bytes": 520632,
                   "md5": "2c5f0424ef29c401596f2b38e4c90d87",
@@ -63771,7 +63771,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/234784d6-f7f6-451d-9e8e-0c85773289e7_1456x2592.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/surreal-painting-statue-glove.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/surreal-painting-statue-glove.jpeg",
                 "source_file": {
                   "bytes": 341685,
                   "md5": "04ad6cbd21f6421f6e56a8fcd1e96a0d",
@@ -63795,7 +63795,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/cbb08442-4d97-4b64-9ebc-03fd25b6b407_590x442.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-subcontext-rule/two-men-dim-sum-restaurant.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-subcontext-rule/two-men-dim-sum-restaurant.jpeg",
                 "source_file": {
                   "bytes": 103882,
                   "md5": "e00429b32c093f59f34f83091132accd",
@@ -64577,7 +64577,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/610834fb-27a7-4cb9-adff-236e8095370e_1170x2080.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/golden-words/man-pink-hammock-last-day-apple.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/golden-words/man-pink-hammock-last-day-apple.jpeg",
                 "source_file": {
                   "bytes": 721950,
                   "md5": "8f707e18c006e58468f3230719868737",
@@ -64835,7 +64835,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6c8ef3e2-58fa-4815-b1ef-0f970aeeeb52_734x1120.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/head-pool-stars-illustration.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/3-steps-to-god/head-pool-stars-illustration.png",
                 "source_file": {
                   "bytes": 153848,
                   "md5": "8bef1a3e452a95bc5fe9e5585168b35d",
@@ -64859,7 +64859,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/23500c82-6ef1-4197-9ba3-8f7bdd76cc2f_500x281.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/3-steps-to-god/sushi-masters-counter.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/3-steps-to-god/sushi-masters-counter.jpeg",
                 "source_file": {
                   "bytes": 21899,
                   "md5": "7dd969110f488b52c8a44f6e403e6134",
@@ -65119,7 +65119,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/843f5ec6-db43-45dc-8e10-385574ee2a61_1071x838.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money/bearded-man-poker-chips.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money/bearded-man-poker-chips.jpeg",
                 "source_file": {
                   "bytes": 103988,
                   "md5": "6ccc05985f0c5439fb2402bd8181156c",
@@ -65431,7 +65431,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/7e42ade6-6a2c-48c5-92b4-7aaa6d610ffd_299x168.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-pointing.jpeg",
                 "source_file": {
                   "bytes": 12718,
                   "md5": "328ae4ed66ba072100433ff9ac0a7c83",
@@ -65455,7 +65455,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0e2a9bd6-9cce-4907-ab42-6cad6eb5ba24_200x252.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-standing.jpeg",
                 "source_file": {
                   "bytes": 14548,
                   "md5": "302b8c0f216f4d3748b9fac4f4e5f933",
@@ -65479,7 +65479,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3697a92-203c-470c-b149-b813257197f1_299x168.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-pointing-again.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-pointing-again.jpeg",
                 "source_file": {
                   "bytes": 12718,
                   "md5": "328ae4ed66ba072100433ff9ac0a7c83",
@@ -65503,7 +65503,7 @@
               {
                 "index": 4,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4f948a7c-ec03-43cd-afbd-6c30b4a2ea1c_200x252.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-standing-again.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-standing-again.jpeg",
                 "source_file": {
                   "bytes": 14548,
                   "md5": "302b8c0f216f4d3748b9fac4f4e5f933",
@@ -65527,7 +65527,7 @@
               {
                 "index": 5,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/d83eca52-04a3-40fd-be19-14a1d93215c7_207x243.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/spongebob-dancing-underwater.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/spongebob-dancing-underwater.jpeg",
                 "source_file": {
                   "bytes": 18264,
                   "md5": "b97ad8c8545f5552d4248c9352d1a32b",
@@ -65551,7 +65551,7 @@
               {
                 "index": 6,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/a51db382-d2cd-4265-ad66-0724da803d10_225x225.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/sandy-cheeks-flexing.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/sandy-cheeks-flexing.jpeg",
                 "source_file": {
                   "bytes": 9826,
                   "md5": "76371df225a56627eadbd4d97a3b7e5b",
@@ -65575,7 +65575,7 @@
               {
                 "index": 7,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b90b0544-ca1f-4462-b84c-ab130dfe5f46_405x720.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/money-2/man-outdoor-selfie.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/money-2/man-outdoor-selfie.jpeg",
                 "source_file": {
                   "bytes": 51508,
                   "md5": "26d81e05ad9d863d5327775b798e9102",
@@ -66021,7 +66021,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd42aaef-6b79-42d6-afdd-9c17c9c44b46_1080x1673.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-scientist.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startups/apple-think-different-scientist.webp",
                 "source_file": {
                   "bytes": 267634,
                   "md5": "f36f0d86287b6be3d5890a97e75c82fa",
@@ -66045,7 +66045,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4fe48950-80df-4179-983a-9d247c3bfc20_320x388.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/startups/apple-think-different-woman.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/startups/apple-think-different-woman.jpeg",
                 "source_file": {
                   "bytes": 41515,
                   "md5": "2a40a9835c95ee2cdd71198f43576455",
@@ -66668,7 +66668,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0db8c60d-f512-4d17-b1d5-d40f0a596653_185x272.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/single-step-theory/hippocrates-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/single-step-theory/hippocrates-portrait.jpeg",
                 "source_file": {
                   "bytes": 12039,
                   "md5": "f4f33b5dfa69adb534c1615914a17e92",
@@ -67197,7 +67197,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e5bab2da-f6a6-422f-88ac-2402905fa4fe_185x272.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/onto-logic/hippocrates-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/onto-logic/hippocrates-portrait.jpeg",
                 "source_file": {
                   "bytes": 12039,
                   "md5": "f4f33b5dfa69adb534c1615914a17e92",
@@ -67498,7 +67498,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/77afe184-7d93-4fff-950f-d751b481625a_1080x809.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/paths-journeys-goals-and/couple-ocean-overlook.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/paths-journeys-goals-and/couple-ocean-overlook.jpeg",
                 "source_file": {
                   "bytes": 63418,
                   "md5": "697090000e58e57fa1909f76e05670dd",
@@ -70428,7 +70428,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/376ddf00-4fea-4c03-b593-731c2d1d7b54_4000x2992.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/i-meditated-for-3-hours/stone-wall-ocean-coast.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/i-meditated-for-3-hours/stone-wall-ocean-coast.jpeg",
                 "source_file": {
                   "bytes": 2480059,
                   "md5": "68eabf2aff5522acd64649802af5943a",
@@ -70735,7 +70735,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5398012b-812a-480d-b5f2-435709150c6d_500x376.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-lying/three-friends-laughing.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-lying/three-friends-laughing.jpeg",
                 "source_file": {
                   "bytes": 43546,
                   "md5": "55faa68997292b8693887b40822da9bc",
@@ -73305,7 +73305,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/19e02cd6-c29b-42df-bbcd-919416eeccaa_350x471.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/aha-business/business-ha-ha-meme.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/aha-business/business-ha-ha-meme.jpeg",
                 "source_file": {
                   "bytes": 39492,
                   "md5": "3bceca25f5d836b4828bf9c942469c4a",
@@ -73708,7 +73708,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8fcfbf90-1aea-4938-af91-b06395dbfe7b_3072x1536.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-youth/sicilian-coast-and-rock-formations.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-youth/sicilian-coast-and-rock-formations.avif",
                 "source_file": {
                   "bytes": 1259417,
                   "md5": "f8fa99a9cbf5c7472e58598edac67e81",
@@ -73904,7 +73904,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f446a2e6-bb2d-40fe-88ec-837aa7fef0b9_1179x2556.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-sand/paypal-low-balance-notification.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-sand/paypal-low-balance-notification.png",
                 "source_file": {
                   "bytes": 5760340,
                   "md5": "5b4e33b06440559835847613cc7b992e",
@@ -74923,7 +74923,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/4a64c98b-1b65-4591-ac86-473ac0b8f72f_210x240.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/working/ghost-in-the-shell-artwork.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/working/ghost-in-the-shell-artwork.jpeg",
                 "source_file": {
                   "bytes": 23598,
                   "md5": "475f013ad70ae4fbdfb23646d53556b7",
@@ -75314,7 +75314,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e6f84e20-70bb-4b3f-9771-0d83dc99601e_199x253.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-mind-and-suicide-and-jesus/jackie-chan-fighting-pose.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-mind-and-suicide-and-jesus/jackie-chan-fighting-pose.jpeg",
                 "source_file": {
                   "bytes": 8269,
                   "md5": "d65928d6024ef1bb1a8cd96bc464f655",
@@ -75863,7 +75863,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/65d77fb7-5db0-4dfe-ae62-ebb87f905efe_2316x3088.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/moments/man-trying-pink-sunglasses.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/moments/man-trying-pink-sunglasses.jpeg",
                 "source_file": {
                   "bytes": 1642550,
                   "md5": "75552f48fdf39ae7f7ba5db892dc3682",
@@ -76133,7 +76133,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5772c6f1-6640-429c-a959-d315cbd17ae0_4000x2992.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/genie-in-a-bottle/stone-wall-ocean-coast.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/genie-in-a-bottle/stone-wall-ocean-coast.jpeg",
                 "source_file": {
                   "bytes": 2480059,
                   "md5": "68eabf2aff5522acd64649802af5943a",
@@ -76928,7 +76928,7 @@
                 "index": 1,
                 "usage": "thumbnail",
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/05e33744-ddeb-44c3-8aaa-3772b8f1d496_275x183.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-one-person-billion-dollar-company/sam-altman-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-one-person-billion-dollar-company/sam-altman-portrait.jpeg",
                 "source_file": {
                   "bytes": 6306,
                   "md5": "4d65540ca13b305c1f802eea6d00a879",
@@ -78188,7 +78188,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b16e758b-29d5-404c-9cc6-42efd429f2da_210x240.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/ghost-in-the-shell-artwork.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-ai-will-replace-us/ghost-in-the-shell-artwork.jpeg",
                 "source_file": {
                   "bytes": 23598,
                   "md5": "475f013ad70ae4fbdfb23646d53556b7",
@@ -78212,7 +78212,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/043b69ae-a3e2-4536-b7be-848da580d61a_2316x3088.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-ai-will-replace-us/man-trying-pink-sunglasses.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-ai-will-replace-us/man-trying-pink-sunglasses.jpeg",
                 "source_file": {
                   "bytes": 4513623,
                   "md5": "84a304a2305d9fd8ce2b00ad87ad7e3f",
@@ -78539,7 +78539,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/3e76a881-dfeb-42bf-8b1a-752acfccee0b_945x630.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-new-depression/david-attenborough-outdoors.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-new-depression/david-attenborough-outdoors.jpeg",
                 "source_file": {
                   "bytes": 59941,
                   "md5": "6f42bb3ffc4d140e68be449ad0d7688f",
@@ -79140,7 +79140,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f6615f87-7407-4a90-a33e-6df5c8804c2a_2560x1706.avif",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/team-usa-hockey-players-gold-medals.avif",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/forms-of-the-mind/team-usa-hockey-players-gold-medals.avif",
                 "source_file": {
                   "bytes": 141738,
                   "md5": "589c65582b4473f99fd62b354ed3a2b6",
@@ -79164,7 +79164,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/db7a6519-fdcb-4b81-bf6b-883806cbb376_289x450.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/forms-of-the-mind/kanye-west-grammy-award.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/forms-of-the-mind/kanye-west-grammy-award.jpeg",
                 "source_file": {
                   "bytes": 33694,
                   "md5": "dcaa6311f3f766d0ee6dcee12b1b2253",
@@ -80222,7 +80222,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f3ebf560-2f4f-45ce-9deb-7d77851b2ea5_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/man-wearing-poncho-in-clothing-shop.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-startup-algorithm/man-wearing-poncho-in-clothing-shop.jpeg",
                 "source_file": {
                   "bytes": 3061962,
                   "md5": "71e4172cb146a6315602b8403f93a921",
@@ -80257,7 +80257,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/93bd1ca6-ac8d-44b5-b08b-34d036bd80cb_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-startup-algorithm/friends-nighttime-selfie.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-startup-algorithm/friends-nighttime-selfie.jpeg",
                 "source_file": {
                   "bytes": 2657225,
                   "md5": "8282b1a48f30fd08ea251820c4c194b7",
@@ -81112,7 +81112,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e84842a0-0e92-4acf-9a25-4f3339a8985b_2316x3088.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-party/friends-at-party.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-party/friends-at-party.jpeg",
                 "source_file": {
                   "bytes": 1666439,
                   "md5": "a7fd766d56801dd4b76730cd288bf3c1",
@@ -81358,7 +81358,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/73f5daee-65d3-4e1a-91b4-61eac9912bab.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/cherry-blossom-tree.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-discombobulator/cherry-blossom-tree.jpeg",
                 "source_file": {
                   "bytes": 4439495,
                   "md5": "6196509e72d822876ee9ddd2b5eba48a",
@@ -81393,7 +81393,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/48192ac5-56f5-4fc3-b80b-4e87688590c2_826x1102.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-discombobulator/man-on-rooftop-patio.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-discombobulator/man-on-rooftop-patio.jpeg",
                 "source_file": {
                   "bytes": 189564,
                   "md5": "c63de4808a562df22e390a854280a922",
@@ -84611,7 +84611,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed09f9ee-9066-4fc9-8186-a658ddc58255_2316x3088.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/grandstanding/man-wearing-sunglasses-and-scarf.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/grandstanding/man-wearing-sunglasses-and-scarf.jpeg",
                 "source_file": {
                   "bytes": 2544626,
                   "md5": "392cb778efdd1db148ed595d43e0a2c1",
@@ -85356,7 +85356,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9637c648-4ee5-4a30-9416-1fa88c36d6b2_2870x3827.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-door.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/chianti-door.webp",
                 "source_file": {
                   "bytes": 619456,
                   "md5": "822db10bc8eb1e165c35a3217c5d5b97",
@@ -85380,7 +85380,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6ae7069d-3ef6-4404-a678-9f1f84cd3393_3024x4032.webp",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/chianti-wine-flight.webp",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/chianti-wine-flight.webp",
                 "source_file": {
                   "bytes": 644056,
                   "md5": "857a271b1c82167822276012338e8a54",
@@ -85404,7 +85404,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6cd7cee9-42d3-4499-8baf-c351be904beb_4032x3024.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/private-wine-tastings-in-italy/greve-street-dinner.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/private-wine-tastings-in-italy/greve-street-dinner.jpeg",
                 "source_file": {
                   "bytes": 2887307,
                   "md5": "4ec92429b73f76cfb1cf3f69e07312f7",
@@ -86298,7 +86298,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5c364691-a0a9-4c84-b07b-7e71270a7062_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/man-at-pena-palace.jpeg",
                 "source_file": {
                   "bytes": 2900223,
                   "md5": "53642914749286fb15af9416cc1423a2",
@@ -86322,7 +86322,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ea917a33-ea8b-413a-a9b8-91df451db98a_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/surfboard-at-sunset.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/surfboard-at-sunset.jpeg",
                 "source_file": {
                   "bytes": 2315757,
                   "md5": "f0c0786a263bd055e40265b1cfb5c9dd",
@@ -86346,7 +86346,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/97fd1956-0a91-473d-9b02-91036a965b0c_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/how-to-code-with-ai-agents/man-at-pena-palace-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/how-to-code-with-ai-agents/man-at-pena-palace-portrait.jpeg",
                 "source_file": {
                   "bytes": 2409049,
                   "md5": "e3f65793d25cf217d5ccf945ffb75b1b",
@@ -86690,7 +86690,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/5eed0d99-4d41-45e2-91d4-b04a01ab6aea_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/flower-covered-house.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/flower-covered-house.jpeg",
                 "source_file": {
                   "bytes": 5511596,
                   "md5": "e4a9759ee81f83f3e3e0cbc5588890ff",
@@ -86714,7 +86714,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/e1925a68-6abc-419e-925b-f03d5712e56b_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/watermelons-and-tomatoes.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/watermelons-and-tomatoes.jpeg",
                 "source_file": {
                   "bytes": 4371486,
                   "md5": "32bd14079bdcd6aacb504c31c90a46b9",
@@ -86738,7 +86738,7 @@
               {
                 "index": 3,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6e0b4d90-ae4c-429b-9675-c0bef4d9b4d9_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/many-startups/white-building-blue-shutters.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/many-startups/white-building-blue-shutters.jpeg",
                 "source_file": {
                   "bytes": 2750530,
                   "md5": "b9ad53e3c872cb5decc6ffd3cb56c4be",
@@ -88363,7 +88363,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9b985515-ed16-49a7-a69b-f871e03a202d_1206x409.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-doctor/doctor-advice.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-doctor/doctor-advice.jpeg",
                 "source_file": {
                   "bytes": 68971,
                   "md5": "8b877bd76f5bb41eb6bcae593718ef0c",
@@ -88877,7 +88877,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/307b6eef-aab8-435b-a3f1-757888e3c046_2466x1290.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/getting-busy/zero-inbox-autoscaling-dashboard.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/getting-busy/zero-inbox-autoscaling-dashboard.png",
                 "source_file": {
                   "bytes": 193089,
                   "md5": "ecf0f6e0d6a32565eaf50fd769ddc6f0",
@@ -89205,7 +89205,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/6bb1bcf1-f666-4004-979d-e0a0cbc41ab6_720x1280.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/2-am-coding-session/late-night-coding-session.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/2-am-coding-session/late-night-coding-session.jpeg",
                 "source_file": {
                   "bytes": 163957,
                   "md5": "c1014129cc26a70a734dd1c05833cc9a",
@@ -90425,7 +90425,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/ed36ab02-aa4b-444a-b373-8d17754055ec_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/esha-bhatti/esha-bhatti.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/esha-bhatti/esha-bhatti.jpeg",
                 "source_file": {
                   "bytes": 2409049,
                   "md5": "e3f65793d25cf217d5ccf945ffb75b1b",
@@ -90768,7 +90768,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/42be3ed0-59ae-4017-87ec-76dfd144b925_2316x3088.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-in-blue-shirt-portrait.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/psycholo-g/man-in-blue-shirt-portrait.jpeg",
                 "source_file": {
                   "bytes": 1048696,
                   "md5": "d1bd34fd4c4913add30b1746a0fe0965",
@@ -90803,7 +90803,7 @@
               {
                 "index": 2,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/8d53083e-8a65-432f-9fac-a9e4d5055142_1170x2080.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/psycholo-g/man-relaxing-in-pink-hammock.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/psycholo-g/man-relaxing-in-pink-hammock.jpeg",
                 "source_file": {
                   "bytes": 721950,
                   "md5": "8f707e18c006e58468f3230719868737",
@@ -95990,7 +95990,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1724b87a-f0ea-45be-a63e-7cd92657b7bc_4032x3024.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/my-efforts/man-kayaking-near-forest-homes.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/my-efforts/man-kayaking-near-forest-homes.jpeg",
                 "source_file": {
                   "bytes": 8640589,
                   "md5": "5de8a2e3243e44c8582ed0b32cf1c0f4",
@@ -98899,7 +98899,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/719d4479-ac4c-4dc3-b053-93aef877825d_3024x4032.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/a-definitive-understanding-of-human/watermelons-and-tomatoes-at-market.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/a-definitive-understanding-of-human/watermelons-and-tomatoes-at-market.jpeg",
                 "source_file": {
                   "bytes": 4371486,
                   "md5": "32bd14079bdcd6aacb504c31c90a46b9",
@@ -99905,7 +99905,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/586e1db9-bddd-4fe7-9cc3-96572094a422_1332x1302.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/cafe-coding/man-falling-out-of-white-sports-car.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/cafe-coding/man-falling-out-of-white-sports-car.jpeg",
                 "source_file": {
                   "bytes": 542328,
                   "md5": "3d34a3d073a313362a05ae18f6fec8e5",
@@ -100213,7 +100213,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/dd187256-bf62-4e86-9b8c-908f2113d78e_4032x3024.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-happiness-fairy/man-and-woman-at-restaurant.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-happiness-fairy/man-and-woman-at-restaurant.jpeg",
                 "source_file": {
                   "bytes": 1727264,
                   "md5": "179b4d5e227767dc8e7f7f5862f41eb8",
@@ -100467,7 +100467,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/b048d776-b36b-4dfc-8cce-ec423ed5ae84_2316x3088.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/please-stop/friends-at-bar.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/please-stop/friends-at-bar.jpeg",
                 "source_file": {
                   "bytes": 769798,
                   "md5": "e2b156dd035187e63f975b7d651c693e",
@@ -101149,7 +101149,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/32174384-f07f-4685-bd4b-d128156eba6e_1332x1302.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/on-business-5ad/man-falling-out-of-white-sports-car.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/on-business-5ad/man-falling-out-of-white-sports-car.jpeg",
                 "source_file": {
                   "bytes": 542328,
                   "md5": "3d34a3d073a313362a05ae18f6fec8e5",
@@ -101998,7 +101998,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/522ee8d4-fdc1-4cc0-b442-8709d60d9258_4032x3024.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/at-the-pool/group-mirror-selfie.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/at-the-pool/group-mirror-selfie.jpeg",
                 "source_file": {
                   "bytes": 2075771,
                   "md5": "8ced4f22860736ef13c57f79fc7b74cb",
@@ -103396,7 +103396,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1ea389ab-5517-4013-a267-5c2340ad5a02_1200x675.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/virality/blue-ferrari-sports-car.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/virality/blue-ferrari-sports-car.jpeg",
                 "source_file": {
                   "bytes": 238465,
                   "md5": "5d777d46a3b9c7010a701c25b3ca99e1",
@@ -103696,7 +103696,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/590ecdf2-b876-4a0c-b041-f2eedd004ed6_4032x3024.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ew/man-overlooking-machu-picchu.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ew/man-overlooking-machu-picchu.jpeg",
                 "source_file": {
                   "bytes": 1894891,
                   "md5": "cbebc4c6ee67011ff45138261f0f30c8",
@@ -104959,7 +104959,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/762a75de-81d8-4558-bd3c-e9e48daa1d7e_1206x2436.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/the-end-of-labour-fab/wsj-no-raise-no-promotion-screenshot.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/the-end-of-labour-fab/wsj-no-raise-no-promotion-screenshot.jpeg",
                 "source_file": {
                   "bytes": 321942,
                   "md5": "e78d5f627018218f9bf78fe426f9a8b2",
@@ -105896,7 +105896,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/f663aae6-d1dc-4822-8468-4a678db16fe4_1895x2048.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/ai-slop/man-in-yellow-flower-field.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/ai-slop/man-in-yellow-flower-field.jpeg",
                 "source_file": {
                   "bytes": 1202973,
                   "md5": "0b95c853560994dc9746bdac4ed93058",
@@ -106201,7 +106201,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/19765754-9ae3-449f-beff-c8738cb0a013_1216x1214.png",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/why-siri-failed-an-honest-take/machu-picchu-git-commands-meme.png",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/why-siri-failed-an-honest-take/machu-picchu-git-commands-meme.png",
                 "source_file": {
                   "bytes": 2187961,
                   "md5": "4e6078c87b5121cc16c704dcc95092c9",
@@ -107126,7 +107126,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/c45047e0-1971-4b5e-871b-e2d1beb29ae1_2316x3088.jpeg",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/capitalism-on-neptune/shayan-arman-indoor-selfie.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/capitalism-on-neptune/shayan-arman-indoor-selfie.jpeg",
                 "source_file": {
                   "bytes": 1730033,
                   "md5": "381a9648661ef2643b1c3b1a80da9044",
@@ -107505,7 +107505,7 @@
               {
                 "index": 1,
                 "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/9ccb97da-5598-4920-9536-34311fba79d2_3024x4032.heic",
-                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/half-eaten/two-men-with-vespa.jpeg",
+                "s3_uri": "s3://seo-gangster/sites/shayan-arman-blog/public/images/posts/writings/half-eaten/two-men-with-vespa.jpeg",
                 "source_file": {
                   "bytes": 1680768,
                   "md5": "a1ece1e1588ea86aec223c1bdae58bdf",
